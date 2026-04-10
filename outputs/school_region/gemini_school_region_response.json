@@ -1,0 +1,80 @@
+{
+  "school_label": "School at Dessauerstra\u00dfe",
+  "school_feature_index": 0,
+  "selected_road_feature_indices": [
+    7,
+    11,
+    14,
+    16,
+    19,
+    24,
+    42,
+    43,
+    64,
+    96,
+    103,
+    106,
+    113,
+    122,
+    157,
+    182,
+    184,
+    203,
+    4,
+    22,
+    29,
+    36,
+    44,
+    49,
+    58,
+    147,
+    153,
+    168,
+    179,
+    195
+  ],
+  "selected_supporting_feature_indices": [
+    0,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210
+  ],
+  "school_region_polygon": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          13.335,
+          52.423
+        ],
+        [
+          13.35,
+          52.423
+        ],
+        [
+          13.35,
+          52.432
+        ],
+        [
+          13.335,
+          52.432
+        ],
+        [
+          13.335,
+          52.423
+        ]
+      ]
+    ]
+  },
+  "confidence": 0.95,
+  "reasoning": "The school point (index 0) is located on an unnamed access path (index 24) connected to Dessauerstra\u00dfe. Dessauerstra\u00dfe serves as the primary corridor passing the school, and Gallwitzallee provides the broader context with explicit school-zone speed limit signage (indices 204-210). The selection includes the continuous road segments for both streets to define the school zone corridor.",
+  "notes": [
+    "Dessauerstra\u00dfe indices: 42, 113, 157, 184, 203, 103, 16, 19, 11, 122, 106, 96, 14, 43, 64, 182.",
+    "Gallwitzallee indices: 29, 4, 22, 49, 147, 58, 44, 179, 168, 195, 36, 153.",
+    "Supporting features include the school point and V30 speed limit signs."
+  ]
+}

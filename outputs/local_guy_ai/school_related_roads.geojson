@@ -1,0 +1,958 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34367,
+          52.4276
+        ]
+      },
+      "properties": {
+        "feature_type": "school",
+        "sample_index": 0,
+        "sample_label": "School",
+        "source": "school_point",
+        "output_role": "school_point",
+        "source_feature_index": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34217,
+            52.42735
+          ],
+          [
+            13.3422,
+            52.42736
+          ],
+          [
+            13.34313,
+            52.42775
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.2",
+        "road_id": "b245eaee-ed61-4bf2-ad37-bb6e6784bb42",
+        "output_role": "school_related_road",
+        "source_feature_index": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34424,
+            52.42818
+          ],
+          [
+            13.34444,
+            52.42824
+          ],
+          [
+            13.34471,
+            52.42834
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28",
+        "road_id": "cb63b5c2-7227-4c27-991d-9e01095c4546",
+        "output_role": "school_related_road",
+        "source_feature_index": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34138,
+            52.42701
+          ],
+          [
+            13.34217,
+            52.42735
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.25",
+        "road_id": "f546b0ca-0b98-4910-be6d-b8abdd723069",
+        "output_role": "school_related_road",
+        "source_feature_index": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34367,
+            52.4276
+          ],
+          [
+            13.34382,
+            52.42767
+          ],
+          [
+            13.34385,
+            52.42772
+          ],
+          [
+            13.34382,
+            52.42778
+          ],
+          [
+            13.34367,
+            52.42796
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.1",
+        "road_id": "bac0c8ab-df87-4f19-8a6a-03eee9bfea6d",
+        "output_role": "school_related_road",
+        "source_feature_index": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34471,
+            52.42834
+          ],
+          [
+            13.345,
+            52.42845
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.4",
+        "road_id": "53d3f137-43f4-4017-b036-88078b9ca828",
+        "output_role": "school_related_road",
+        "source_feature_index": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.345,
+            52.42845
+          ],
+          [
+            13.3452,
+            52.42852
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.15",
+        "road_id": "62ab6405-f277-4460-ab04-0dc5f1bcd1c8",
+        "output_role": "school_related_road",
+        "source_feature_index": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34405,
+            52.42811
+          ],
+          [
+            13.34424,
+            52.42818
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.55",
+        "road_id": "ae05eb5f-9ed3-42ee-b951-83623b7c074e",
+        "output_role": "school_related_road",
+        "source_feature_index": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34367,
+            52.42796
+          ],
+          [
+            13.34405,
+            52.42811
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "26.5",
+        "road_id": "ba96d4df-d12c-4353-a632-5cb580685baf",
+        "output_role": "school_related_road",
+        "source_feature_index": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34313,
+            52.42775
+          ],
+          [
+            13.34333,
+            52.42783
+          ],
+          [
+            13.34367,
+            52.42796
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.35",
+        "road_id": "8d3bb159-69c8-428a-ab50-79e84f3c2508",
+        "output_role": "school_related_road",
+        "source_feature_index": 122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3452,
+            52.42852
+          ],
+          [
+            13.34535,
+            52.42858
+          ],
+          [
+            13.34585,
+            52.42875
+          ],
+          [
+            13.34608,
+            52.42881
+          ],
+          [
+            13.34634,
+            52.42886
+          ],
+          [
+            13.34687,
+            52.42891
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.45",
+        "road_id": "eafe7ae0-7224-4bb1-8b02-24decebc0a10",
+        "output_role": "school_related_road",
+        "source_feature_index": 182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34789,
+            52.42436
+          ],
+          [
+            13.34787,
+            52.42441
+          ],
+          [
+            13.34784,
+            52.42454
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "d1a8f1f7-360a-4b17-9eb0-e8b3b3eaa855",
+        "output_role": "school_related_road",
+        "source_feature_index": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34784,
+            52.42454
+          ],
+          [
+            13.34779,
+            52.42472
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "981f3ad8-b8bf-4f6f-aced-f7b55725a0ca",
+        "output_role": "school_related_road",
+        "source_feature_index": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34806,
+            52.42391
+          ],
+          [
+            13.348,
+            52.42406
+          ],
+          [
+            13.34793,
+            52.42425
+          ],
+          [
+            13.34789,
+            52.42436
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "130fb05e-922c-4254-8df5-d4a8a81b2a56",
+        "output_role": "school_related_road",
+        "source_feature_index": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34694,
+            52.42858
+          ],
+          [
+            13.34687,
+            52.42891
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24.6",
+        "road_id": "8ee4df43-50ff-4a34-99cf-baad96284ad2",
+        "output_role": "school_related_road",
+        "source_feature_index": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34748,
+            52.42612
+          ],
+          [
+            13.34734,
+            52.42653
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.1",
+        "road_id": "9e0c0bb3-586c-4a71-abbb-ed6f4faf0c77",
+        "output_role": "school_related_road",
+        "source_feature_index": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34779,
+            52.42472
+          ],
+          [
+            13.34777,
+            52.4248
+          ],
+          [
+            13.34763,
+            52.42553
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.6",
+        "road_id": "158e87c9-abd7-4db2-a1c5-8fc4613a4b6f",
+        "output_role": "school_related_road",
+        "source_feature_index": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3476,
+            52.42568
+          ],
+          [
+            13.34756,
+            52.42585
+          ],
+          [
+            13.34753,
+            52.42597
+          ],
+          [
+            13.34748,
+            52.42612
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "37.45",
+        "road_id": "2c4674a6-98d2-41fd-83d2-7f3de6501531",
+        "output_role": "school_related_road",
+        "source_feature_index": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34763,
+            52.42553
+          ],
+          [
+            13.3476,
+            52.42568
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "36.65",
+        "road_id": "e9955cdb-0846-471c-bbb5-f9dd305913c2",
+        "output_role": "school_related_road",
+        "source_feature_index": 147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34779,
+            52.42472
+          ],
+          [
+            13.34806,
+            52.42477
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.95",
+        "road_id": "09c7e352-2327-4321-80e2-051ff0833cc2",
+        "output_role": "school_related_road",
+        "source_feature_index": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34687,
+            52.42891
+          ],
+          [
+            13.34673,
+            52.42969
+          ],
+          [
+            13.34654,
+            52.43074
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.6",
+        "road_id": "1e54cf49-7d2d-4891-a090-4da3aa66c3d0",
+        "output_role": "school_related_road",
+        "source_feature_index": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34748,
+            52.42612
+          ],
+          [
+            13.34764,
+            52.42614
+          ],
+          [
+            13.34774,
+            52.42616
+          ],
+          [
+            13.34784,
+            52.42619
+          ],
+          [
+            13.34793,
+            52.42624
+          ],
+          [
+            13.34803,
+            52.42631
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.2",
+        "road_id": "83c349be-c6f1-487b-99a5-1f759605ee79",
+        "output_role": "school_related_road",
+        "source_feature_index": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34709,
+            52.42772
+          ],
+          [
+            13.34704,
+            52.42799
+          ],
+          [
+            13.34697,
+            52.42843
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.8",
+        "road_id": "07588fef-0838-4112-8cd7-4f793c6ade08",
+        "output_role": "school_related_road",
+        "source_feature_index": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34734,
+            52.42653
+          ],
+          [
+            13.34728,
+            52.42674
+          ],
+          [
+            13.34715,
+            52.42742
+          ],
+          [
+            13.34709,
+            52.42772
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "38.4",
+        "road_id": "87f58399-403e-406f-9ddf-4aab670af2dc",
+        "output_role": "school_related_road",
+        "source_feature_index": 179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34697,
+            52.42843
+          ],
+          [
+            13.34694,
+            52.42858
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.15",
+        "road_id": "9e693f16-85e4-4bd2-9a94-5d68892449dd",
+        "output_role": "school_related_road",
+        "source_feature_index": 195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347473,
+          52.42568
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "208",
+        "output_role": "supporting_feature",
+        "source_feature_index": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347841,
+          52.424778
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "19",
+        "output_role": "supporting_feature",
+        "source_feature_index": 205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347552,
+          52.425575
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "218",
+        "output_role": "supporting_feature",
+        "source_feature_index": 206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347761,
+          52.424507
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "197",
+        "output_role": "supporting_feature",
+        "source_feature_index": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34781,
+          52.424297
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "26",
+        "output_role": "supporting_feature",
+        "source_feature_index": 208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347538,
+          52.42558
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "200",
+        "output_role": "supporting_feature",
+        "source_feature_index": 209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347509,
+          52.425537
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "207",
+        "output_role": "supporting_feature",
+        "source_feature_index": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.341,
+              52.423
+            ],
+            [
+              13.349,
+              52.423
+            ],
+            [
+              13.349,
+              52.43
+            ],
+            [
+              13.341,
+              52.43
+            ],
+            [
+              13.341,
+              52.423
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "output_role": "inferred_school_region",
+        "source_feature_index": null,
+        "style_stroke_color": "#FF3B30",
+        "style_stroke_width": 2,
+        "style_fill_color": "#00000000",
+        "style_fill_opacity": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_by": "Gemini via LangChain (local_guy_ai)",
+    "model": "gemini-3-flash-preview",
+    "input_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\sample_school_contexts.geojson",
+    "output_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\outputs\\local_guy_ai\\school_related_roads.geojson",
+    "confidence": 0.95,
+    "school_label": "School Zone near Dessauerstra\u00dfe and Gallwitzallee",
+    "reasoning": "Index 0 is identified as the primary school point. Roads were selected based on direct adjacency to the school point (Dessauerstra\u00dfe and unnamed road 24) and proximity to identified school zone speed limit signs (Gallwitzallee). The selection follows the logical path from the school building to the regulated traffic zones.",
+    "notes": [
+      "The school zone encompasses the immediate vicinity of the school point and extends to a section of Gallwitzallee where multiple school zone speed limit signs (SchoolZone3, SpeedLimit2V30) are located.",
+      "Dessauerstra\u00dfe appears to be the main access road for the school point."
+    ]
+  }
+}

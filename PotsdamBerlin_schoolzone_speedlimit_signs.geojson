@@ -1,0 +1,5874 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "VPD",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227869, 52.39785 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.39785,
+				"pole_longitude" : 13.227869,
+				"pole_bearing" : 73,
+				"ndetections" : 221,
+				"speedlimit_gfrgroup" : "SpeedLimit2V10",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227869, 52.39785 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.39785,
+				"pole_longitude" : 13.227869,
+				"pole_bearing" : 73,
+				"ndetections" : 221,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.264324, 52.434013 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251124",
+				"pole_latitude" : 52.434013,
+				"pole_longitude" : 13.264324,
+				"pole_bearing" : 5,
+				"ndetections" : 428,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256489, 52.43555 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251124",
+				"pole_latitude" : 52.43555,
+				"pole_longitude" : 13.256489,
+				"pole_bearing" : 118,
+				"ndetections" : 1212,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.262801, 52.439 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251006",
+				"pole_latitude" : 52.439,
+				"pole_longitude" : 13.262801,
+				"pole_bearing" : 26,
+				"ndetections" : 231,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.309809, 52.420937 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.420937,
+				"pole_longitude" : 13.309809,
+				"pole_bearing" : 246,
+				"ndetections" : 448,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.313856, 52.436577 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250915",
+				"pole_latitude" : 52.436577,
+				"pole_longitude" : 13.313856,
+				"pole_bearing" : 10,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.268745, 52.447975 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.447975,
+				"pole_longitude" : 13.268745,
+				"pole_bearing" : 229,
+				"ndetections" : 793,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.257884, 52.436604 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.436604,
+				"pole_longitude" : 13.257884,
+				"pole_bearing" : 4,
+				"ndetections" : 239,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.262968, 52.43907 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.43907,
+				"pole_longitude" : 13.262968,
+				"pole_bearing" : 1,
+				"ndetections" : 460,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.3143835, 52.42403 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.42403,
+				"pole_longitude" : 13.3143835,
+				"pole_bearing" : 226,
+				"ndetections" : 148,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.306564, 52.434006 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251208",
+				"pole_latitude" : 52.434006,
+				"pole_longitude" : 13.306564,
+				"pole_bearing" : 150,
+				"ndetections" : 345,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.092919, 52.391018 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.391018,
+				"pole_longitude" : 13.092919,
+				"pole_bearing" : 280,
+				"ndetections" : 7,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.171522, 52.446426 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.446426,
+				"pole_longitude" : 13.171522,
+				"pole_bearing" : 319,
+				"ndetections" : 10,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.059669, 52.385063 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.385063,
+				"pole_longitude" : 13.059669,
+				"pole_bearing" : 103,
+				"ndetections" : 15,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.265919, 52.416576 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250811",
+				"pole_latitude" : 52.416576,
+				"pole_longitude" : 13.265919,
+				"pole_bearing" : 194,
+				"ndetections" : 357,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.312883, 52.422863 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250630",
+				"pole_latitude" : 52.422863,
+				"pole_longitude" : 13.312883,
+				"pole_bearing" : 232,
+				"ndetections" : 257,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227739, 52.398094 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.398094,
+				"pole_longitude" : 13.227739,
+				"pole_bearing" : 31,
+				"ndetections" : 389,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227739, 52.398094 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.398094,
+				"pole_longitude" : 13.227739,
+				"pole_bearing" : 31,
+				"ndetections" : 389,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalDayModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.231728, 52.407806 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.407806,
+				"pole_longitude" : 13.231728,
+				"pole_bearing" : 163,
+				"ndetections" : 494,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.231728, 52.407806 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.407806,
+				"pole_longitude" : 13.231728,
+				"pole_bearing" : 163,
+				"ndetections" : 494,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.234746, 52.406044 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.406044,
+				"pole_longitude" : 13.234746,
+				"pole_bearing" : 328,
+				"ndetections" : 365,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.123548, 52.39521 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39521,
+				"pole_longitude" : 13.123548,
+				"pole_bearing" : 297,
+				"ndetections" : 55,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227604, 52.398155 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251124",
+				"pole_latitude" : 52.398155,
+				"pole_longitude" : 13.227604,
+				"pole_bearing" : 32,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.265568, 52.416622 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.416622,
+				"pole_longitude" : 13.265568,
+				"pole_bearing" : 147,
+				"ndetections" : 380,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.288149, 52.407856 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.407856,
+				"pole_longitude" : 13.288149,
+				"pole_bearing" : 87,
+				"ndetections" : 252,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227635, 52.397987 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250922",
+				"pole_latitude" : 52.397987,
+				"pole_longitude" : 13.227635,
+				"pole_bearing" : 332,
+				"ndetections" : 238,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255079, 52.43549 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43549,
+				"pole_longitude" : 13.255079,
+				"pole_bearing" : 101,
+				"ndetections" : 1940,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.297107, 52.442505 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.442505,
+				"pole_longitude" : 13.297107,
+				"pole_bearing" : 169,
+				"ndetections" : 561,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.326664, 52.427906 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250407",
+				"pole_latitude" : 52.427906,
+				"pole_longitude" : 13.326664,
+				"pole_bearing" : 268,
+				"ndetections" : 22,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.312077, 52.421898 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.421898,
+				"pole_longitude" : 13.312077,
+				"pole_bearing" : 74,
+				"ndetections" : 863,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.143756, 52.413754 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251208",
+				"pole_latitude" : 52.413754,
+				"pole_longitude" : 13.143756,
+				"pole_bearing" : 355,
+				"ndetections" : 382,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.218888, 52.404774 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250908",
+				"pole_latitude" : 52.404774,
+				"pole_longitude" : 13.218888,
+				"pole_bearing" : 332,
+				"ndetections" : 11,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.312453, 52.422207 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.422207,
+				"pole_longitude" : 13.312453,
+				"pole_bearing" : 68,
+				"ndetections" : 461,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.251862, 52.448532 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.448532,
+				"pole_longitude" : 13.251862,
+				"pole_bearing" : 198,
+				"ndetections" : 273,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2568035, 52.437996 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251208",
+				"pole_latitude" : 52.437996,
+				"pole_longitude" : 13.2568035,
+				"pole_bearing" : 59,
+				"ndetections" : 235,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.303251, 52.432278 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.432278,
+				"pole_longitude" : 13.303251,
+				"pole_bearing" : 266,
+				"ndetections" : 216,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.293607, 52.445587 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.445587,
+				"pole_longitude" : 13.293607,
+				"pole_bearing" : 173,
+				"ndetections" : 678,
+				"speedlimit_gfrgroup" : "SpeedLimit2V15",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256273, 52.435642 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435642,
+				"pole_longitude" : 13.256273,
+				"pole_bearing" : 104,
+				"ndetections" : 1171,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.274225, 52.430912 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260126",
+				"pole_latitude" : 52.430912,
+				"pole_longitude" : 13.274225,
+				"pole_bearing" : 96,
+				"ndetections" : 261,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.264789, 52.4333 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.4333,
+				"pole_longitude" : 13.264789,
+				"pole_bearing" : 6,
+				"ndetections" : 251,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.259225, 52.43512 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.43512,
+				"pole_longitude" : 13.259225,
+				"pole_bearing" : 246,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256718, 52.43796 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43796,
+				"pole_longitude" : 13.256718,
+				"pole_bearing" : 176,
+				"ndetections" : 235,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307139, 52.433426 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.433426,
+				"pole_longitude" : 13.307139,
+				"pole_bearing" : 174,
+				"ndetections" : 381,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.240099, 52.44262 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250901",
+				"pole_latitude" : 52.44262,
+				"pole_longitude" : 13.240099,
+				"pole_bearing" : 44,
+				"ndetections" : 602,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311653, 52.421886 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.421886,
+				"pole_longitude" : 13.311653,
+				"pole_bearing" : 255,
+				"ndetections" : 494,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.31323, 52.430546 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.430546,
+				"pole_longitude" : 13.31323,
+				"pole_bearing" : 292,
+				"ndetections" : 466,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227516, 52.39814 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250707",
+				"pole_latitude" : 52.39814,
+				"pole_longitude" : 13.227516,
+				"pole_bearing" : 12,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.220128, 52.391346 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.391346,
+				"pole_longitude" : 13.220128,
+				"pole_bearing" : 249,
+				"ndetections" : 215,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255458, 52.435505 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.435505,
+				"pole_longitude" : 13.255458,
+				"pole_bearing" : 110,
+				"ndetections" : 327,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.31481, 52.424145 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.424145,
+				"pole_longitude" : 13.31481,
+				"pole_bearing" : 244,
+				"ndetections" : 379,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229997, 52.430943 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.430943,
+				"pole_longitude" : 13.229997,
+				"pole_bearing" : 322,
+				"ndetections" : 244,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.331489, 52.426373 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.426373,
+				"pole_longitude" : 13.331489,
+				"pole_bearing" : 192,
+				"ndetections" : 159,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227064, 52.412086 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.412086,
+				"pole_longitude" : 13.227064,
+				"pole_bearing" : 203,
+				"ndetections" : 171,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.228876, 52.409668 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.409668,
+				"pole_longitude" : 13.228876,
+				"pole_bearing" : 330,
+				"ndetections" : 112,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.055456, 52.403156 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.403156,
+				"pole_longitude" : 13.055456,
+				"pole_bearing" : 104,
+				"ndetections" : 71,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229176, 52.40945 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.40945,
+				"pole_longitude" : 13.229176,
+				"pole_bearing" : 169,
+				"ndetections" : 85,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.268196, 52.446342 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250818",
+				"pole_latitude" : 52.446342,
+				"pole_longitude" : 13.268196,
+				"pole_bearing" : 49,
+				"ndetections" : 724,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.137212, 52.363544 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.363544,
+				"pole_longitude" : 13.137212,
+				"pole_bearing" : 8,
+				"ndetections" : 42,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.062192, 52.404263 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251027",
+				"pole_latitude" : 52.404263,
+				"pole_longitude" : 13.062192,
+				"pole_bearing" : 265,
+				"ndetections" : 445,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.310624, 52.421272 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250602",
+				"pole_latitude" : 52.421272,
+				"pole_longitude" : 13.310624,
+				"pole_bearing" : 288,
+				"ndetections" : 245,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227304, 52.411465 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.411465,
+				"pole_longitude" : 13.227304,
+				"pole_bearing" : 28,
+				"ndetections" : 114,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.065793, 52.398235 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251020",
+				"pole_latitude" : 52.398235,
+				"pole_longitude" : 13.065793,
+				"pole_bearing" : 126,
+				"ndetections" : 4,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.349871, 52.412636 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.412636,
+				"pole_longitude" : 13.349871,
+				"pole_bearing" : 35,
+				"ndetections" : 92,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.30656, 52.434013 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.434013,
+				"pole_longitude" : 13.30656,
+				"pole_bearing" : 174,
+				"ndetections" : 345,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.220641, 52.39162 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39162,
+				"pole_longitude" : 13.220641,
+				"pole_bearing" : 213,
+				"ndetections" : 1323,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.232248, 52.39537 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39537,
+				"pole_longitude" : 13.232248,
+				"pole_bearing" : 359,
+				"ndetections" : 18,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.313765, 52.427128 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.427128,
+				"pole_longitude" : 13.313765,
+				"pole_bearing" : 30,
+				"ndetections" : 84,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.32626, 52.427742 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.427742,
+				"pole_longitude" : 13.32626,
+				"pole_bearing" : 239,
+				"ndetections" : 308,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227123, 52.399277 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.399277,
+				"pole_longitude" : 13.227123,
+				"pole_bearing" : 192,
+				"ndetections" : 281,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.086027, 52.392166 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.392166,
+				"pole_longitude" : 13.086027,
+				"pole_bearing" : 114,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.23004, 52.431458 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.431458,
+				"pole_longitude" : 13.23004,
+				"pole_bearing" : 19,
+				"ndetections" : 714,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227445, 52.410774 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.410774,
+				"pole_longitude" : 13.227445,
+				"pole_bearing" : 8,
+				"ndetections" : 123,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.135827, 52.36425 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.36425,
+				"pole_longitude" : 13.135827,
+				"pole_bearing" : 161,
+				"ndetections" : 47,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.331422, 52.42637 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251117",
+				"pole_latitude" : 52.42637,
+				"pole_longitude" : 13.331422,
+				"pole_bearing" : 200,
+				"ndetections" : 159,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.06224, 52.404232 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.404232,
+				"pole_longitude" : 13.06224,
+				"pole_bearing" : 298,
+				"ndetections" : 445,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.348047, 52.423737 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.423737,
+				"pole_longitude" : 13.348047,
+				"pole_bearing" : 192,
+				"ndetections" : 206,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.331329, 52.426476 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250818",
+				"pole_latitude" : 52.426476,
+				"pole_longitude" : 13.331329,
+				"pole_bearing" : 227,
+				"ndetections" : 156,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2456455, 52.421436 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250922",
+				"pole_latitude" : 52.421436,
+				"pole_longitude" : 13.2456455,
+				"pole_bearing" : 165,
+				"ndetections" : 359,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.347473, 52.42568 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.42568,
+				"pole_longitude" : 13.347473,
+				"pole_bearing" : 208,
+				"ndetections" : 332,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.336783, 52.418526 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251229",
+				"pole_latitude" : 52.418526,
+				"pole_longitude" : 13.336783,
+				"pole_bearing" : 115,
+				"ndetections" : 145,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.262909, 52.430305 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.430305,
+				"pole_longitude" : 13.262909,
+				"pole_bearing" : 87,
+				"ndetections" : 281,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.308649, 52.43039 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250331",
+				"pole_latitude" : 52.43039,
+				"pole_longitude" : 13.308649,
+				"pole_bearing" : 63,
+				"ndetections" : 399,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.246562, 52.4209 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250728",
+				"pole_latitude" : 52.4209,
+				"pole_longitude" : 13.246562,
+				"pole_bearing" : 346,
+				"ndetections" : 149,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2272835, 52.411472 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.411472,
+				"pole_longitude" : 13.2272835,
+				"pole_bearing" : 20,
+				"ndetections" : 99,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.3061, 52.419106 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.419106,
+				"pole_longitude" : 13.3061,
+				"pole_bearing" : 49,
+				"ndetections" : 474,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.305058, 52.435368 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435368,
+				"pole_longitude" : 13.305058,
+				"pole_bearing" : 174,
+				"ndetections" : 403,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.25032, 52.417965 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.417965,
+				"pole_longitude" : 13.25032,
+				"pole_bearing" : 195,
+				"ndetections" : 124,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.059891, 52.385094 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.385094,
+				"pole_longitude" : 13.059891,
+				"pole_bearing" : 92,
+				"ndetections" : 395,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.313412, 52.423073 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251124",
+				"pole_latitude" : 52.423073,
+				"pole_longitude" : 13.313412,
+				"pole_bearing" : 64,
+				"ndetections" : 565,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.257848, 52.435585 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435585,
+				"pole_longitude" : 13.257848,
+				"pole_bearing" : 280,
+				"ndetections" : 638,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.218907, 52.39038 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39038,
+				"pole_longitude" : 13.218907,
+				"pole_bearing" : 67,
+				"ndetections" : 324,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256801, 52.428886 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.428886,
+				"pole_longitude" : 13.256801,
+				"pole_bearing" : 83,
+				"ndetections" : 321,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256263, 52.435665 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435665,
+				"pole_longitude" : 13.256263,
+				"pole_bearing" : 108,
+				"ndetections" : 1175,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.347841, 52.424778 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.424778,
+				"pole_longitude" : 13.347841,
+				"pole_bearing" : 19,
+				"ndetections" : 196,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.261809, 52.43772 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.43772,
+				"pole_longitude" : 13.261809,
+				"pole_bearing" : 354,
+				"ndetections" : 549,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.22708, 52.412533 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.412533,
+				"pole_longitude" : 13.22708,
+				"pole_bearing" : 18,
+				"ndetections" : 104,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.257845, 52.435574 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250804",
+				"pole_latitude" : 52.435574,
+				"pole_longitude" : 13.257845,
+				"pole_bearing" : 297,
+				"ndetections" : 281,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.262971, 52.439148 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260105",
+				"pole_latitude" : 52.439148,
+				"pole_longitude" : 13.262971,
+				"pole_bearing" : 281,
+				"ndetections" : 296,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.120463, 52.383472 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251013",
+				"pole_latitude" : 52.383472,
+				"pole_longitude" : 13.120463,
+				"pole_bearing" : 141,
+				"ndetections" : 140,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.228892, 52.409523 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251013",
+				"pole_latitude" : 52.409523,
+				"pole_longitude" : 13.228892,
+				"pole_bearing" : 166,
+				"ndetections" : 112,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2349825, 52.40582 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.40582,
+				"pole_longitude" : 13.2349825,
+				"pole_bearing" : 349,
+				"ndetections" : 334,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.304238, 52.43232 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43232,
+				"pole_longitude" : 13.304238,
+				"pole_bearing" : 319,
+				"ndetections" : 43,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.298949, 52.412193 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250922",
+				"pole_latitude" : 52.412193,
+				"pole_longitude" : 13.298949,
+				"pole_bearing" : 267,
+				"ndetections" : 309,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.305024, 52.435364 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250811",
+				"pole_latitude" : 52.435364,
+				"pole_longitude" : 13.305024,
+				"pole_bearing" : 182,
+				"ndetections" : 403,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.25183, 52.448612 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251208",
+				"pole_latitude" : 52.448612,
+				"pole_longitude" : 13.25183,
+				"pole_bearing" : 20,
+				"ndetections" : 110,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.251853, 52.448566 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.448566,
+				"pole_longitude" : 13.251853,
+				"pole_bearing" : 199,
+				"ndetections" : 273,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.259333, 52.43528 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43528,
+				"pole_longitude" : 13.259333,
+				"pole_bearing" : 262,
+				"ndetections" : 2568,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.303188, 52.432373 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.432373,
+				"pole_longitude" : 13.303188,
+				"pole_bearing" : 301,
+				"ndetections" : 164,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.23061, 52.40859 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.40859,
+				"pole_longitude" : 13.23061,
+				"pole_bearing" : 343,
+				"ndetections" : 115,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.135136, 52.366417 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.366417,
+				"pole_longitude" : 13.135136,
+				"pole_bearing" : 270,
+				"ndetections" : 14,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.063004, 52.402523 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.402523,
+				"pole_longitude" : 13.063004,
+				"pole_bearing" : 15,
+				"ndetections" : 134,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.251672, 52.41329 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.41329,
+				"pole_longitude" : 13.251672,
+				"pole_bearing" : 28,
+				"ndetections" : 16,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256808, 52.437954 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.437954,
+				"pole_longitude" : 13.256808,
+				"pole_bearing" : 246,
+				"ndetections" : 235,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311941, 52.421642 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250421",
+				"pole_latitude" : 52.421642,
+				"pole_longitude" : 13.311941,
+				"pole_bearing" : 64,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230895, 52.408325 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.408325,
+				"pole_longitude" : 13.230895,
+				"pole_bearing" : 163,
+				"ndetections" : 94,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.121072, 52.396515 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.396515,
+				"pole_longitude" : 13.121072,
+				"pole_bearing" : 162,
+				"ndetections" : 60,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.251854, 52.448505 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.448505,
+				"pole_longitude" : 13.251854,
+				"pole_bearing" : 192,
+				"ndetections" : 273,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.283345, 52.406197 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250324",
+				"pole_latitude" : 52.406197,
+				"pole_longitude" : 13.283345,
+				"pole_bearing" : 256,
+				"ndetections" : 279,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.259349, 52.43539 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.43539,
+				"pole_longitude" : 13.259349,
+				"pole_bearing" : 312,
+				"ndetections" : 2421,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.283824, 52.40635 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250901",
+				"pole_latitude" : 52.40635,
+				"pole_longitude" : 13.283824,
+				"pole_bearing" : 77,
+				"ndetections" : 326,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.206393, 52.402218 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.402218,
+				"pole_longitude" : 13.206393,
+				"pole_bearing" : 19,
+				"ndetections" : 11,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.114828, 52.394245 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250707",
+				"pole_latitude" : 52.394245,
+				"pole_longitude" : 13.114828,
+				"pole_bearing" : 43,
+				"ndetections" : 74,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.312466, 52.42201 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250428",
+				"pole_latitude" : 52.42201,
+				"pole_longitude" : 13.312466,
+				"pole_bearing" : 71,
+				"ndetections" : 81,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.30926, 52.431908 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250707",
+				"pole_latitude" : 52.431908,
+				"pole_longitude" : 13.30926,
+				"pole_bearing" : 47,
+				"ndetections" : 383,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.264327, 52.43401 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43401,
+				"pole_longitude" : 13.264327,
+				"pole_bearing" : 7,
+				"ndetections" : 428,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.326811, 52.4399 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.4399,
+				"pole_longitude" : 13.326811,
+				"pole_bearing" : 276,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V10",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.303831, 52.432384 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251208",
+				"pole_latitude" : 52.432384,
+				"pole_longitude" : 13.303831,
+				"pole_bearing" : 302,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.103421, 52.341316 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.341316,
+				"pole_longitude" : 13.103421,
+				"pole_bearing" : 283,
+				"ndetections" : 20,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.347552, 52.425575 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.425575,
+				"pole_longitude" : 13.347552,
+				"pole_bearing" : 218,
+				"ndetections" : 450,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.250672, 52.41735 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.41735,
+				"pole_longitude" : 13.250672,
+				"pole_bearing" : 17,
+				"ndetections" : 109,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.261106, 52.436172 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.436172,
+				"pole_longitude" : 13.261106,
+				"pole_bearing" : 355,
+				"ndetections" : 651,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.112295, 52.3938 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.3938,
+				"pole_longitude" : 13.112295,
+				"pole_bearing" : 104,
+				"ndetections" : 89,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.336668, 52.418556 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.418556,
+				"pole_longitude" : 13.336668,
+				"pole_bearing" : 197,
+				"ndetections" : 145,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.219182, 52.390575 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.390575,
+				"pole_longitude" : 13.219182,
+				"pole_bearing" : 63,
+				"ndetections" : 363,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.205755, 52.404076 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.404076,
+				"pole_longitude" : 13.205755,
+				"pole_bearing" : 244,
+				"ndetections" : 20,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256112, 52.435646 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.435646,
+				"pole_longitude" : 13.256112,
+				"pole_bearing" : 106,
+				"ndetections" : 991,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.257725, 52.435642 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.435642,
+				"pole_longitude" : 13.257725,
+				"pole_bearing" : 293,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.262017, 52.437515 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250929",
+				"pole_latitude" : 52.437515,
+				"pole_longitude" : 13.262017,
+				"pole_bearing" : 152,
+				"ndetections" : 579,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.233588, 52.394005 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.394005,
+				"pole_longitude" : 13.233588,
+				"pole_bearing" : 357,
+				"ndetections" : 18,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.350166, 52.414276 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.414276,
+				"pole_longitude" : 13.350166,
+				"pole_bearing" : 214,
+				"ndetections" : 183,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.29514, 52.410805 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250929",
+				"pole_latitude" : 52.410805,
+				"pole_longitude" : 13.29514,
+				"pole_bearing" : 263,
+				"ndetections" : 522,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.336514, 52.4189 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.4189,
+				"pole_longitude" : 13.336514,
+				"pole_bearing" : 194,
+				"ndetections" : 140,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.225208, 52.421112 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.421112,
+				"pole_longitude" : 13.225208,
+				"pole_bearing" : 20,
+				"ndetections" : 612,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalDayModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.220424, 52.391525 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.391525,
+				"pole_longitude" : 13.220424,
+				"pole_bearing" : 240,
+				"ndetections" : 351,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.231633, 52.407948 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.407948,
+				"pole_longitude" : 13.231633,
+				"pole_bearing" : 342,
+				"ndetections" : 119,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.300039, 52.43979 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250818",
+				"pole_latitude" : 52.43979,
+				"pole_longitude" : 13.300039,
+				"pole_bearing" : 49,
+				"ndetections" : 112,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311294, 52.42143 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250428",
+				"pole_latitude" : 52.42143,
+				"pole_longitude" : 13.311294,
+				"pole_bearing" : 67,
+				"ndetections" : 23,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2298765, 52.43144 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250428",
+				"pole_latitude" : 52.43144,
+				"pole_longitude" : 13.2298765,
+				"pole_bearing" : 346,
+				"ndetections" : 343,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230013, 52.431667 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260105",
+				"pole_latitude" : 52.431667,
+				"pole_longitude" : 13.230013,
+				"pole_bearing" : 6,
+				"ndetections" : 346,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255052, 52.43573 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.43573,
+				"pole_longitude" : 13.255052,
+				"pole_bearing" : 44,
+				"ndetections" : 1547,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.23225, 52.395374 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.395374,
+				"pole_longitude" : 13.23225,
+				"pole_bearing" : 245,
+				"ndetections" : 18,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.310465, 52.42121 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.42121,
+				"pole_longitude" : 13.310465,
+				"pole_bearing" : 246,
+				"ndetections" : 453,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229129, 52.425888 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251222",
+				"pole_latitude" : 52.425888,
+				"pole_longitude" : 13.229129,
+				"pole_bearing" : 34,
+				"ndetections" : 942,
+				"speedlimit_gfrgroup" : "SpeedLimit2V25",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.226727, 52.413837 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.413837,
+				"pole_longitude" : 13.226727,
+				"pole_bearing" : 198,
+				"ndetections" : 152,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.347761, 52.424507 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.424507,
+				"pole_longitude" : 13.347761,
+				"pole_bearing" : 197,
+				"ndetections" : 203,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.215745, 52.42598 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.42598,
+				"pole_longitude" : 13.215745,
+				"pole_bearing" : 11,
+				"ndetections" : 12,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.320698, 52.4299 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.4299,
+				"pole_longitude" : 13.320698,
+				"pole_bearing" : 329,
+				"ndetections" : 403,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.306332, 52.43435 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.43435,
+				"pole_longitude" : 13.306332,
+				"pole_bearing" : 332,
+				"ndetections" : 424,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229884, 52.40896 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.40896,
+				"pole_longitude" : 13.229884,
+				"pole_bearing" : 162,
+				"ndetections" : 90,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.34781, 52.424297 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250901",
+				"pole_latitude" : 52.424297,
+				"pole_longitude" : 13.34781,
+				"pole_bearing" : 26,
+				"ndetections" : 186,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.263608, 52.434917 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.434917,
+				"pole_longitude" : 13.263608,
+				"pole_bearing" : 187,
+				"ndetections" : 569,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311909, 52.422062 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250623",
+				"pole_latitude" : 52.422062,
+				"pole_longitude" : 13.311909,
+				"pole_bearing" : 74,
+				"ndetections" : 64,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.135428, 52.364582 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250929",
+				"pole_latitude" : 52.364582,
+				"pole_longitude" : 13.135428,
+				"pole_bearing" : 309,
+				"ndetections" : 47,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.306921, 52.41965 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.41965,
+				"pole_longitude" : 13.306921,
+				"pole_bearing" : 247,
+				"ndetections" : 469,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229954, 52.431015 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.431015,
+				"pole_longitude" : 13.229954,
+				"pole_bearing" : 348,
+				"ndetections" : 760,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311915, 52.422028 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251006",
+				"pole_latitude" : 52.422028,
+				"pole_longitude" : 13.311915,
+				"pole_bearing" : 246,
+				"ndetections" : 268,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.32071, 52.4299 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250331",
+				"pole_latitude" : 52.4299,
+				"pole_longitude" : 13.32071,
+				"pole_bearing" : 330,
+				"ndetections" : 448,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.121582, 52.383324 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.383324,
+				"pole_longitude" : 13.121582,
+				"pole_bearing" : 314,
+				"ndetections" : 143,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.310679, 52.42123 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251124",
+				"pole_latitude" : 52.42123,
+				"pole_longitude" : 13.310679,
+				"pole_bearing" : 309,
+				"ndetections" : 568,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.312317, 52.42198 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.42198,
+				"pole_longitude" : 13.312317,
+				"pole_bearing" : 68,
+				"ndetections" : 104,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2550955, 52.435482 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.435482,
+				"pole_longitude" : 13.2550955,
+				"pole_bearing" : 102,
+				"ndetections" : 1940,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.106526, 52.341705 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.341705,
+				"pole_longitude" : 13.106526,
+				"pole_bearing" : 285,
+				"ndetections" : 25,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.235024, 52.405807 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.405807,
+				"pole_longitude" : 13.235024,
+				"pole_bearing" : 316,
+				"ndetections" : 274,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.347538, 52.42558 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.42558,
+				"pole_longitude" : 13.347538,
+				"pole_bearing" : 200,
+				"ndetections" : 454,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227554, 52.410484 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.410484,
+				"pole_longitude" : 13.227554,
+				"pole_bearing" : 153,
+				"ndetections" : 84,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.30445, 52.432316 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260126",
+				"pole_latitude" : 52.432316,
+				"pole_longitude" : 13.30445,
+				"pole_bearing" : 4,
+				"ndetections" : 39,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227213, 52.411087 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250519",
+				"pole_latitude" : 52.411087,
+				"pole_longitude" : 13.227213,
+				"pole_bearing" : 327,
+				"ndetections" : 83,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230359, 52.435524 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250714",
+				"pole_latitude" : 52.435524,
+				"pole_longitude" : 13.230359,
+				"pole_bearing" : 30,
+				"ndetections" : 1056,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.26874, 52.44797 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.44797,
+				"pole_longitude" : 13.26874,
+				"pole_bearing" : 222,
+				"ndetections" : 793,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.325936, 52.427647 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250908",
+				"pole_latitude" : 52.427647,
+				"pole_longitude" : 13.325936,
+				"pole_bearing" : 234,
+				"ndetections" : 9,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.346429, 52.434086 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250331",
+				"pole_latitude" : 52.434086,
+				"pole_longitude" : 13.346429,
+				"pole_bearing" : 300,
+				"ndetections" : 102,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230303, 52.433918 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250428",
+				"pole_latitude" : 52.433918,
+				"pole_longitude" : 13.230303,
+				"pole_bearing" : 72,
+				"ndetections" : 8,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.263294, 52.423397 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250728",
+				"pole_latitude" : 52.423397,
+				"pole_longitude" : 13.263294,
+				"pole_bearing" : 12,
+				"ndetections" : 376,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.06148, 52.385612 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.385612,
+				"pole_longitude" : 13.06148,
+				"pole_bearing" : 279,
+				"ndetections" : 274,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256109, 52.43566 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43566,
+				"pole_longitude" : 13.256109,
+				"pole_bearing" : 23,
+				"ndetections" : 1547,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.27422, 52.43096 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43096,
+				"pole_longitude" : 13.27422,
+				"pole_bearing" : 94,
+				"ndetections" : 260,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.305431, 52.43503 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43503,
+				"pole_longitude" : 13.305431,
+				"pole_bearing" : 172,
+				"ndetections" : 344,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.134958, 52.366325 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.366325,
+				"pole_longitude" : 13.134958,
+				"pole_bearing" : 251,
+				"ndetections" : 21,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.320248, 52.434258 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.434258,
+				"pole_longitude" : 13.320248,
+				"pole_bearing" : 58,
+				"ndetections" : 463,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.22146, 52.39193 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39193,
+				"pole_longitude" : 13.22146,
+				"pole_bearing" : 275,
+				"ndetections" : 281,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230736, 52.40826 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250818",
+				"pole_latitude" : 52.40826,
+				"pole_longitude" : 13.230736,
+				"pole_bearing" : 163,
+				"ndetections" : 92,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.24044, 52.442818 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.442818,
+				"pole_longitude" : 13.24044,
+				"pole_bearing" : 54,
+				"ndetections" : 702,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.261442, 52.436317 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.436317,
+				"pole_longitude" : 13.261442,
+				"pole_bearing" : 41,
+				"ndetections" : 10,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.048502, 52.41074 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251229",
+				"pole_latitude" : 52.41074,
+				"pole_longitude" : 13.048502,
+				"pole_bearing" : 315,
+				"ndetections" : 220,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.261973, 52.437702 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.437702,
+				"pole_longitude" : 13.261973,
+				"pole_bearing" : 8,
+				"ndetections" : 778,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.349158, 52.422222 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.422222,
+				"pole_longitude" : 13.349158,
+				"pole_bearing" : 1,
+				"ndetections" : 178,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.26039, 52.426792 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.426792,
+				"pole_longitude" : 13.26039,
+				"pole_bearing" : 193,
+				"ndetections" : 413,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.261111, 52.436165 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.436165,
+				"pole_longitude" : 13.261111,
+				"pole_bearing" : 353,
+				"ndetections" : 654,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227736, 52.398094 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.398094,
+				"pole_longitude" : 13.227736,
+				"pole_bearing" : 32,
+				"ndetections" : 389,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.261714, 52.437763 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251222",
+				"pole_latitude" : 52.437763,
+				"pole_longitude" : 13.261714,
+				"pole_bearing" : 347,
+				"ndetections" : 470,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255073, 52.435555 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251222",
+				"pole_latitude" : 52.435555,
+				"pole_longitude" : 13.255073,
+				"pole_bearing" : 52,
+				"ndetections" : 1548,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.252563, 52.437153 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.437153,
+				"pole_longitude" : 13.252563,
+				"pole_bearing" : 153,
+				"ndetections" : 109,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258588, 52.435272 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260126",
+				"pole_latitude" : 52.435272,
+				"pole_longitude" : 13.258588,
+				"pole_bearing" : 137,
+				"ndetections" : 21,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307767, 52.43308 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.43308,
+				"pole_longitude" : 13.307767,
+				"pole_bearing" : 124,
+				"ndetections" : 388,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.310493, 52.42122 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.42122,
+				"pole_longitude" : 13.310493,
+				"pole_bearing" : 265,
+				"ndetections" : 454,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307347, 52.433147 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251222",
+				"pole_latitude" : 52.433147,
+				"pole_longitude" : 13.307347,
+				"pole_bearing" : 207,
+				"ndetections" : 399,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.226912, 52.399292 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250505",
+				"pole_latitude" : 52.399292,
+				"pole_longitude" : 13.226912,
+				"pole_bearing" : 193,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258242, 52.435543 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435543,
+				"pole_longitude" : 13.258242,
+				"pole_bearing" : 21,
+				"ndetections" : 2529,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2641945, 52.43402 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43402,
+				"pole_longitude" : 13.2641945,
+				"pole_bearing" : 188,
+				"ndetections" : 426,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.226563, 52.400528 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251013",
+				"pole_latitude" : 52.400528,
+				"pole_longitude" : 13.226563,
+				"pole_bearing" : 141,
+				"ndetections" : 353,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258577, 52.431717 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251103",
+				"pole_latitude" : 52.431717,
+				"pole_longitude" : 13.258577,
+				"pole_bearing" : 215,
+				"ndetections" : 4,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.225901, 52.402016 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250908",
+				"pole_latitude" : 52.402016,
+				"pole_longitude" : 13.225901,
+				"pole_bearing" : 63,
+				"ndetections" : 91,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255962, 52.4356 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.4356,
+				"pole_longitude" : 13.255962,
+				"pole_bearing" : 73,
+				"ndetections" : 990,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2206545, 52.39164 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.39164,
+				"pole_longitude" : 13.2206545,
+				"pole_bearing" : 297,
+				"ndetections" : 1323,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229228, 52.40937 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.40937,
+				"pole_longitude" : 13.229228,
+				"pole_bearing" : 172,
+				"ndetections" : 85,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.254334, 52.436554 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.436554,
+				"pole_longitude" : 13.254334,
+				"pole_bearing" : 327,
+				"ndetections" : 101,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.3040285, 52.43233 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43233,
+				"pole_longitude" : 13.3040285,
+				"pole_bearing" : 302,
+				"ndetections" : 165,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1146, 52.394302 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250623",
+				"pole_latitude" : 52.394302,
+				"pole_longitude" : 13.1146,
+				"pole_bearing" : 290,
+				"ndetections" : 10,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.189039, 52.419502 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.419502,
+				"pole_longitude" : 13.189039,
+				"pole_bearing" : 15,
+				"ndetections" : 21,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.141358, 52.382065 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.382065,
+				"pole_longitude" : 13.141358,
+				"pole_bearing" : 225,
+				"ndetections" : 57,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.31154, 52.448288 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.448288,
+				"pole_longitude" : 13.31154,
+				"pole_bearing" : 92,
+				"ndetections" : 115,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.305132, 52.435413 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.435413,
+				"pole_longitude" : 13.305132,
+				"pole_bearing" : 314,
+				"ndetections" : 403,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307481, 52.433468 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250331",
+				"pole_latitude" : 52.433468,
+				"pole_longitude" : 13.307481,
+				"pole_bearing" : 352,
+				"ndetections" : 399,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1090765, 52.36137 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.36137,
+				"pole_longitude" : 13.1090765,
+				"pole_bearing" : 277,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311348, 52.448246 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.448246,
+				"pole_longitude" : 13.311348,
+				"pole_bearing" : 68,
+				"ndetections" : 127,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258849, 52.435223 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.435223,
+				"pole_longitude" : 13.258849,
+				"pole_bearing" : 127,
+				"ndetections" : 647,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.122596, 52.39564 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39564,
+				"pole_longitude" : 13.122596,
+				"pole_bearing" : 161,
+				"ndetections" : 61,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.3075695, 52.433155 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.433155,
+				"pole_longitude" : 13.3075695,
+				"pole_bearing" : 117,
+				"ndetections" : 499,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.059711, 52.38506 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250407",
+				"pole_latitude" : 52.38506,
+				"pole_longitude" : 13.059711,
+				"pole_bearing" : 61,
+				"ndetections" : 22,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.268526, 52.4476 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.4476,
+				"pole_longitude" : 13.268526,
+				"pole_bearing" : 227,
+				"ndetections" : 753,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256447, 52.43562 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.43562,
+				"pole_longitude" : 13.256447,
+				"pole_bearing" : 130,
+				"ndetections" : 1203,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.349959, 52.413944 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.413944,
+				"pole_longitude" : 13.349959,
+				"pole_bearing" : 249,
+				"ndetections" : 182,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.264139, 52.434013 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.434013,
+				"pole_longitude" : 13.264139,
+				"pole_bearing" : 189,
+				"ndetections" : 428,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.318795, 52.430485 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250505",
+				"pole_latitude" : 52.430485,
+				"pole_longitude" : 13.318795,
+				"pole_bearing" : 160,
+				"ndetections" : 3,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.133456, 52.36561 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.36561,
+				"pole_longitude" : 13.133456,
+				"pole_bearing" : 119,
+				"ndetections" : 16,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2580185, 52.435604 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435604,
+				"pole_longitude" : 13.2580185,
+				"pole_bearing" : 288,
+				"ndetections" : 2479,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311272, 52.421436 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.421436,
+				"pole_longitude" : 13.311272,
+				"pole_bearing" : 49,
+				"ndetections" : 281,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.336472, 52.4189 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.4189,
+				"pole_longitude" : 13.336472,
+				"pole_bearing" : 188,
+				"ndetections" : 140,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230271, 52.43552 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43552,
+				"pole_longitude" : 13.230271,
+				"pole_bearing" : 240,
+				"ndetections" : 453,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307243, 52.43367 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43367,
+				"pole_longitude" : 13.307243,
+				"pole_bearing" : 338,
+				"ndetections" : 425,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255665, 52.435734 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.435734,
+				"pole_longitude" : 13.255665,
+				"pole_bearing" : 234,
+				"ndetections" : 1136,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.023976, 52.393837 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.393837,
+				"pole_longitude" : 13.023976,
+				"pole_bearing" : 305,
+				"ndetections" : 107,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.252641, 52.44721 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.44721,
+				"pole_longitude" : 13.252641,
+				"pole_bearing" : 9,
+				"ndetections" : 262,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.106832, 52.34166 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.34166,
+				"pole_longitude" : 13.106832,
+				"pole_bearing" : 107,
+				"ndetections" : 30,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2274885, 52.410694 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.410694,
+				"pole_longitude" : 13.2274885,
+				"pole_bearing" : 2,
+				"ndetections" : 117,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307041, 52.419643 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.419643,
+				"pole_longitude" : 13.307041,
+				"pole_bearing" : 84,
+				"ndetections" : 457,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307041, 52.419643 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.419643,
+				"pole_longitude" : 13.307041,
+				"pole_bearing" : 84,
+				"ndetections" : 457,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229768, 52.431206 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251110",
+				"pole_latitude" : 52.431206,
+				"pole_longitude" : 13.229768,
+				"pole_bearing" : 327,
+				"ndetections" : 805,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.108246, 52.34191 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.34191,
+				"pole_longitude" : 13.108246,
+				"pole_bearing" : 288,
+				"ndetections" : 20,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.348145, 52.423836 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.423836,
+				"pole_longitude" : 13.348145,
+				"pole_bearing" : 12,
+				"ndetections" : 206,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.031905, 52.41289 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.41289,
+				"pole_longitude" : 13.031905,
+				"pole_bearing" : 18,
+				"ndetections" : 31,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229712, 52.431416 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250901",
+				"pole_latitude" : 52.431416,
+				"pole_longitude" : 13.229712,
+				"pole_bearing" : 329,
+				"ndetections" : 438,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.331416, 52.426373 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251110",
+				"pole_latitude" : 52.426373,
+				"pole_longitude" : 13.331416,
+				"pole_bearing" : 195,
+				"ndetections" : 159,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.310997, 52.421394 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.421394,
+				"pole_longitude" : 13.310997,
+				"pole_bearing" : 204,
+				"ndetections" : 604,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.122035, 52.383263 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.383263,
+				"pole_longitude" : 13.122035,
+				"pole_bearing" : 327,
+				"ndetections" : 95,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229569, 52.40924 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.40924,
+				"pole_longitude" : 13.229569,
+				"pole_bearing" : 343,
+				"ndetections" : 114,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.310839, 52.421486 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.421486,
+				"pole_longitude" : 13.310839,
+				"pole_bearing" : 354,
+				"ndetections" : 590,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.305429, 52.43503 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.43503,
+				"pole_longitude" : 13.305429,
+				"pole_bearing" : 174,
+				"ndetections" : 361,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229851, 52.408897 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250630",
+				"pole_latitude" : 52.408897,
+				"pole_longitude" : 13.229851,
+				"pole_bearing" : 170,
+				"ndetections" : 90,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255715, 52.436058 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250922",
+				"pole_latitude" : 52.436058,
+				"pole_longitude" : 13.255715,
+				"pole_bearing" : 304,
+				"ndetections" : 195,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.221155, 52.391876 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.391876,
+				"pole_longitude" : 13.221155,
+				"pole_bearing" : 275,
+				"ndetections" : 345,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.332275, 52.425377 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.425377,
+				"pole_longitude" : 13.332275,
+				"pole_bearing" : 2,
+				"ndetections" : 169,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.218677, 52.404686 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.404686,
+				"pole_longitude" : 13.218677,
+				"pole_bearing" : 297,
+				"ndetections" : 108,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.311645, 52.42189 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250818",
+				"pole_latitude" : 52.42189,
+				"pole_longitude" : 13.311645,
+				"pole_bearing" : 253,
+				"ndetections" : 485,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2567425, 52.437973 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.437973,
+				"pole_longitude" : 13.2567425,
+				"pole_bearing" : 187,
+				"ndetections" : 235,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.257862, 52.43565 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43565,
+				"pole_longitude" : 13.257862,
+				"pole_bearing" : 293,
+				"ndetections" : 1681,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.225807, 52.401928 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.401928,
+				"pole_longitude" : 13.225807,
+				"pole_bearing" : 208,
+				"ndetections" : 127,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.112295, 52.39381 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250825",
+				"pole_latitude" : 52.39381,
+				"pole_longitude" : 13.112295,
+				"pole_bearing" : 109,
+				"ndetections" : 89,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.22656, 52.40052 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.40052,
+				"pole_longitude" : 13.22656,
+				"pole_bearing" : 333,
+				"ndetections" : 353,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256273, 52.435738 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435738,
+				"pole_longitude" : 13.256273,
+				"pole_bearing" : 54,
+				"ndetections" : 1217,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256273, 52.435738 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435738,
+				"pole_longitude" : 13.256273,
+				"pole_bearing" : 54,
+				"ndetections" : 1217,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258421, 52.43532 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43532,
+				"pole_longitude" : 13.258421,
+				"pole_bearing" : 138,
+				"ndetections" : 2495,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258421, 52.43532 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43532,
+				"pole_longitude" : 13.258421,
+				"pole_bearing" : 138,
+				"ndetections" : 2495,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalDayModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258421, 52.43532 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43532,
+				"pole_longitude" : 13.258421,
+				"pole_bearing" : 138,
+				"ndetections" : 2495,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258421, 52.43532 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43532,
+				"pole_longitude" : 13.258421,
+				"pole_bearing" : 138,
+				"ndetections" : 2495,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalDayModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2254715, 52.405415 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251027",
+				"pole_latitude" : 52.405415,
+				"pole_longitude" : 13.2254715,
+				"pole_bearing" : 3,
+				"ndetections" : 123,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230383, 52.433887 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250428",
+				"pole_latitude" : 52.433887,
+				"pole_longitude" : 13.230383,
+				"pole_bearing" : 160,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.028445, 52.38878 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251124",
+				"pole_latitude" : 52.38878,
+				"pole_longitude" : 13.028445,
+				"pole_bearing" : 7,
+				"ndetections" : 317,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.305105, 52.43534 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.43534,
+				"pole_longitude" : 13.305105,
+				"pole_bearing" : 298,
+				"ndetections" : 403,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.114881, 52.39408 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250714",
+				"pole_latitude" : 52.39408,
+				"pole_longitude" : 13.114881,
+				"pole_bearing" : 290,
+				"ndetections" : 206,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229847, 52.43141 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.43141,
+				"pole_longitude" : 13.229847,
+				"pole_bearing" : 342,
+				"ndetections" : 67,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229909, 52.43122 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43122,
+				"pole_longitude" : 13.229909,
+				"pole_bearing" : 326,
+				"ndetections" : 797,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.32126, 52.43546 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43546,
+				"pole_longitude" : 13.32126,
+				"pole_bearing" : 237,
+				"ndetections" : 383,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.32126, 52.43546 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43546,
+				"pole_longitude" : 13.32126,
+				"pole_bearing" : 237,
+				"ndetections" : 383,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.135344, 52.364532 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.364532,
+				"pole_longitude" : 13.135344,
+				"pole_bearing" : 161,
+				"ndetections" : 47,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1766615, 52.44506 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.44506,
+				"pole_longitude" : 13.1766615,
+				"pole_bearing" : 327,
+				"ndetections" : 31,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229918, 52.43121 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260126",
+				"pole_latitude" : 52.43121,
+				"pole_longitude" : 13.229918,
+				"pole_bearing" : 355,
+				"ndetections" : 805,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229918, 52.43121 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260126",
+				"pole_latitude" : 52.43121,
+				"pole_longitude" : 13.229918,
+				"pole_bearing" : 355,
+				"ndetections" : 805,
+				"speedlimit_gfrgroup" : "SpeedLimit2V20",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.298149, 52.44176 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.44176,
+				"pole_longitude" : 13.298149,
+				"pole_bearing" : 354,
+				"ndetections" : 841,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.229138, 52.40943 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.40943,
+				"pole_longitude" : 13.229138,
+				"pole_bearing" : 164,
+				"ndetections" : 85,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.336749, 52.418533 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.418533,
+				"pole_longitude" : 13.336749,
+				"pole_bearing" : 159,
+				"ndetections" : 145,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.307195, 52.419704 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250428",
+				"pole_latitude" : 52.419704,
+				"pole_longitude" : 13.307195,
+				"pole_bearing" : 82,
+				"ndetections" : 282,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.297129, 52.442467 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260126",
+				"pole_latitude" : 52.442467,
+				"pole_longitude" : 13.297129,
+				"pole_bearing" : 173,
+				"ndetections" : 499,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.141932, 52.381527 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.381527,
+				"pole_longitude" : 13.141932,
+				"pole_bearing" : 1,
+				"ndetections" : 64,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.224912, 52.406796 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.406796,
+				"pole_longitude" : 13.224912,
+				"pole_bearing" : 198,
+				"ndetections" : 59,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalDayModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.224912, 52.406796 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.406796,
+				"pole_longitude" : 13.224912,
+				"pole_bearing" : 198,
+				"ndetections" : 59,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2971115, 52.44265 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.44265,
+				"pole_longitude" : 13.2971115,
+				"pole_bearing" : 137,
+				"ndetections" : 609,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258583, 52.43528 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.43528,
+				"pole_longitude" : 13.258583,
+				"pole_bearing" : 137,
+				"ndetections" : 1378,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.308877, 52.431953 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.431953,
+				"pole_longitude" : 13.308877,
+				"pole_bearing" : 155,
+				"ndetections" : 527,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.137433, 52.375694 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.375694,
+				"pole_longitude" : 13.137433,
+				"pole_bearing" : 297,
+				"ndetections" : 24,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.022248, 52.393875 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.393875,
+				"pole_longitude" : 13.022248,
+				"pole_bearing" : 118,
+				"ndetections" : 65,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.227256, 52.411106 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.411106,
+				"pole_longitude" : 13.227256,
+				"pole_bearing" : 202,
+				"ndetections" : 83,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.225429, 52.405357 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.405357,
+				"pole_longitude" : 13.225429,
+				"pole_bearing" : 18,
+				"ndetections" : 116,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.24277, 52.423233 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.423233,
+				"pole_longitude" : 13.24277,
+				"pole_bearing" : 38,
+				"ndetections" : 153,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.220245, 52.391457 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260209",
+				"pole_latitude" : 52.391457,
+				"pole_longitude" : 13.220245,
+				"pole_bearing" : 242,
+				"ndetections" : 297,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.22717, 52.39758 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.39758,
+				"pole_longitude" : 13.22717,
+				"pole_bearing" : 77,
+				"ndetections" : 375,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.347509, 52.425537 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260112",
+				"pole_latitude" : 52.425537,
+				"pole_longitude" : 13.347509,
+				"pole_bearing" : 207,
+				"ndetections" : 451,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.258637, 52.435272 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.435272,
+				"pole_longitude" : 13.258637,
+				"pole_bearing" : 120,
+				"ndetections" : 1378,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.304219, 52.432323 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.432323,
+				"pole_longitude" : 13.304219,
+				"pole_bearing" : 319,
+				"ndetections" : 46,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.114855, 52.394234 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.394234,
+				"pole_longitude" : 13.114855,
+				"pole_bearing" : 287,
+				"ndetections" : 206,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.3059845, 52.433975 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250505",
+				"pole_latitude" : 52.433975,
+				"pole_longitude" : 13.3059845,
+				"pole_bearing" : 173,
+				"ndetections" : 16,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1216345, 52.38331 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.38331,
+				"pole_longitude" : 13.1216345,
+				"pole_bearing" : 299,
+				"ndetections" : 140,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.198235, 52.434868 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251110",
+				"pole_latitude" : 52.434868,
+				"pole_longitude" : 13.198235,
+				"pole_bearing" : 79,
+				"ndetections" : 2,
+				"speedlimit_gfrgroup" : "SpeedLimit2V25",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.256563, 52.435806 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251201",
+				"pole_latitude" : 52.435806,
+				"pole_longitude" : 13.256563,
+				"pole_bearing" : 45,
+				"ndetections" : 158,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.226738, 52.390087 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.390087,
+				"pole_longitude" : 13.226738,
+				"pole_bearing" : 12,
+				"ndetections" : 197,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.063115, 52.402378 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251215",
+				"pole_latitude" : 52.402378,
+				"pole_longitude" : 13.063115,
+				"pole_bearing" : 79,
+				"ndetections" : 126,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.049416, 52.410503 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260202",
+				"pole_latitude" : 52.410503,
+				"pole_longitude" : 13.049416,
+				"pole_bearing" : 306,
+				"ndetections" : 243,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230877, 52.408386 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251027",
+				"pole_latitude" : 52.408386,
+				"pole_longitude" : 13.230877,
+				"pole_bearing" : 170,
+				"ndetections" : 94,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.120882, 52.396626 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20250915",
+				"pole_latitude" : 52.396626,
+				"pole_longitude" : 13.120882,
+				"pole_bearing" : 163,
+				"ndetections" : 40,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.230633, 52.40842 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20251013",
+				"pole_latitude" : 52.40842,
+				"pole_longitude" : 13.230633,
+				"pole_bearing" : 163,
+				"ndetections" : 85,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255957, 52.435757 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.435757,
+				"pole_longitude" : 13.255957,
+				"pole_bearing" : 5,
+				"ndetections" : 1090,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.219465, 52.390873 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.390873,
+				"pole_longitude" : 13.219465,
+				"pole_bearing" : 246,
+				"ndetections" : 331,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.2196865, 52.390926 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.390926,
+				"pole_longitude" : 13.2196865,
+				"pole_bearing" : 60,
+				"ndetections" : 622,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.255642, 52.43585 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260119",
+				"pole_latitude" : 52.43585,
+				"pole_longitude" : 13.255642,
+				"pole_bearing" : 273,
+				"ndetections" : 1188,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : "SupplementalTimeModifier"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.218868, 52.404778 ]
+			},
+			"properties" : {
+				"iso_code" : "DEU",
+				"weekof" : "20260216",
+				"pole_latitude" : 52.404778,
+				"pole_longitude" : 13.218868,
+				"pole_bearing" : 335,
+				"ndetections" : 18,
+				"speedlimit_gfrgroup" : "SpeedLimit2V30",
+				"schoolzone_gfrgroup" : "SchoolZone3",
+				"supplemental_gfrgroup" : null
+			}
+		}
+	]
+}

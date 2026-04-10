@@ -1,0 +1,72 @@
+{
+  "school_label": "School Zone near Dessauerstra\u00dfe and Gallwitzallee",
+  "school_feature_index": 0,
+  "selected_road_feature_indices": [
+    11,
+    14,
+    19,
+    24,
+    43,
+    64,
+    96,
+    106,
+    122,
+    182,
+    4,
+    22,
+    29,
+    36,
+    44,
+    49,
+    58,
+    147,
+    148,
+    153,
+    155,
+    168,
+    179,
+    195
+  ],
+  "selected_supporting_feature_indices": [
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210
+  ],
+  "school_region_polygon": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          13.341,
+          52.423
+        ],
+        [
+          13.349,
+          52.423
+        ],
+        [
+          13.349,
+          52.43
+        ],
+        [
+          13.341,
+          52.43
+        ],
+        [
+          13.341,
+          52.423
+        ]
+      ]
+    ]
+  },
+  "confidence": 0.95,
+  "reasoning": "Index 0 is identified as the primary school point. Roads were selected based on direct adjacency to the school point (Dessauerstra\u00dfe and unnamed road 24) and proximity to identified school zone speed limit signs (Gallwitzallee). The selection follows the logical path from the school building to the regulated traffic zones.",
+  "notes": [
+    "The school zone encompasses the immediate vicinity of the school point and extends to a section of Gallwitzallee where multiple school zone speed limit signs (SchoolZone3, SpeedLimit2V30) are located.",
+    "Dessauerstra\u00dfe appears to be the main access road for the school point."
+  ]
+}

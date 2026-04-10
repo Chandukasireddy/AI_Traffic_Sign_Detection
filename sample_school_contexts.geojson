@@ -1,0 +1,6815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34367,
+          52.4276
+        ]
+      },
+      "properties": {
+        "feature_type": "school",
+        "sample_index": 0,
+        "sample_label": "School",
+        "source": "school_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34314,
+            52.42662
+          ],
+          [
+            13.34361,
+            52.42681
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.95",
+        "road_id": "c5f0b3bc-73ad-445c-999f-d75c9e5a9a4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33707,
+            52.42919
+          ],
+          [
+            13.33695,
+            52.42938
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "26.3",
+        "road_id": "09d5c2ad-7c6b-4189-b9f0-08474325c095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34073,
+            52.42801
+          ],
+          [
+            13.34064,
+            52.4281
+          ],
+          [
+            13.34055,
+            52.42818
+          ],
+          [
+            13.34044,
+            52.42828
+          ],
+          [
+            13.34027,
+            52.42841
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.8",
+        "road_id": "d8e23886-bf1e-4d36-a6de-78a709af7b27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34789,
+            52.42436
+          ],
+          [
+            13.34787,
+            52.42441
+          ],
+          [
+            13.34784,
+            52.42454
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "d1a8f1f7-360a-4b17-9eb0-e8b3b3eaa855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34478,
+            52.42616
+          ],
+          [
+            13.3456,
+            52.42636
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Bellingstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.8",
+        "road_id": "1d02d20a-85e8-499a-bfaa-0c790504b9f0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34853,
+            52.42564
+          ],
+          [
+            13.34814,
+            52.4257
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.15",
+        "road_id": "0fc56e05-ba5c-4c7e-814e-e5548265e89b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33804,
+            52.42511
+          ],
+          [
+            13.33798,
+            52.42515
+          ],
+          [
+            13.33791,
+            52.42522
+          ],
+          [
+            13.33784,
+            52.42528
+          ],
+          [
+            13.33779,
+            52.42533
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "b018f208-e547-48ef-b05d-ddfd975cb907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3461,
+            52.42639
+          ],
+          [
+            13.34643,
+            52.42644
+          ],
+          [
+            13.34667,
+            52.42646
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Bellingstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.35",
+        "road_id": "218a0d4d-4a2e-4ce0-85f8-e7385cf5632d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3461,
+            52.43146
+          ],
+          [
+            13.34604,
+            52.43193
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.55",
+        "road_id": "917d6b11-ed7c-474b-a70c-81faf2f31e8b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34347,
+            52.42982
+          ],
+          [
+            13.34375,
+            52.42995
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.8",
+        "road_id": "88992320-cdf6-4bf3-a919-5f3b3733b118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34217,
+            52.42735
+          ],
+          [
+            13.3422,
+            52.42736
+          ],
+          [
+            13.34313,
+            52.42775
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.2",
+        "road_id": "b245eaee-ed61-4bf2-ad37-bb6e6784bb42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34646,
+            52.43118
+          ],
+          [
+            13.34642,
+            52.43141
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.45",
+        "road_id": "c3be89ba-13bc-437c-9c62-773ae0269efa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34953,
+            52.42845
+          ],
+          [
+            13.34944,
+            52.42847
+          ],
+          [
+            13.34897,
+            52.42853
+          ],
+          [
+            13.34867,
+            52.42855
+          ],
+          [
+            13.34861,
+            52.42855
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "29.85",
+        "road_id": "fec7ed83-545c-45d5-968f-ffc13cc50e92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34424,
+            52.42818
+          ],
+          [
+            13.34444,
+            52.42824
+          ],
+          [
+            13.34471,
+            52.42834
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28",
+        "road_id": "cb63b5c2-7227-4c27-991d-9e01095c4546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35027,
+            52.42826
+          ],
+          [
+            13.35015,
+            52.4283
+          ],
+          [
+            13.3499,
+            52.42837
+          ],
+          [
+            13.3498,
+            52.4284
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.55",
+        "road_id": "a8d83c83-1403-43f5-8d6e-fe734d32cc0a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3398,
+            52.42639
+          ],
+          [
+            13.34138,
+            52.42701
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.35",
+        "road_id": "e0323015-cc3b-4628-8071-cebdb86353a1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33945,
+            52.42462
+          ],
+          [
+            13.34044,
+            52.42502
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Goldaper Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.5",
+        "road_id": "436d3012-1da4-4429-a011-ad7ca852ac65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33929,
+            52.42589
+          ],
+          [
+            13.33965,
+            52.42605
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.45",
+        "road_id": "3b504050-5ad6-425f-b6ce-86fd4e630e6d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34138,
+            52.42701
+          ],
+          [
+            13.34217,
+            52.42735
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.25",
+        "road_id": "f546b0ca-0b98-4910-be6d-b8abdd723069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34595,
+            52.43008
+          ],
+          [
+            13.3452,
+            52.42976
+          ],
+          [
+            13.34517,
+            52.42975
+          ],
+          [
+            13.34512,
+            52.42974
+          ],
+          [
+            13.34508,
+            52.42975
+          ],
+          [
+            13.34505,
+            52.42977
+          ],
+          [
+            13.34446,
+            52.43028
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4",
+        "road_id": "2d5a34f4-a1bc-4a40-a776-047b1dc3d2d9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3456,
+            52.42636
+          ],
+          [
+            13.34555,
+            52.4265
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.85",
+        "road_id": "f070e582-82ab-468f-bd65-ef130b6b81d7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34784,
+            52.42454
+          ],
+          [
+            13.34779,
+            52.42472
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "981f3ad8-b8bf-4f6f-aced-f7b55725a0ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33965,
+            52.42605
+          ],
+          [
+            13.33946,
+            52.42624
+          ],
+          [
+            13.33931,
+            52.42633
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10",
+        "road_id": "31acca4d-175c-46fb-8cd4-b7ffbfdfeec2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34367,
+            52.4276
+          ],
+          [
+            13.34382,
+            52.42767
+          ],
+          [
+            13.34385,
+            52.42772
+          ],
+          [
+            13.34382,
+            52.42778
+          ],
+          [
+            13.34367,
+            52.42796
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.1",
+        "road_id": "bac0c8ab-df87-4f19-8a6a-03eee9bfea6d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34651,
+            52.43089
+          ],
+          [
+            13.34649,
+            52.43101
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "35.35",
+        "road_id": "c7c4692c-4f5d-4ccb-a5e7-ad64a336a88c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34446,
+            52.43028
+          ],
+          [
+            13.34523,
+            52.43061
+          ],
+          [
+            13.3455,
+            52.43071
+          ],
+          [
+            13.34578,
+            52.43078
+          ],
+          [
+            13.34613,
+            52.43084
+          ],
+          [
+            13.34651,
+            52.43089
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.1",
+        "road_id": "f9c25204-3b21-4a09-ac29-94838c0d2b51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33706,
+            52.4283
+          ],
+          [
+            13.33746,
+            52.42849
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Derfflingerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.25",
+        "road_id": "34e3a97f-ad55-48fd-a38c-a12d08c8e317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34434,
+            52.43023
+          ],
+          [
+            13.34407,
+            52.43044
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Renatenweg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.5",
+        "road_id": "f02b09f2-84a5-44f2-9bda-83ea118e7bc6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34806,
+            52.42391
+          ],
+          [
+            13.348,
+            52.42406
+          ],
+          [
+            13.34793,
+            52.42425
+          ],
+          [
+            13.34789,
+            52.42436
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "130fb05e-922c-4254-8df5-d4a8a81b2a56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34347,
+            52.42493
+          ],
+          [
+            13.34318,
+            52.42524
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Retzowstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.15",
+        "road_id": "362ee303-e602-48bb-ab46-b92d2408405c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34167,
+            52.42904
+          ],
+          [
+            13.34209,
+            52.42923
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.85",
+        "road_id": "2da8963b-5aa8-4710-8138-b4cf7971b1f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34368,
+            52.42966
+          ],
+          [
+            13.34347,
+            52.42982
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.45",
+        "road_id": "702678c3-e371-4ef8-a8a1-842d6f2297d5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3406,
+            52.42995
+          ],
+          [
+            13.33959,
+            52.43082
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.1",
+        "road_id": "b8e343f6-81b8-4894-8ccb-cfd06533bbef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3422,
+            52.42626
+          ],
+          [
+            13.34138,
+            52.42701
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Retzowstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.85",
+        "road_id": "130e018d-7f28-4533-8e06-25961240501c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3416,
+            52.42853
+          ],
+          [
+            13.34149,
+            52.42862
+          ],
+          [
+            13.34143,
+            52.42862
+          ],
+          [
+            13.34129,
+            52.42855
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.75",
+        "road_id": "f3c50295-52ac-4d1d-80d1-514e41717d19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34694,
+            52.42858
+          ],
+          [
+            13.34687,
+            52.42891
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24.6",
+        "road_id": "8ee4df43-50ff-4a34-99cf-baad96284ad2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33658,
+            52.42878
+          ],
+          [
+            13.33721,
+            52.42895
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "1.7",
+        "road_id": "040700c2-7254-4621-9790-35a7be8adf85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35032,
+            52.42645
+          ],
+          [
+            13.35118,
+            52.42745
+          ],
+          [
+            13.35127,
+            52.42748
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.1",
+        "road_id": "37c11723-d2e8-4bf2-ac0d-7d9b68f914bd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34956,
+            52.42542
+          ],
+          [
+            13.34971,
+            52.42546
+          ],
+          [
+            13.34978,
+            52.42547
+          ],
+          [
+            13.35072,
+            52.42558
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.25",
+        "road_id": "2e1c99f2-597e-49ef-9c3b-f7145ff1714c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33722,
+            52.42706
+          ],
+          [
+            13.33805,
+            52.42743
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.4",
+        "road_id": "aeea00ef-22ff-4d5d-b202-301a5cfa9d06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34654,
+            52.43074
+          ],
+          [
+            13.34686,
+            52.43075
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Am Gemeindepark",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.1",
+        "road_id": "58ea3089-0c53-430a-9c57-0ce94d8063c9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33675,
+            52.42521
+          ],
+          [
+            13.33753,
+            52.42555
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.5",
+        "road_id": "fe61c00c-e7a2-41df-a25e-ca67125471a3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34471,
+            52.42834
+          ],
+          [
+            13.345,
+            52.42845
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.4",
+        "road_id": "53d3f137-43f4-4017-b036-88078b9ca828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34748,
+            52.42612
+          ],
+          [
+            13.34734,
+            52.42653
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.1",
+        "road_id": "9e0c0bb3-586c-4a71-abbb-ed6f4faf0c77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34286,
+            52.42561
+          ],
+          [
+            13.34276,
+            52.42572
+          ],
+          [
+            13.34245,
+            52.42601
+          ],
+          [
+            13.3422,
+            52.42626
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Retzowstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.35",
+        "road_id": "9e9f21b9-8888-4919-b5f3-ecc7ccab092d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34822,
+            52.4251
+          ],
+          [
+            13.34819,
+            52.42519
+          ],
+          [
+            13.3482,
+            52.42524
+          ],
+          [
+            13.34825,
+            52.42527
+          ],
+          [
+            13.34864,
+            52.42532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.85",
+        "road_id": "9843d219-ffc4-4f67-9f7b-0ed9eae5861f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34725,
+            52.42849
+          ],
+          [
+            13.34756,
+            52.42851
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.7",
+        "road_id": "bf8ce381-9728-4522-b3d0-6ea21f560e52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34874,
+            52.42504
+          ],
+          [
+            13.3484,
+            52.425
+          ],
+          [
+            13.34834,
+            52.425
+          ],
+          [
+            13.34829,
+            52.42502
+          ],
+          [
+            13.34825,
+            52.42506
+          ],
+          [
+            13.34822,
+            52.4251
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.15",
+        "road_id": "6a0f0cd7-7268-45b3-9150-d9fbbed117df"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34779,
+            52.42472
+          ],
+          [
+            13.34777,
+            52.4248
+          ],
+          [
+            13.34763,
+            52.42553
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.6",
+        "road_id": "158e87c9-abd7-4db2-a1c5-8fc4613a4b6f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3429,
+            52.42796
+          ],
+          [
+            13.34268,
+            52.42815
+          ],
+          [
+            13.34222,
+            52.42855
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "9ea5f0d7-afa3-4e3c-a802-75f234a67261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33674,
+            52.42685
+          ],
+          [
+            13.33722,
+            52.42706
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.1",
+        "road_id": "9713f9f2-4fae-431a-b914-465a946f262e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34756,
+            52.42851
+          ],
+          [
+            13.34782,
+            52.42852
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.4",
+        "road_id": "9d80b8da-e106-43ca-b4cd-033bae40816b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34989,
+            52.42508
+          ],
+          [
+            13.34981,
+            52.42519
+          ],
+          [
+            13.34973,
+            52.42528
+          ],
+          [
+            13.34966,
+            52.42535
+          ],
+          [
+            13.34956,
+            52.42542
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.7",
+        "road_id": "7c203ca6-b56b-4b79-908d-501e198f24f9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34349,
+            52.43093
+          ],
+          [
+            13.34336,
+            52.43103
+          ],
+          [
+            13.34304,
+            52.43133
+          ],
+          [
+            13.34298,
+            52.43137
+          ],
+          [
+            13.3429,
+            52.4314
+          ],
+          [
+            13.34276,
+            52.43142
+          ],
+          [
+            13.34261,
+            52.43145
+          ],
+          [
+            13.34248,
+            52.43148
+          ],
+          [
+            13.34242,
+            52.43151
+          ],
+          [
+            13.34235,
+            52.43154
+          ],
+          [
+            13.34227,
+            52.4316
+          ],
+          [
+            13.3422,
+            52.43168
+          ],
+          [
+            13.34216,
+            52.43176
+          ],
+          [
+            13.34213,
+            52.43207
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Renatenweg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.75",
+        "road_id": "233cfd4d-2e61-4535-ba45-7e9c201b93e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34697,
+            52.42843
+          ],
+          [
+            13.34725,
+            52.42849
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.5",
+        "road_id": "e50122d8-cdd0-4eda-971c-898c05e3f55b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34361,
+            52.42681
+          ],
+          [
+            13.34393,
+            52.42695
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10",
+        "road_id": "5c67e887-15ba-4f1a-88eb-b720bf6b2172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34032,
+            52.42548
+          ],
+          [
+            13.3402,
+            52.42558
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.05",
+        "road_id": "866e3391-c88a-4266-aac3-d999d5ea50b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3476,
+            52.42568
+          ],
+          [
+            13.34756,
+            52.42585
+          ],
+          [
+            13.34753,
+            52.42597
+          ],
+          [
+            13.34748,
+            52.42612
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "37.45",
+        "road_id": "2c4674a6-98d2-41fd-83d2-7f3de6501531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34095,
+            52.42975
+          ],
+          [
+            13.34332,
+            52.43087
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Havensteinstraße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "21.5",
+        "road_id": "d9677904-6cde-47c1-b626-c8f75e44dac7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34864,
+            52.42532
+          ],
+          [
+            13.34853,
+            52.42564
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.8",
+        "road_id": "99691423-cd22-4da9-9932-b13a5cc03c6d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34187,
+            52.42887
+          ],
+          [
+            13.34167,
+            52.42904
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.3",
+        "road_id": "f56c2366-1171-414a-9265-37f2f6db5ddc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34372,
+            52.43074
+          ],
+          [
+            13.34349,
+            52.43093
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Renatenweg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.95",
+        "road_id": "f62b916d-8fa8-4e5d-9644-b2e7e0f1bcf8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3402,
+            52.42558
+          ],
+          [
+            13.33978,
+            52.42595
+          ],
+          [
+            13.33965,
+            52.42605
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.9",
+        "road_id": "4b8fdc7f-d684-4504-bdca-155b82e6d81f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.345,
+            52.42845
+          ],
+          [
+            13.3452,
+            52.42852
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.15",
+        "road_id": "62ab6405-f277-4460-ab04-0dc5f1bcd1c8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34368,
+            52.42966
+          ],
+          [
+            13.34378,
+            52.42971
+          ],
+          [
+            13.34383,
+            52.42975
+          ],
+          [
+            13.34385,
+            52.42978
+          ],
+          [
+            13.34386,
+            52.42981
+          ],
+          [
+            13.34385,
+            52.42984
+          ],
+          [
+            13.34383,
+            52.42986
+          ],
+          [
+            13.34375,
+            52.42995
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "5.9",
+        "road_id": "87e53d1d-5070-4315-87ee-29e145272386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33746,
+            52.42849
+          ],
+          [
+            13.33721,
+            52.42895
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.5",
+        "road_id": "81af3097-68d1-4f14-bccb-3203cecf052e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34555,
+            52.4265
+          ],
+          [
+            13.34601,
+            52.42659
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.25",
+        "road_id": "07164c0b-684f-42d1-9bda-1074b26b4090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33695,
+            52.42938
+          ],
+          [
+            13.33689,
+            52.42948
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.5",
+        "road_id": "065ae674-fa36-4fb7-8969-ac76b057f211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34869,
+            52.42519
+          ],
+          [
+            13.34864,
+            52.42532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.4",
+        "road_id": "3065e99e-5ef7-4580-adac-4831b9fa3c4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35071,
+            52.42812
+          ],
+          [
+            13.35118,
+            52.42869
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Beselerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.5",
+        "road_id": "071aaaeb-59b2-4956-913d-d03afd33b7bb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34514,
+            52.4279
+          ],
+          [
+            13.34533,
+            52.42794
+          ],
+          [
+            13.34544,
+            52.42798
+          ],
+          [
+            13.34554,
+            52.42804
+          ],
+          [
+            13.34557,
+            52.42808
+          ],
+          [
+            13.34563,
+            52.42819
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.4",
+        "road_id": "108d4b02-db14-41da-9548-fa80d0200608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34806,
+            52.42391
+          ],
+          [
+            13.34791,
+            52.42386
+          ],
+          [
+            13.34786,
+            52.42385
+          ],
+          [
+            13.34781,
+            52.42387
+          ],
+          [
+            13.34766,
+            52.42419
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "c53db028-a4d2-430b-98c9-ac19dc27a538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34296,
+            52.42938
+          ],
+          [
+            13.34279,
+            52.42952
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.7",
+        "road_id": "0d58d469-9fd7-4894-a71f-66bbc6e9637b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33629,
+            52.42665
+          ],
+          [
+            13.33674,
+            52.42685
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.75",
+        "road_id": "9c8b9c94-e60e-48f8-9bac-093ff548236d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34869,
+            52.42519
+          ],
+          [
+            13.34915,
+            52.42528
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.05",
+        "road_id": "fee9c041-fbd1-4723-8ea2-ccff348e509d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34773,
+            52.43073
+          ],
+          [
+            13.3474,
+            52.43077
+          ],
+          [
+            13.34686,
+            52.43075
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Am Gemeindepark",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.4",
+        "road_id": "35138f19-dda8-4bc7-ad6e-84fc362eacd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34649,
+            52.43101
+          ],
+          [
+            13.34646,
+            52.43118
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.3",
+        "road_id": "453d2c28-385a-4dd3-a225-b34394d31001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34756,
+            52.42851
+          ],
+          [
+            13.34754,
+            52.42865
+          ],
+          [
+            13.34755,
+            52.42872
+          ],
+          [
+            13.34759,
+            52.42878
+          ],
+          [
+            13.34767,
+            52.42887
+          ],
+          [
+            13.34774,
+            52.42895
+          ],
+          [
+            13.34787,
+            52.42909
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.05",
+        "road_id": "a495a41e-0263-4c20-a52e-b2a9661a8546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35195,
+            52.42769
+          ],
+          [
+            13.35071,
+            52.42812
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "29.65",
+        "road_id": "d7e9a508-ac0a-4e71-9345-6e5085d4362a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34525,
+            52.43179
+          ],
+          [
+            13.34505,
+            52.4321
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dillgesstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.75",
+        "road_id": "a14ec8ae-406c-4493-a52a-1db21b9156a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33925,
+            52.43108
+          ],
+          [
+            13.33884,
+            52.43143
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "403a2e08-443e-4dbc-897b-707dbaa36475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33778,
+            52.42791
+          ],
+          [
+            13.33746,
+            52.42849
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.05",
+        "road_id": "3841b31b-af35-4a34-bd03-b1a06d7d33f4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34828,
+            52.42855
+          ],
+          [
+            13.34867,
+            52.42916
+          ],
+          [
+            13.34872,
+            52.42919
+          ],
+          [
+            13.34879,
+            52.42921
+          ],
+          [
+            13.34886,
+            52.4292
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.7",
+        "road_id": "6790827d-0b5c-40e2-9bb5-a1b9f12b4ea0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33959,
+            52.43082
+          ],
+          [
+            13.3399,
+            52.43095
+          ],
+          [
+            13.3402,
+            52.4311
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Ingridpfad",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4",
+        "road_id": "af47437c-5d25-48a7-b8e3-ac6361f27164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34874,
+            52.42702
+          ],
+          [
+            13.3496,
+            52.42798
+          ],
+          [
+            13.34963,
+            52.42804
+          ],
+          [
+            13.34962,
+            52.42809
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.65",
+        "road_id": "2f1eec27-a8d5-40c7-a637-1dfa6595f908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34318,
+            52.42524
+          ],
+          [
+            13.34286,
+            52.42561
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Retzowstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.15",
+        "road_id": "dd447528-d856-4bf7-93db-2f881fbcf945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33963,
+            52.42532
+          ],
+          [
+            13.3402,
+            52.42558
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.2",
+        "road_id": "c00255b9-0449-43eb-8a9d-b8ae30223a01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3456,
+            52.42636
+          ],
+          [
+            13.3461,
+            52.42639
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Bellingstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.7",
+        "road_id": "ec0c3880-05b7-4a5d-8dc7-2f45fd1a18ce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34349,
+            52.43093
+          ],
+          [
+            13.3437,
+            52.43102
+          ],
+          [
+            13.34452,
+            52.43141
+          ],
+          [
+            13.34515,
+            52.43174
+          ],
+          [
+            13.34525,
+            52.43179
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Havensteinstraße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "20",
+        "road_id": "410bd7fe-b785-48ea-8f57-4999b34279c8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34393,
+            52.42695
+          ],
+          [
+            13.3443,
+            52.42715
+          ],
+          [
+            13.34435,
+            52.42718
+          ],
+          [
+            13.34447,
+            52.42726
+          ],
+          [
+            13.34456,
+            52.42737
+          ],
+          [
+            13.3446,
+            52.42743
+          ],
+          [
+            13.34466,
+            52.4275
+          ],
+          [
+            13.34472,
+            52.42756
+          ],
+          [
+            13.34479,
+            52.42762
+          ],
+          [
+            13.34495,
+            52.42775
+          ],
+          [
+            13.34514,
+            52.4279
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.55",
+        "road_id": "c3cf303a-4b47-4c25-92ea-db1e823b8f68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34286,
+            52.42561
+          ],
+          [
+            13.3435,
+            52.4258
+          ],
+          [
+            13.34398,
+            52.42594
+          ],
+          [
+            13.34478,
+            52.42616
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Bellingstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.15",
+        "road_id": "b97e7933-8e43-40e3-aa35-8aaedcc79c82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35144,
+            52.42606
+          ],
+          [
+            13.35032,
+            52.42645
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.9",
+        "road_id": "c3cee23d-9002-4ff9-b01d-44c48255e8c6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33721,
+            52.42895
+          ],
+          [
+            13.33711,
+            52.42912
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "26.45",
+        "road_id": "5057118c-8513-441e-a392-bdec6f2807d9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33959,
+            52.43082
+          ],
+          [
+            13.33925,
+            52.43108
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.35",
+        "road_id": "e3b5594e-ff8c-4427-a489-45793cb785d7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34138,
+            52.42701
+          ],
+          [
+            13.34082,
+            52.42748
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.4",
+        "road_id": "424f19a4-4af6-401d-980e-c9ffccd2f73b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34405,
+            52.42811
+          ],
+          [
+            13.34424,
+            52.42818
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.55",
+        "road_id": "ae05eb5f-9ed3-42ee-b951-83623b7c074e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34874,
+            52.42504
+          ],
+          [
+            13.34869,
+            52.42519
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.1",
+        "road_id": "a335b864-2de6-41b6-9f92-fd52fb52ec40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34393,
+            52.42695
+          ],
+          [
+            13.34387,
+            52.42703
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.65",
+        "road_id": "5407c4cf-991a-4940-8dc8-1476a54f3cd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33706,
+            52.4283
+          ],
+          [
+            13.33681,
+            52.42849
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.45",
+        "road_id": "f7819a7b-28ae-4f6f-a811-73339f4aa0b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34478,
+            52.42616
+          ],
+          [
+            13.34393,
+            52.42695
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.95",
+        "road_id": "0a973aec-5dec-4f58-9f9f-8c3fb7a10b20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34425,
+            52.43018
+          ],
+          [
+            13.34434,
+            52.43023
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.15",
+        "road_id": "594f0003-2038-4927-9ff7-4cd0b4fed41d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34789,
+            52.42436
+          ],
+          [
+            13.34818,
+            52.42445
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "1d18c261-e494-42ed-9876-bae610ffbe32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33931,
+            52.42633
+          ],
+          [
+            13.33969,
+            52.42635
+          ],
+          [
+            13.3398,
+            52.42639
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.3",
+        "road_id": "04076ec2-72cd-4013-b54f-fd4a27bf1571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34086,
+            52.42781
+          ],
+          [
+            13.3408,
+            52.42788
+          ],
+          [
+            13.34075,
+            52.42795
+          ],
+          [
+            13.34073,
+            52.42801
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.55",
+        "road_id": "e95148ac-7e0c-4a87-ad55-64219073d660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3498,
+            52.4284
+          ],
+          [
+            13.35016,
+            52.42894
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.35",
+        "road_id": "4d650343-5d99-4e23-87eb-e59d23aae01b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34367,
+            52.42796
+          ],
+          [
+            13.34405,
+            52.42811
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "26.5",
+        "road_id": "ba96d4df-d12c-4353-a632-5cb580685baf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34502,
+            52.4318
+          ],
+          [
+            13.34491,
+            52.4319
+          ],
+          [
+            13.34488,
+            52.43194
+          ],
+          [
+            13.34486,
+            52.43199
+          ],
+          [
+            13.34486,
+            52.43202
+          ],
+          [
+            13.34488,
+            52.43205
+          ],
+          [
+            13.34492,
+            52.43207
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.05",
+        "road_id": "0b875992-0e46-4814-95b1-3767788fd4f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34222,
+            52.42855
+          ],
+          [
+            13.34187,
+            52.42887
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.4",
+        "road_id": "3359e3ed-9f16-4cb1-8547-277225c45be3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34882,
+            52.43044
+          ],
+          [
+            13.34846,
+            52.43057
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Am Gemeindepark",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.9",
+        "road_id": "c3fc9675-f664-4d78-8e2b-f6d88542e3d5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3416,
+            52.42853
+          ],
+          [
+            13.34177,
+            52.42838
+          ],
+          [
+            13.34197,
+            52.42841
+          ],
+          [
+            13.34222,
+            52.42855
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.5",
+        "road_id": "eec2cc9f-76e1-428e-aead-1775833d2cc9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34782,
+            52.42852
+          ],
+          [
+            13.34816,
+            52.42854
+          ],
+          [
+            13.34828,
+            52.42855
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24.2",
+        "road_id": "aeee6607-1a74-48d2-8639-9e6cd6892c19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34956,
+            52.42542
+          ],
+          [
+            13.34944,
+            52.42549
+          ],
+          [
+            13.34932,
+            52.42554
+          ],
+          [
+            13.34918,
+            52.42557
+          ],
+          [
+            13.34876,
+            52.42561
+          ],
+          [
+            13.34864,
+            52.42562
+          ],
+          [
+            13.34853,
+            52.42564
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.6",
+        "road_id": "0d530876-6156-4781-8c53-5c5ed415ebbb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33758,
+            52.42525
+          ],
+          [
+            13.33767,
+            52.42528
+          ],
+          [
+            13.33774,
+            52.42531
+          ],
+          [
+            13.33779,
+            52.42533
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.5",
+        "road_id": "a32096fd-cb03-4b83-89c4-cd5eb2dc747c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34667,
+            52.42646
+          ],
+          [
+            13.34663,
+            52.42669
+          ],
+          [
+            13.34652,
+            52.42671
+          ],
+          [
+            13.34643,
+            52.42671
+          ],
+          [
+            13.34632,
+            52.42693
+          ],
+          [
+            13.34626,
+            52.42706
+          ],
+          [
+            13.34627,
+            52.42717
+          ],
+          [
+            13.3464,
+            52.42729
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.4",
+        "road_id": "0bf30173-281b-46ed-98a0-12209a9b9d9c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3461,
+            52.42639
+          ],
+          [
+            13.34601,
+            52.42659
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.3",
+        "road_id": "d9218bd8-2094-4f35-933c-5c1545af50c0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34962,
+            52.42809
+          ],
+          [
+            13.34959,
+            52.42812
+          ],
+          [
+            13.34953,
+            52.42814
+          ],
+          [
+            13.34944,
+            52.42816
+          ],
+          [
+            13.3487,
+            52.42826
+          ],
+          [
+            13.34851,
+            52.42827
+          ],
+          [
+            13.3483,
+            52.42826
+          ],
+          [
+            13.34814,
+            52.42825
+          ],
+          [
+            13.34804,
+            52.42823
+          ],
+          [
+            13.34797,
+            52.42821
+          ],
+          [
+            13.34792,
+            52.42818
+          ],
+          [
+            13.3479,
+            52.42814
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.7",
+        "road_id": "eba7e002-22c9-46f4-a75f-f520809921c4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35072,
+            52.42558
+          ],
+          [
+            13.35063,
+            52.42566
+          ],
+          [
+            13.35057,
+            52.42571
+          ],
+          [
+            13.35003,
+            52.42593
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.65",
+        "road_id": "4c866269-4682-498a-89c5-228aa6bc5147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34313,
+            52.42775
+          ],
+          [
+            13.3429,
+            52.42796
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "ae859894-c0ba-4a41-9d1e-8276a6a2d0ba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33758,
+            52.42677
+          ],
+          [
+            13.33722,
+            52.42706
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "1.75",
+        "road_id": "d4d920df-adaf-4e92-9f56-e828a1b89286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3455,
+            52.42685
+          ],
+          [
+            13.34579,
+            52.42691
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.45",
+        "road_id": "7e2fc2b3-8802-4829-949e-aaa2acba5467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34332,
+            52.43087
+          ],
+          [
+            13.34349,
+            52.43093
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Havensteinstraße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "23.7",
+        "road_id": "7ccdba7e-bc42-4fb5-94a5-7689c6baf52b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34313,
+            52.42775
+          ],
+          [
+            13.34333,
+            52.42783
+          ],
+          [
+            13.34367,
+            52.42796
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.35",
+        "road_id": "8d3bb159-69c8-428a-ab50-79e84f3c2508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34719,
+            52.42857
+          ],
+          [
+            13.34713,
+            52.42881
+          ],
+          [
+            13.34708,
+            52.42906
+          ],
+          [
+            13.34686,
+            52.43
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8",
+        "road_id": "7d06122f-f912-48f2-be3f-5de160283e65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34818,
+            52.42445
+          ],
+          [
+            13.34821,
+            52.42448
+          ],
+          [
+            13.34822,
+            52.42453
+          ],
+          [
+            13.34818,
+            52.42461
+          ],
+          [
+            13.34806,
+            52.42477
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "461c1703-c701-41fa-aa05-59c1058b49f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3498,
+            52.4284
+          ],
+          [
+            13.34964,
+            52.42843
+          ],
+          [
+            13.34953,
+            52.42845
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.05",
+        "road_id": "2dfcd3b2-e13e-43cc-a83f-2a40292cab02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.345,
+            52.42845
+          ],
+          [
+            13.34476,
+            52.42868
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.55",
+        "road_id": "d90b1620-7e94-405b-a4b1-fbd0a898a83e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33483,
+            52.4274
+          ],
+          [
+            13.33605,
+            52.42782
+          ],
+          [
+            13.33706,
+            52.4283
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Derfflingerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17",
+        "road_id": "56dfd0f7-99ef-457a-82b1-41c865a33f54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33831,
+            52.42389
+          ],
+          [
+            13.33899,
+            52.42419
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Goldaper Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.65",
+        "road_id": "c24008b7-312c-45ce-a2d3-27efe9e3d0c0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33931,
+            52.4256
+          ],
+          [
+            13.3388,
+            52.4261
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.35",
+        "road_id": "99cf3833-fdbd-4bd7-8f22-d907d10efba8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34525,
+            52.43179
+          ],
+          [
+            13.34541,
+            52.43186
+          ],
+          [
+            13.34549,
+            52.43188
+          ],
+          [
+            13.3457,
+            52.4319
+          ],
+          [
+            13.34604,
+            52.43193
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Havensteinstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.5",
+        "road_id": "602f27a1-2dfa-431f-ae99-f13b5e281fdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34209,
+            52.42923
+          ],
+          [
+            13.34279,
+            52.42952
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19",
+        "road_id": "7efd2350-ef11-416e-b594-757a299aaf3f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34514,
+            52.4279
+          ],
+          [
+            13.34471,
+            52.42834
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.45",
+        "road_id": "92244adf-6af4-447c-a0fb-0f2ff2c3bd3b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33931,
+            52.42633
+          ],
+          [
+            13.33878,
+            52.42681
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.25",
+        "road_id": "3d0fa6f7-0363-4ca3-a639-c6470da6d2d9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33952,
+            52.42443
+          ],
+          [
+            13.33942,
+            52.42458
+          ],
+          [
+            13.33945,
+            52.42462
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Goldaper Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.6",
+        "road_id": "525a162c-9eec-44bf-b770-d3934d3758f4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34806,
+            52.42477
+          ],
+          [
+            13.34943,
+            52.425
+          ],
+          [
+            13.34989,
+            52.42508
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.15",
+        "road_id": "48e2109b-280d-433e-acd3-fe033e7c70c8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34953,
+            52.42845
+          ],
+          [
+            13.34984,
+            52.42892
+          ],
+          [
+            13.34986,
+            52.42894
+          ],
+          [
+            13.34991,
+            52.42896
+          ],
+          [
+            13.34995,
+            52.42897
+          ],
+          [
+            13.35,
+            52.42897
+          ],
+          [
+            13.35006,
+            52.42896
+          ],
+          [
+            13.35016,
+            52.42894
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.75",
+        "road_id": "2d59dbe8-eac4-4b8d-9b87-42d5ee5cb325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33805,
+            52.42743
+          ],
+          [
+            13.33841,
+            52.42759
+          ],
+          [
+            13.34027,
+            52.42841
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.25",
+        "road_id": "4b907107-cc40-45e0-a13a-02323213506c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35118,
+            52.42869
+          ],
+          [
+            13.35072,
+            52.4288
+          ],
+          [
+            13.35016,
+            52.42894
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.75",
+        "road_id": "9cc48199-ed73-44a1-ac20-82066f4743eb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34822,
+            52.4251
+          ],
+          [
+            13.34869,
+            52.42519
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.1",
+        "road_id": "a70bf69e-1261-4a25-a951-cc33c51b49e2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33925,
+            52.43108
+          ],
+          [
+            13.34109,
+            52.43193
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Ingridpfad",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "18.1",
+        "road_id": "e3a818d5-1abf-48a6-8833-c1a9eda83a58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34405,
+            52.42811
+          ],
+          [
+            13.34386,
+            52.4283
+          ],
+          [
+            13.34384,
+            52.42835
+          ],
+          [
+            13.34385,
+            52.4284
+          ],
+          [
+            13.34389,
+            52.42845
+          ],
+          [
+            13.34394,
+            52.42848
+          ],
+          [
+            13.344,
+            52.4285
+          ],
+          [
+            13.34407,
+            52.4285
+          ],
+          [
+            13.34415,
+            52.42848
+          ],
+          [
+            13.34429,
+            52.42842
+          ],
+          [
+            13.34439,
+            52.42841
+          ],
+          [
+            13.34448,
+            52.42842
+          ],
+          [
+            13.34455,
+            52.42845
+          ],
+          [
+            13.3446,
+            52.4285
+          ],
+          [
+            13.3446,
+            52.42857
+          ],
+          [
+            13.34458,
+            52.42863
+          ],
+          [
+            13.34457,
+            52.42869
+          ],
+          [
+            13.34459,
+            52.42873
+          ],
+          [
+            13.34464,
+            52.42876
+          ],
+          [
+            13.3447,
+            52.42877
+          ],
+          [
+            13.34476,
+            52.42877
+          ],
+          [
+            13.34482,
+            52.42876
+          ],
+          [
+            13.34489,
+            52.42874
+          ],
+          [
+            13.34503,
+            52.42866
+          ],
+          [
+            13.3452,
+            52.42852
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5",
+        "road_id": "0d9dcfe4-ed89-4836-b6c9-beece03a5ec2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34073,
+            52.42801
+          ],
+          [
+            13.3409,
+            52.42807
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.5",
+        "road_id": "f6bc4988-b218-40bc-97ac-6ab28967517c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35032,
+            52.42645
+          ],
+          [
+            13.35006,
+            52.42649
+          ],
+          [
+            13.34874,
+            52.42702
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.25",
+        "road_id": "c6fcb4db-ee9f-4050-8bbd-0af806d184b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34515,
+            52.42584
+          ],
+          [
+            13.34478,
+            52.42616
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.15",
+        "road_id": "89bec447-b2ec-49bc-8aed-eae7e110a50c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3422,
+            52.42626
+          ],
+          [
+            13.34229,
+            52.42629
+          ],
+          [
+            13.34267,
+            52.42644
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.6",
+        "road_id": "99b2c6f5-8c56-4149-800c-84d5a25967d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34874,
+            52.42504
+          ],
+          [
+            13.3491,
+            52.42512
+          ],
+          [
+            13.34915,
+            52.42514
+          ],
+          [
+            13.34917,
+            52.42517
+          ],
+          [
+            13.34917,
+            52.42521
+          ],
+          [
+            13.34915,
+            52.42528
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.9",
+        "road_id": "21b40e85-0206-44c2-8827-f99b5459a5dd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34763,
+            52.42553
+          ],
+          [
+            13.3476,
+            52.42568
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "36.65",
+        "road_id": "e9955cdb-0846-471c-bbb5-f9dd305913c2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34779,
+            52.42472
+          ],
+          [
+            13.34806,
+            52.42477
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.95",
+        "road_id": "09c7e352-2327-4321-80e2-051ff0833cc2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34267,
+            52.42644
+          ],
+          [
+            13.34259,
+            52.42655
+          ],
+          [
+            13.34259,
+            52.42658
+          ],
+          [
+            13.34263,
+            52.42661
+          ],
+          [
+            13.3434,
+            52.42693
+          ],
+          [
+            13.34347,
+            52.42693
+          ],
+          [
+            13.34352,
+            52.42691
+          ],
+          [
+            13.34361,
+            52.42681
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.25",
+        "road_id": "36d79934-b6bc-4085-8bc5-07402476180d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33746,
+            52.42849
+          ],
+          [
+            13.3406,
+            52.42995
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Derfflingerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.85",
+        "road_id": "57ec9b83-f527-4405-9006-5f9910a96d40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34555,
+            52.4265
+          ],
+          [
+            13.34545,
+            52.42673
+          ],
+          [
+            13.3455,
+            52.42685
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.2",
+        "road_id": "811335ef-3355-4a8a-895d-d29d1d361bd1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35071,
+            52.42812
+          ],
+          [
+            13.35041,
+            52.42822
+          ],
+          [
+            13.35027,
+            52.42826
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.85",
+        "road_id": "12ed7e6a-6754-4cfc-ba6b-910e1868129b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34687,
+            52.42891
+          ],
+          [
+            13.34673,
+            52.42969
+          ],
+          [
+            13.34654,
+            52.43074
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.6",
+        "road_id": "1e54cf49-7d2d-4891-a090-4da3aa66c3d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34167,
+            52.42904
+          ],
+          [
+            13.34088,
+            52.42972
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.2",
+        "road_id": "dca3a8ef-3c0c-48ab-a04f-6be012fb028d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34748,
+            52.42612
+          ],
+          [
+            13.34764,
+            52.42614
+          ],
+          [
+            13.34774,
+            52.42616
+          ],
+          [
+            13.34784,
+            52.42619
+          ],
+          [
+            13.34793,
+            52.42624
+          ],
+          [
+            13.34803,
+            52.42631
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.2",
+        "road_id": "83c349be-c6f1-487b-99a5-1f759605ee79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34782,
+            52.42852
+          ],
+          [
+            13.34777,
+            52.42872
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.8",
+        "road_id": "315c429c-f673-4ac5-97ac-546c92a1548c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33779,
+            52.42533
+          ],
+          [
+            13.33766,
+            52.42544
+          ],
+          [
+            13.33758,
+            52.4255
+          ],
+          [
+            13.33753,
+            52.42555
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.85",
+        "road_id": "43f2c243-5fd2-4306-8452-2ef8899f8f58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34375,
+            52.42995
+          ],
+          [
+            13.34425,
+            52.43018
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.35",
+        "road_id": "47b954b9-af37-46db-9235-af09f561bb6c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34027,
+            52.42841
+          ],
+          [
+            13.34167,
+            52.42904
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.2",
+        "road_id": "7b10bbe5-69c7-4cdf-8424-7bd163da3731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35014,
+            52.42997
+          ],
+          [
+            13.34985,
+            52.43005
+          ],
+          [
+            13.34882,
+            52.43044
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Am Gemeindepark",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.6",
+        "road_id": "2c2a6df8-2d8c-4c0a-8b40-4e215c7b8020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34076,
+            52.42315
+          ],
+          [
+            13.34132,
+            52.42335
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Hirzbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.8",
+        "road_id": "6b6b7e6e-f615-49f3-a8de-cfd2b184812b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34654,
+            52.43074
+          ],
+          [
+            13.34651,
+            52.43089
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "35.7",
+        "road_id": "e8f9f627-c7e1-46cb-8262-702e238b2f06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34227,
+            52.42905
+          ],
+          [
+            13.34209,
+            52.42923
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.4",
+        "road_id": "9adc5594-7cb5-4486-bbbc-943c5f8df34b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34915,
+            52.42528
+          ],
+          [
+            13.34913,
+            52.42533
+          ],
+          [
+            13.34909,
+            52.42536
+          ],
+          [
+            13.34904,
+            52.42538
+          ],
+          [
+            13.34898,
+            52.42539
+          ],
+          [
+            13.34889,
+            52.42538
+          ],
+          [
+            13.34864,
+            52.42532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.4",
+        "road_id": "147231af-ec2c-4706-b2d0-415fede8130a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34861,
+            52.42855
+          ],
+          [
+            13.34873,
+            52.4287
+          ],
+          [
+            13.34896,
+            52.42908
+          ],
+          [
+            13.34897,
+            52.42912
+          ],
+          [
+            13.34897,
+            52.42916
+          ],
+          [
+            13.34894,
+            52.42918
+          ],
+          [
+            13.34886,
+            52.4292
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.5",
+        "road_id": "4b51f42a-ec78-40b9-9650-408fbe42c67c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35027,
+            52.42826
+          ],
+          [
+            13.35034,
+            52.42837
+          ],
+          [
+            13.35041,
+            52.42848
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.25",
+        "road_id": "251849e3-a8c5-4956-8789-f110f2072de3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34667,
+            52.42646
+          ],
+          [
+            13.34734,
+            52.42653
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Bellingstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.6",
+        "road_id": "897a006a-abc3-482e-9962-6e74780455a2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34709,
+            52.42772
+          ],
+          [
+            13.34704,
+            52.42799
+          ],
+          [
+            13.34697,
+            52.42843
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.8",
+        "road_id": "07588fef-0838-4112-8cd7-4f793c6ade08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34279,
+            52.42952
+          ],
+          [
+            13.34317,
+            52.42968
+          ],
+          [
+            13.34347,
+            52.42982
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.9",
+        "road_id": "9c896107-0a69-4fea-823b-4859eeb5a7e6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33878,
+            52.42681
+          ],
+          [
+            13.34012,
+            52.42737
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.2",
+        "road_id": "352c852c-df55-4d60-a3a1-ad4aee9124a4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33869,
+            52.42521
+          ],
+          [
+            13.33887,
+            52.42504
+          ],
+          [
+            13.33898,
+            52.42503
+          ],
+          [
+            13.33963,
+            52.42532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.3",
+        "road_id": "49852c18-f897-459c-a699-06d1b0168bb1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34088,
+            52.42972
+          ],
+          [
+            13.34095,
+            52.42975
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Havensteinstraße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "14.9",
+        "road_id": "e925919a-ed81-4cb7-9540-1c35672ffb86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34088,
+            52.42972
+          ],
+          [
+            13.3406,
+            52.42995
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.8",
+        "road_id": "d1d0cea7-819e-4217-9fa3-84309b17acb3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34586,
+            52.42741
+          ],
+          [
+            13.34617,
+            52.4275
+          ],
+          [
+            13.34621,
+            52.42756
+          ],
+          [
+            13.34629,
+            52.42759
+          ],
+          [
+            13.34709,
+            52.42772
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.4",
+        "road_id": "3a87ee5f-c0b1-48c4-b6f5-faf8f5081a9a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34227,
+            52.42905
+          ],
+          [
+            13.34243,
+            52.42915
+          ],
+          [
+            13.34256,
+            52.42921
+          ],
+          [
+            13.34272,
+            52.42928
+          ],
+          [
+            13.34296,
+            52.42938
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "7.6",
+        "road_id": "8daeb10e-5c62-42aa-8733-ac8562e8bf61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34601,
+            52.42659
+          ],
+          [
+            13.3459,
+            52.42684
+          ],
+          [
+            13.34579,
+            52.42691
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.35",
+        "road_id": "5bef099c-ca72-47c7-b107-9d72afdd91b3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.35105,
+            52.42574
+          ],
+          [
+            13.35088,
+            52.42581
+          ],
+          [
+            13.3502,
+            52.42609
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.95",
+        "road_id": "1acdebf7-b8a4-4d37-a4c0-5b1f5e46d8d9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33877,
+            52.43045
+          ],
+          [
+            13.33959,
+            52.43082
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Seydlitzstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.8",
+        "road_id": "3f1ef064-3aac-44db-b00e-1eda184140c9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34734,
+            52.42653
+          ],
+          [
+            13.34728,
+            52.42674
+          ],
+          [
+            13.34715,
+            52.42742
+          ],
+          [
+            13.34709,
+            52.42772
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "38.4",
+        "road_id": "87f58399-403e-406f-9ddf-4aab670af2dc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34044,
+            52.42502
+          ],
+          [
+            13.34053,
+            52.42506
+          ],
+          [
+            13.34054,
+            52.42508
+          ],
+          [
+            13.34053,
+            52.42511
+          ],
+          [
+            13.34042,
+            52.4252
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "1.65",
+        "road_id": "04c29c01-9fad-4a85-913b-953057c9f303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33805,
+            52.42743
+          ],
+          [
+            13.33778,
+            52.42791
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.8",
+        "road_id": "9abe57b1-c829-4831-8fbd-a0a873a52707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3452,
+            52.42852
+          ],
+          [
+            13.34535,
+            52.42858
+          ],
+          [
+            13.34585,
+            52.42875
+          ],
+          [
+            13.34608,
+            52.42881
+          ],
+          [
+            13.34634,
+            52.42886
+          ],
+          [
+            13.34687,
+            52.42891
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.45",
+        "road_id": "eafe7ae0-7224-4bb1-8b02-24decebc0a10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34846,
+            52.43057
+          ],
+          [
+            13.34818,
+            52.43065
+          ],
+          [
+            13.34773,
+            52.43073
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Am Gemeindepark",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.7",
+        "road_id": "adcdd7b9-ce25-4d42-8168-54c697c8d468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33753,
+            52.42555
+          ],
+          [
+            13.33819,
+            52.42584
+          ],
+          [
+            13.3388,
+            52.4261
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.15",
+        "road_id": "f2a83296-fa22-4d8e-901a-8e96eadfe9fe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34187,
+            52.42887
+          ],
+          [
+            13.34207,
+            52.42897
+          ],
+          [
+            13.34227,
+            52.42905
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.6",
+        "road_id": "113beac0-fe51-476c-83f8-ad6dd0f8ad62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34434,
+            52.43023
+          ],
+          [
+            13.34446,
+            52.43028
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.25",
+        "road_id": "739a8afe-01fb-454b-8bc9-5e871e6811e6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34874,
+            52.42702
+          ],
+          [
+            13.34813,
+            52.42726
+          ],
+          [
+            13.34808,
+            52.42729
+          ],
+          [
+            13.34804,
+            52.42733
+          ],
+          [
+            13.34802,
+            52.42738
+          ],
+          [
+            13.34789,
+            52.42804
+          ],
+          [
+            13.34789,
+            52.42809
+          ],
+          [
+            13.3479,
+            52.42814
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.75",
+        "road_id": "8c13a72e-ce55-412d-983c-782f7355d82d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33711,
+            52.42912
+          ],
+          [
+            13.33768,
+            52.42926
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.3",
+        "road_id": "3457fcfe-1116-472f-ae9a-02398a06b974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33878,
+            52.42681
+          ],
+          [
+            13.33805,
+            52.42743
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.4",
+        "road_id": "cd0b78c7-7a05-410e-860b-d88529a90d34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33711,
+            52.42912
+          ],
+          [
+            13.33707,
+            52.42919
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Zietenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "26.6",
+        "road_id": "6055b98b-db84-4836-9196-8b6a29f1a2b1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34296,
+            52.42938
+          ],
+          [
+            13.34328,
+            52.42952
+          ],
+          [
+            13.34342,
+            52.42957
+          ],
+          [
+            13.34357,
+            52.42962
+          ],
+          [
+            13.34368,
+            52.42966
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Frobenstraße",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "10.8",
+        "road_id": "9fc8c7cd-3edd-47cb-8820-87f696731561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33963,
+            52.42532
+          ],
+          [
+            13.33931,
+            52.4256
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8",
+        "road_id": "c9edc140-e319-43d1-b1e9-bed624961acd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33869,
+            52.42521
+          ],
+          [
+            13.33865,
+            52.42528
+          ],
+          [
+            13.33869,
+            52.42533
+          ],
+          [
+            13.33931,
+            52.4256
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Rudolf-Beyendorff-Ring",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.35",
+        "road_id": "18a08e28-c330-47f9-b523-ad09aa83bd92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34686,
+            52.43
+          ],
+          [
+            13.34685,
+            52.43007
+          ],
+          [
+            13.34687,
+            52.4301
+          ],
+          [
+            13.3469,
+            52.43012
+          ],
+          [
+            13.34693,
+            52.43014
+          ],
+          [
+            13.34694,
+            52.43016
+          ],
+          [
+            13.34693,
+            52.43019
+          ],
+          [
+            13.34692,
+            52.43026
+          ],
+          [
+            13.3469,
+            52.43042
+          ],
+          [
+            13.34686,
+            52.43075
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.15",
+        "road_id": "e6800e05-7582-49ab-a99b-8419038cf689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34697,
+            52.42843
+          ],
+          [
+            13.34694,
+            52.42858
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.15",
+        "road_id": "9e693f16-85e4-4bd2-9a94-5d68892449dd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34267,
+            52.42644
+          ],
+          [
+            13.34314,
+            52.42662
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.7",
+        "road_id": "9621f31c-6e90-4659-932d-954a9494ebb1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34424,
+            52.42818
+          ],
+          [
+            13.344,
+            52.4284
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.15",
+        "road_id": "db3fa199-d421-4180-984c-d518a6c8fddd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34642,
+            52.43141
+          ],
+          [
+            13.34641,
+            52.43147
+          ],
+          [
+            13.34637,
+            52.4317
+          ],
+          [
+            13.34634,
+            52.43195
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Gallwitzallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.25",
+        "road_id": "53a18538-0f01-4c9f-a3e1-20cccd6416de"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33772,
+            52.42958
+          ],
+          [
+            13.33765,
+            52.4297
+          ],
+          [
+            13.33758,
+            52.42976
+          ],
+          [
+            13.33748,
+            52.42977
+          ],
+          [
+            13.33736,
+            52.42976
+          ],
+          [
+            13.3368,
+            52.42965
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.15",
+        "road_id": "9a4e0771-aa47-420d-a4da-952b3c84a5d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.33899,
+            52.42419
+          ],
+          [
+            13.33952,
+            52.42443
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Goldaper Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.2",
+        "road_id": "b16cf798-716c-43b5-86ab-0087813c5272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.34828,
+            52.42855
+          ],
+          [
+            13.34837,
+            52.42855
+          ],
+          [
+            13.34861,
+            52.42855
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Eiswaldtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.8",
+        "road_id": "fbe843be-5972-4a52-a4f4-372f5d26de89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3476,
+            52.42568
+          ],
+          [
+            13.34785,
+            52.42571
+          ],
+          [
+            13.34798,
+            52.42571
+          ],
+          [
+            13.34814,
+            52.4257
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Lerbacher Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.3",
+        "road_id": "38dcb174-99f3-4625-abf0-2acdb44729c8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3388,
+            52.4261
+          ],
+          [
+            13.33931,
+            52.42633
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "source": "road",
+        "road_name": "Dessauerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.6",
+        "road_id": "4cfce2bb-16b2-41a8-b7d7-e26204aba93b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347473,
+          52.42568
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347841,
+          52.424778
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347552,
+          52.425575
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347761,
+          52.424507
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34781,
+          52.424297
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347538,
+          52.42558
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347509,
+          52.425537
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348,
+          52.424694
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346188,
+          52.43091
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit",
+        "supplemental_gfrgroup": "",
+        "bearing": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346196,
+          52.430904
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346187,
+          52.4309
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347454,
+          52.428436
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3469515,
+          52.430706
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347088,
+          52.426537
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit",
+        "supplemental_gfrgroup": "SupplementalArrowWhiteRight",
+        "bearing": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346959,
+          52.430702
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347092,
+          52.426537
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "SupplementalArrowWhiteRight",
+        "bearing": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347077,
+          52.426544
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "SupplementalArrowWhiteRight",
+        "bearing": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346593,
+          52.428925
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348002,
+          52.425655
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.346584,
+          52.42893
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347996,
+          52.424698
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347992,
+          52.424694
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347458,
+          52.42843
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347987,
+          52.424686
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347454,
+          52.428432
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34799,
+          52.425663
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "254"
+      }
+    }
+  ],
+  "metadata": {
+    "feature_count": 230,
+    "feature_type_counts": {
+      "school": 1,
+      "road": 203,
+      "schoolzone_speedlimit_sign": 7,
+      "remaining_speedlimit_end_sign": 19
+    },
+    "geometry_type_counts": {
+      "Point": 27,
+      "LineString": 203
+    },
+    "bounding_box": [
+      13.33483,
+      52.42315,
+      13.35195,
+      52.4321
+    ],
+    "property_schema": {
+      "feature_type": {
+        "types": {
+          "string": 230
+        },
+        "examples": [
+          "school",
+          "road",
+          "road",
+          "road",
+          "road"
+        ]
+      },
+      "sample_index": {
+        "types": {
+          "integer": 230
+        },
+        "examples": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "sample_label": {
+        "types": {
+          "string": 1
+        },
+        "examples": [
+          "School"
+        ]
+      },
+      "source": {
+        "types": {
+          "string": 230
+        },
+        "examples": [
+          "school_point",
+          "road",
+          "road",
+          "road",
+          "road"
+        ]
+      },
+      "road_name": {
+        "types": {
+          "string": 203
+        },
+        "examples": [
+          "",
+          "Zietenstraße",
+          "",
+          "Gallwitzallee",
+          "Bellingstraße"
+        ]
+      },
+      "travel_direction": {
+        "types": {
+          "string": 203
+        },
+        "examples": [
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS"
+        ]
+      },
+      "average_speed": {
+        "types": {
+          "string": 203
+        },
+        "examples": [
+          "8.95",
+          "26.3",
+          "6.8",
+          "",
+          "16.8"
+        ]
+      },
+      "road_id": {
+        "types": {
+          "string": 203
+        },
+        "examples": [
+          "c5f0b3bc-73ad-445c-999f-d75c9e5a9a4f",
+          "09d5c2ad-7c6b-4189-b9f0-08474325c095",
+          "d8e23886-bf1e-4d36-a6de-78a709af7b27",
+          "d1a8f1f7-360a-4b17-9eb0-e8b3b3eaa855",
+          "1d02d20a-85e8-499a-bfaa-0c790504b9f0"
+        ]
+      },
+      "speedlimit_gfrgroup": {
+        "types": {
+          "string": 26
+        },
+        "examples": [
+          "SpeedLimit2V30",
+          "SpeedLimit2V30",
+          "SpeedLimit2V30",
+          "SpeedLimit2V30",
+          "SpeedLimit2V30"
+        ]
+      },
+      "schoolzone_gfrgroup": {
+        "types": {
+          "string": 7
+        },
+        "examples": [
+          "SchoolZone3",
+          "SchoolZone3",
+          "SchoolZone3",
+          "SchoolZone3",
+          "SchoolZone3"
+        ]
+      },
+      "pole_bearing": {
+        "types": {
+          "string": 7
+        },
+        "examples": [
+          "208",
+          "19",
+          "218",
+          "197",
+          "26"
+        ]
+      },
+      "supplemental_gfrgroup": {
+        "types": {
+          "string": 19
+        },
+        "examples": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "bearing": {
+        "types": {
+          "string": 19
+        },
+        "examples": [
+          "233",
+          "48",
+          "48",
+          "45",
+          "238"
+        ]
+      }
+    },
+    "sample_indices": [
+      0
+    ],
+    "sample_labels": [
+      "School"
+    ]
+  }
+}

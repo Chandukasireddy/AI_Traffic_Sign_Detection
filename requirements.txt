@@ -1,0 +1,6 @@
+pandas>=2.2.0
+matplotlib>=3.8.0
+shapely>=2.0.0
+python-dotenv>=1.0.1
+langchain>=0.2.12
+langchain-google-genai>=1.0.10
