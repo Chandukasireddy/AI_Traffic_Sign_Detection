@@ -1,0 +1,5668 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12809,
+          52.364
+        ]
+      },
+      "properties": {
+        "feature_type": "school",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "school_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12984,
+            52.36182
+          ],
+          [
+            13.12927,
+            52.36227
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.5",
+        "road_id": "2337f645-c2da-4375-8b63-d749af5c5d25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12262,
+            52.36178
+          ],
+          [
+            13.12275,
+            52.36249
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.95",
+        "road_id": "818902b4-72f7-43d5-98e0-9625de5af217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13472,
+            52.36354
+          ],
+          [
+            13.13479,
+            52.36369
+          ],
+          [
+            13.1349,
+            52.36387
+          ],
+          [
+            13.1357,
+            52.36438
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Dorothea-Schneider-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.55",
+        "road_id": "005a5ff9-b7f1-4a34-9378-75be737c8886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13296,
+            52.36086
+          ],
+          [
+            13.13283,
+            52.36094
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Lise-Meitner-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.4",
+        "road_id": "b3b41580-3fb4-4dd9-9420-b6238bccb1e4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13236,
+            52.35739
+          ],
+          [
+            13.13227,
+            52.35745
+          ],
+          [
+            13.13103,
+            52.35831
+          ],
+          [
+            13.13003,
+            52.35898
+          ],
+          [
+            13.12856,
+            52.35995
+          ],
+          [
+            13.12783,
+            52.36043
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Trebbiner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.95",
+        "road_id": "b7c0b21f-2f01-4683-9277-5f121932b948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.129,
+            52.36152
+          ],
+          [
+            13.12901,
+            52.36163
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "da920480-233e-4db9-9769-69508ecebb58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12816,
+            52.36797
+          ],
+          [
+            13.12873,
+            52.36805
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Gerlachstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.8",
+        "road_id": "8c10ab2d-9f9c-4b03-a482-0382f750a81c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13348,
+            52.36395
+          ],
+          [
+            13.13345,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17",
+        "road_id": "d80ed171-604d-4d6c-93c8-2f9b77de1f54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13296,
+            52.36086
+          ],
+          [
+            13.133,
+            52.36089
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Marie-Hannemann-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.1",
+        "road_id": "545ddcd4-df1c-47f5-be55-5bb33a5f6a19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13279,
+            52.3635
+          ],
+          [
+            13.13325,
+            52.36388
+          ],
+          [
+            13.13333,
+            52.36392
+          ],
+          [
+            13.13339,
+            52.36394
+          ],
+          [
+            13.13348,
+            52.36395
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "19.3",
+        "road_id": "6bd70e87-c8b8-4249-999c-6bfa58dbe5b5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12862,
+            52.36163
+          ],
+          [
+            13.12901,
+            52.36163
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "1c354536-58b3-4a23-b15e-6c1026d8cdde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13367,
+            52.36128
+          ],
+          [
+            13.13421,
+            52.36157
+          ],
+          [
+            13.13437,
+            52.3616
+          ],
+          [
+            13.13463,
+            52.36161
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Marie-Hannemann-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.5",
+        "road_id": "d3051ca1-8cdc-42b9-b442-5b706b93dfff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12567,
+            52.35977
+          ],
+          [
+            13.12573,
+            52.35984
+          ],
+          [
+            13.12579,
+            52.35991
+          ],
+          [
+            13.12593,
+            52.36
+          ],
+          [
+            13.12621,
+            52.36013
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.9",
+        "road_id": "d701d018-2313-4ab5-94f1-671f921afcfa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12814,
+            52.36455
+          ],
+          [
+            13.12787,
+            52.36472
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "11.3",
+        "road_id": "71813da8-1d24-4040-9a44-97822a692866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12804,
+            52.36811
+          ],
+          [
+            13.12834,
+            52.36825
+          ],
+          [
+            13.12888,
+            52.3685
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Gerlachstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.85",
+        "road_id": "f22fce46-873a-467e-9260-4e910549977c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13291,
+            52.36564
+          ],
+          [
+            13.1333,
+            52.36564
+          ],
+          [
+            13.1335,
+            52.36565
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "40.85",
+        "road_id": "8b007dfe-0f23-44a7-9f1e-68decbcd2eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12833,
+            52.36761
+          ],
+          [
+            13.12846,
+            52.36763
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18",
+        "road_id": "4e558892-cc0e-42df-8c2c-54423f5599d1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12856,
+            52.35946
+          ],
+          [
+            13.12788,
+            52.36027
+          ],
+          [
+            13.12784,
+            52.36033
+          ],
+          [
+            13.12782,
+            52.36037
+          ],
+          [
+            13.12783,
+            52.36043
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Am Silbergraben",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.9",
+        "road_id": "39e81a4f-39a4-4e44-bae6-d25e592a4c58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12488,
+            52.3616
+          ],
+          [
+            13.1258,
+            52.36176
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.4",
+        "road_id": "d7d72995-6b0e-4a80-b99e-41931259dcfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13241,
+            52.36308
+          ],
+          [
+            13.13239,
+            52.36312
+          ],
+          [
+            13.13238,
+            52.36315
+          ],
+          [
+            13.1324,
+            52.36318
+          ],
+          [
+            13.13279,
+            52.3635
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "19.7",
+        "road_id": "a2964a31-b0b4-4798-83ea-424525a38564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12585,
+            52.36456
+          ],
+          [
+            13.12586,
+            52.36463
+          ],
+          [
+            13.12588,
+            52.36468
+          ],
+          [
+            13.12598,
+            52.36475
+          ],
+          [
+            13.12607,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.55",
+        "road_id": "2e18e05e-90f3-43bc-85a6-aeee319b8c76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12984,
+            52.3676
+          ],
+          [
+            13.1297,
+            52.36772
+          ],
+          [
+            13.12965,
+            52.36775
+          ],
+          [
+            13.12962,
+            52.36779
+          ],
+          [
+            13.12959,
+            52.36785
+          ],
+          [
+            13.12959,
+            52.36793
+          ],
+          [
+            13.12959,
+            52.36801
+          ],
+          [
+            13.12961,
+            52.36808
+          ],
+          [
+            13.12964,
+            52.36813
+          ],
+          [
+            13.12972,
+            52.36819
+          ],
+          [
+            13.12985,
+            52.36824
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.55",
+        "road_id": "0db8cd77-c359-4b9f-8bea-218976dd7224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12943,
+            52.36704
+          ],
+          [
+            13.12923,
+            52.36755
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "41.05",
+        "road_id": "caa924d4-2504-4b2c-83cd-2ce160b772cb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1346,
+            52.36218
+          ],
+          [
+            13.1346,
+            52.36224
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Dorothea-Schneider-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25",
+        "road_id": "7756b315-0e1e-4161-be26-34182a4d8238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13241,
+            52.36308
+          ],
+          [
+            13.13248,
+            52.36307
+          ],
+          [
+            13.13252,
+            52.36308
+          ],
+          [
+            13.13255,
+            52.3631
+          ],
+          [
+            13.13303,
+            52.36336
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "17.5",
+        "road_id": "70ea3f0a-1f06-4e5a-a64c-0cdd200cf721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13242,
+            52.36476
+          ],
+          [
+            13.13082,
+            52.36475
+          ],
+          [
+            13.13066,
+            52.36475
+          ],
+          [
+            13.13053,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "33.7",
+        "road_id": "5c1ec87f-0c38-4e2a-aed3-44fd54b59129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12903,
+            52.36767
+          ],
+          [
+            13.1289,
+            52.36768
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.15",
+        "road_id": "34d1dd39-abc2-4024-86ce-2d899decb89d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12986,
+            52.36161
+          ],
+          [
+            13.13034,
+            52.36161
+          ],
+          [
+            13.13079,
+            52.36162
+          ],
+          [
+            13.13104,
+            52.36175
+          ],
+          [
+            13.13169,
+            52.36175
+          ],
+          [
+            13.1321,
+            52.36177
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.55",
+        "road_id": "5a023fca-9ee0-4162-9458-5915a2f05ece"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12683,
+            52.36823
+          ],
+          [
+            13.12726,
+            52.3684
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.9",
+        "road_id": "3497424e-1856-4307-8bc8-480059b0ce87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13271,
+            52.36734
+          ],
+          [
+            13.1325,
+            52.36744
+          ],
+          [
+            13.1324,
+            52.36751
+          ],
+          [
+            13.13235,
+            52.36757
+          ],
+          [
+            13.13232,
+            52.36764
+          ],
+          [
+            13.13233,
+            52.36773
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.95",
+        "road_id": "fe1136c1-1365-40c4-9132-899d331d6d03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12685,
+            52.364
+          ],
+          [
+            13.12809,
+            52.364
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.2",
+        "road_id": "3971913e-f2f3-46d1-91c5-fb4519180cab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12984,
+            52.36182
+          ],
+          [
+            13.13042,
+            52.36182
+          ],
+          [
+            13.13061,
+            52.36184
+          ],
+          [
+            13.13095,
+            52.36212
+          ],
+          [
+            13.13132,
+            52.36211
+          ],
+          [
+            13.13139,
+            52.36207
+          ],
+          [
+            13.13213,
+            52.36207
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Teich",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.8",
+        "road_id": "33fc0805-4146-4ed4-8099-4ee4f0c3b075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12585,
+            52.36456
+          ],
+          [
+            13.12614,
+            52.36456
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.7",
+        "road_id": "57035a0c-58ea-4671-8b20-fd0c430cd90c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13459,
+            52.36248
+          ],
+          [
+            13.13459,
+            52.36307
+          ],
+          [
+            13.1346,
+            52.36326
+          ],
+          [
+            13.13472,
+            52.36354
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Dorothea-Schneider-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.5",
+        "road_id": "28d02dd1-64ea-4963-ae29-e0cd8aee2445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1317,
+            52.36008
+          ],
+          [
+            13.13296,
+            52.36086
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Marie-Hannemann-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.35",
+        "road_id": "47e39c3c-c55b-49b4-a103-cfd2ed37838c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12809,
+            52.36411
+          ],
+          [
+            13.12809,
+            52.36424
+          ],
+          [
+            13.12809,
+            52.36432
+          ],
+          [
+            13.1281,
+            52.36441
+          ],
+          [
+            13.12812,
+            52.36449
+          ],
+          [
+            13.12814,
+            52.36455
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.15",
+        "road_id": "b48033a5-231f-4147-863f-9fd2237d64b2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12814,
+            52.36455
+          ],
+          [
+            13.12816,
+            52.36459
+          ],
+          [
+            13.12819,
+            52.36464
+          ],
+          [
+            13.12823,
+            52.36469
+          ],
+          [
+            13.12827,
+            52.36474
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.25",
+        "road_id": "5102379a-ce8f-4a82-8b9e-0db61488a104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12658,
+            52.36167
+          ],
+          [
+            13.12656,
+            52.36173
+          ],
+          [
+            13.12654,
+            52.3618
+          ],
+          [
+            13.12653,
+            52.36188
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Trebbiner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.55",
+        "road_id": "5439b93b-c82c-479d-a5dd-8f34ec06052b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12783,
+            52.36043
+          ],
+          [
+            13.12772,
+            52.3605
+          ],
+          [
+            13.1275,
+            52.36065
+          ],
+          [
+            13.12745,
+            52.36068
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Trebbiner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "33.05",
+        "road_id": "bc695b5c-1bc7-4236-a614-b9396ebefedd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1346,
+            52.36218
+          ],
+          [
+            13.13509,
+            52.36218
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.75",
+        "road_id": "35a68d49-a0fb-4bbb-8403-c7dfeab215e7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13053,
+            52.36478
+          ],
+          [
+            13.13041,
+            52.36484
+          ],
+          [
+            13.1298,
+            52.36524
+          ],
+          [
+            13.12977,
+            52.36528
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.55",
+        "road_id": "0e122e43-ed6c-42f9-85ce-a22f5b16f73d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12742,
+            52.36781
+          ],
+          [
+            13.12745,
+            52.36793
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24.4",
+        "road_id": "888af9ce-5bf7-49cf-be7a-e0a4d99f7047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13279,
+            52.3635
+          ],
+          [
+            13.13154,
+            52.36415
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Margarete-Buber-Neumann-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.85",
+        "road_id": "cd630f22-2d8b-4071-a069-ddf9d163eb54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12607,
+            52.36478
+          ],
+          [
+            13.12624,
+            52.36521
+          ],
+          [
+            13.12638,
+            52.36543
+          ],
+          [
+            13.12714,
+            52.36623
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20",
+        "road_id": "b946d1c1-201e-4815-807a-659137fb3001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13367,
+            52.36128
+          ],
+          [
+            13.13341,
+            52.36143
+          ],
+          [
+            13.1332,
+            52.36157
+          ],
+          [
+            13.13312,
+            52.3617
+          ],
+          [
+            13.13309,
+            52.36191
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Kamblystraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.65",
+        "road_id": "0d701706-206a-4186-a3e5-b8a81b3e776a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13289,
+            52.36715
+          ],
+          [
+            13.13417,
+            52.36794
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.95",
+        "road_id": "4b584cb6-a5bb-47e8-9f6e-7bb64475ed0b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12787,
+            52.36336
+          ],
+          [
+            13.12792,
+            52.36346
+          ],
+          [
+            13.12796,
+            52.36354
+          ],
+          [
+            13.128,
+            52.36363
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.15",
+        "road_id": "94711a6c-0aba-4f9e-8d70-60a109389ab4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12873,
+            52.36805
+          ],
+          [
+            13.12883,
+            52.36811
+          ],
+          [
+            13.12888,
+            52.36815
+          ],
+          [
+            13.12897,
+            52.36826
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "16.7",
+        "road_id": "69f5344c-16ee-4c39-8ddd-15d7a04e625a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12962,
+            52.36637
+          ],
+          [
+            13.12953,
+            52.36672
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "37.45",
+        "road_id": "1621b087-e1ee-423c-a368-601fc1f00aca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12984,
+            52.3676
+          ],
+          [
+            13.12986,
+            52.36799
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.95",
+        "road_id": "80b600d8-f693-457d-b88f-76ac0ca506eb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12787,
+            52.36472
+          ],
+          [
+            13.12741,
+            52.36508
+          ],
+          [
+            13.12728,
+            52.36546
+          ],
+          [
+            13.12714,
+            52.36623
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.1",
+        "road_id": "8e70bc74-5f3f-4826-ab1e-c2944c11ec38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12614,
+            52.36456
+          ],
+          [
+            13.12615,
+            52.36464
+          ],
+          [
+            13.12613,
+            52.36471
+          ],
+          [
+            13.12607,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.9",
+        "road_id": "54616165-1bdc-49bf-bcdd-fafc51470c63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12986,
+            52.36799
+          ],
+          [
+            13.12985,
+            52.36824
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22",
+        "road_id": "143223f1-dd60-4de0-8e50-2c8d7772e8cc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12953,
+            52.36672
+          ],
+          [
+            13.12943,
+            52.36704
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "41.25",
+        "road_id": "aa6bb341-04ee-47c9-b4cf-5e6d63795ac4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12745,
+            52.36068
+          ],
+          [
+            13.12735,
+            52.36073
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Trebbiner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.05",
+        "road_id": "56390174-cdfd-4c6a-9f8c-9f7f9553077e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1321,
+            52.36267
+          ],
+          [
+            13.132,
+            52.36269
+          ],
+          [
+            13.13189,
+            52.36274
+          ],
+          [
+            13.13183,
+            52.36281
+          ],
+          [
+            13.13185,
+            52.36288
+          ],
+          [
+            13.13194,
+            52.36295
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "15.7",
+        "road_id": "236a5fe4-7109-4a32-9c33-d67445def12f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12985,
+            52.36824
+          ],
+          [
+            13.12985,
+            52.36836
+          ],
+          [
+            13.12985,
+            52.36861
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.4",
+        "road_id": "67dc25a5-4c03-4b03-9c3c-71f4d360f29c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.128,
+            52.36363
+          ],
+          [
+            13.12803,
+            52.36372
+          ],
+          [
+            13.12806,
+            52.36382
+          ],
+          [
+            13.12808,
+            52.36391
+          ],
+          [
+            13.12809,
+            52.364
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.9",
+        "road_id": "25699827-991e-4576-ada5-9067a26aa567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12893,
+            52.36541
+          ],
+          [
+            13.12901,
+            52.36546
+          ],
+          [
+            13.12909,
+            52.3655
+          ],
+          [
+            13.12918,
+            52.36554
+          ],
+          [
+            13.12927,
+            52.36557
+          ],
+          [
+            13.12935,
+            52.36559
+          ],
+          [
+            13.12946,
+            52.36561
+          ],
+          [
+            13.12955,
+            52.36562
+          ],
+          [
+            13.12971,
+            52.36563
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.8",
+        "road_id": "64ca1287-7de8-4a82-a5f5-954db51216f1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12832,
+            52.36479
+          ],
+          [
+            13.12838,
+            52.36485
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.8",
+        "road_id": "55212c99-8dc8-4c49-a5ad-f2f1734284c9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13154,
+            52.36415
+          ],
+          [
+            13.13242,
+            52.36476
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Johanna-Just-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.1",
+        "road_id": "acf29dc5-d7eb-45af-b68d-e641caa1618a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12879,
+            52.36768
+          ],
+          [
+            13.12872,
+            52.36784
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.25",
+        "road_id": "18aa28ce-055d-4d95-8354-1467a72ce241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13345,
+            52.36478
+          ],
+          [
+            13.13365,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "69c7a9ed-3eab-424b-b7fd-625fcd4a7a8e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1254,
+            52.36416
+          ],
+          [
+            13.12549,
+            52.36444
+          ],
+          [
+            13.12552,
+            52.36448
+          ],
+          [
+            13.12557,
+            52.36451
+          ],
+          [
+            13.12585,
+            52.36456
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.65",
+        "road_id": "ccdf05ca-bb18-4cf6-abcb-676729dc882a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12921,
+            52.36706
+          ],
+          [
+            13.12742,
+            52.36781
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Gerlachstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.8",
+        "road_id": "81bb2a11-4001-4b16-b8ac-20be48bbbabd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13025,
+            52.3627
+          ],
+          [
+            13.13025,
+            52.36335
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.9",
+        "road_id": "ad8fcbac-b01f-47cc-b635-674ffc3c3e97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13469,
+            52.36608
+          ],
+          [
+            13.13447,
+            52.36619
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Oskar-Meßter-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.5",
+        "road_id": "28df6d50-2119-496a-8c91-8ea2c94f8f3e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1346,
+            52.3621
+          ],
+          [
+            13.1346,
+            52.36218
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Dorothea-Schneider-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24",
+        "road_id": "d1141008-64ec-4f28-b8b8-16aa46bb04c3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13213,
+            52.36207
+          ],
+          [
+            13.13307,
+            52.36207
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Teich",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.7",
+        "road_id": "bc27d67c-243c-4c8c-9902-21e28e4c9a61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1255,
+            52.3597
+          ],
+          [
+            13.12567,
+            52.35977
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5",
+        "road_id": "f7f446ce-17e3-4dea-aac4-6bc7db02ae60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13194,
+            52.36295
+          ],
+          [
+            13.13066,
+            52.36354
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Karoline-Schulze-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.95",
+        "road_id": "150ed0da-3fcc-4c06-987a-114df7ae2e81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13472,
+            52.36354
+          ],
+          [
+            13.13374,
+            52.36373
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Maxie-Wander-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.2",
+        "road_id": "d1f951bb-5553-4932-aada-d23f4d6c3354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12844,
+            52.36491
+          ],
+          [
+            13.12858,
+            52.36506
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.25",
+        "road_id": "c1c13539-efc2-467c-a693-62c5519ac04b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13085,
+            52.36584
+          ],
+          [
+            13.13289,
+            52.36715
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.85",
+        "road_id": "44d0edde-a197-418b-9e1f-9289d086c1a5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12714,
+            52.36623
+          ],
+          [
+            13.12744,
+            52.36731
+          ],
+          [
+            13.12742,
+            52.36781
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.5",
+        "road_id": "98defbcb-a89f-42ad-94a3-56266e9fec6a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12739,
+            52.36829
+          ],
+          [
+            13.12726,
+            52.3684
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.3",
+        "road_id": "91329789-25e4-41ca-9712-6c222d71bb87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12745,
+            52.36793
+          ],
+          [
+            13.12768,
+            52.36797
+          ],
+          [
+            13.12804,
+            52.36811
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Gerlachstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.7",
+        "road_id": "25040ab3-6838-42da-904d-89821cd3cd24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1321,
+            52.36177
+          ],
+          [
+            13.13213,
+            52.36207
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Lise-Meitner-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.95",
+        "road_id": "db5e19af-377c-4fd3-9025-19b0960450fb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12745,
+            52.36793
+          ],
+          [
+            13.12745,
+            52.36808
+          ],
+          [
+            13.12739,
+            52.36829
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.9",
+        "road_id": "2556d07e-f1d4-4cda-bba2-896ad6504295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13039,
+            52.36562
+          ],
+          [
+            13.12971,
+            52.36563
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.55",
+        "road_id": "099c5493-e6ed-42be-b90d-348b2af9ea5c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12879,
+            52.36768
+          ],
+          [
+            13.1289,
+            52.36768
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.55",
+        "road_id": "05f2f3dd-d9d2-4836-976e-17f143b53e59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12816,
+            52.36797
+          ],
+          [
+            13.12804,
+            52.36811
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Gerlachstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.1",
+        "road_id": "171c4352-c377-4af2-8f16-31d76e831f72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12787,
+            52.36472
+          ],
+          [
+            13.12801,
+            52.36475
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.65",
+        "road_id": "f540f58f-cfd3-4b6a-a3ec-fd8f60f95442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12809,
+            52.364
+          ],
+          [
+            13.12809,
+            52.36411
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.65",
+        "road_id": "b3d367ce-9de5-42cc-8718-3d145e1e7e05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12844,
+            52.36491
+          ],
+          [
+            13.12948,
+            52.36524
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.55",
+        "road_id": "7c2c58e0-9baf-412f-a04a-d0c3f5a76f3b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13374,
+            52.36373
+          ],
+          [
+            13.13371,
+            52.36382
+          ],
+          [
+            13.13365,
+            52.36389
+          ],
+          [
+            13.13358,
+            52.36393
+          ],
+          [
+            13.13348,
+            52.36395
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "14.5",
+        "road_id": "6502fd74-fdb6-42b1-a505-c7e0ccde0bc2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12927,
+            52.36227
+          ],
+          [
+            13.12917,
+            52.36245
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.35",
+        "road_id": "a3201b8c-4acf-42b0-9602-c71bbf04bb92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13447,
+            52.36619
+          ],
+          [
+            13.13316,
+            52.36699
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Oskar-Meßter-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "3ab6c37a-2ca5-4e26-a184-bdb0f0220dd7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13194,
+            52.36295
+          ],
+          [
+            13.13208,
+            52.36298
+          ],
+          [
+            13.13221,
+            52.36296
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "16.9",
+        "road_id": "27d5bbab-e930-478a-a1e3-fd2dbd272ff8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12726,
+            52.3684
+          ],
+          [
+            13.12673,
+            52.36917
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.2",
+        "road_id": "7924639a-59a4-4fcc-9d9c-074e5002695b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12735,
+            52.36073
+          ],
+          [
+            13.12719,
+            52.36087
+          ],
+          [
+            13.12709,
+            52.36097
+          ],
+          [
+            13.12699,
+            52.36108
+          ],
+          [
+            13.12689,
+            52.36121
+          ],
+          [
+            13.1268,
+            52.36133
+          ],
+          [
+            13.12669,
+            52.36149
+          ],
+          [
+            13.12662,
+            52.3616
+          ],
+          [
+            13.12658,
+            52.36167
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Trebbiner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.35",
+        "road_id": "e7f32de7-f545-40d0-8c8e-352aa5d5537a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13117,
+            52.35978
+          ],
+          [
+            13.13019,
+            52.36035
+          ],
+          [
+            13.12974,
+            52.36055
+          ],
+          [
+            13.12955,
+            52.36061
+          ],
+          [
+            13.12924,
+            52.36065
+          ],
+          [
+            13.12883,
+            52.36069
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Kirchstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.65",
+        "road_id": "805d8129-1e90-4d6c-9128-27463a4746f8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13463,
+            52.36161
+          ],
+          [
+            13.1346,
+            52.3621
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Dorothea-Schneider-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.4",
+        "road_id": "01113908-cd46-4a95-85ee-c196faedc7cf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12986,
+            52.36161
+          ],
+          [
+            13.12984,
+            52.36182
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.7",
+        "road_id": "2955100c-b3d3-4834-a3e9-f95847dcac15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13316,
+            52.36699
+          ],
+          [
+            13.13289,
+            52.36715
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Oskar-Meßter-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "8c9e4f4b-8e17-4ad8-b7fe-a1133d0e5ce2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.133,
+            52.36089
+          ],
+          [
+            13.13367,
+            52.36128
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Marie-Hannemann-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.15",
+        "road_id": "4bbfb864-9bbe-45ae-9d11-43854976b7a3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12966,
+            52.3641
+          ],
+          [
+            13.13022,
+            52.3641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.15",
+        "road_id": "c6ae66d0-7d41-4da7-a189-507f6a185ae8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13283,
+            52.36094
+          ],
+          [
+            13.1324,
+            52.36121
+          ],
+          [
+            13.13226,
+            52.36134
+          ],
+          [
+            13.13217,
+            52.36148
+          ],
+          [
+            13.13213,
+            52.36156
+          ],
+          [
+            13.1321,
+            52.36177
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Lise-Meitner-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.2",
+        "road_id": "b9487bbe-9b61-4a0c-b7f2-c575d94f6e1f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13586,
+            52.36333
+          ],
+          [
+            13.13575,
+            52.36332
+          ],
+          [
+            13.13472,
+            52.36354
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Maxie-Wander-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.85",
+        "road_id": "1cf7a80f-d47e-4b0f-9c4f-a6930d07d7f4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12801,
+            52.36475
+          ],
+          [
+            13.12832,
+            52.36479
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.8",
+        "road_id": "fb2f807c-2dd3-4290-9f18-ff7817a46aea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13021,
+            52.36394
+          ],
+          [
+            13.13022,
+            52.3641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.75",
+        "road_id": "1db38945-c6b2-4ff0-a5f6-5d127a6135d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13025,
+            52.36335
+          ],
+          [
+            13.13021,
+            52.36394
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.85",
+        "road_id": "d34bebdf-465a-4fe0-bbc3-9729ee7ff587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12944,
+            52.36334
+          ],
+          [
+            13.13025,
+            52.36335
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.45",
+        "road_id": "453975ce-3477-48bb-b490-e900e2af56e2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1321,
+            52.36267
+          ],
+          [
+            13.1322,
+            52.3627
+          ],
+          [
+            13.13228,
+            52.36275
+          ],
+          [
+            13.13232,
+            52.36284
+          ],
+          [
+            13.13228,
+            52.36293
+          ],
+          [
+            13.13221,
+            52.36296
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "15.1",
+        "road_id": "a8ee011f-14f0-4a4c-bab4-266d5d5915d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12903,
+            52.36767
+          ],
+          [
+            13.12918,
+            52.36769
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.95",
+        "road_id": "d9a94f2e-8ea8-4d83-9f9d-937b9c3bad4b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12593,
+            52.36178
+          ],
+          [
+            13.1261,
+            52.3618
+          ],
+          [
+            13.12624,
+            52.36182
+          ],
+          [
+            13.12635,
+            52.36184
+          ],
+          [
+            13.12645,
+            52.36186
+          ],
+          [
+            13.12653,
+            52.36188
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.35",
+        "road_id": "6666d2d9-6da4-4953-a784-c9ec1d03671a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13066,
+            52.36354
+          ],
+          [
+            13.13095,
+            52.36375
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Johanna-Just-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.25",
+        "road_id": "7875cd15-b77f-46c3-839c-8e98f5b35a24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12593,
+            52.36178
+          ],
+          [
+            13.12584,
+            52.36194
+          ],
+          [
+            13.12577,
+            52.36202
+          ],
+          [
+            13.12553,
+            52.36222
+          ],
+          [
+            13.12541,
+            52.36229
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.55",
+        "road_id": "b87c64a9-cdbd-428c-b2e3-a01ffe2917fb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1258,
+            52.36176
+          ],
+          [
+            13.12593,
+            52.36178
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.35",
+        "road_id": "320bd0e1-f085-46ea-b4af-f670c3697bb8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12653,
+            52.36188
+          ],
+          [
+            13.1266,
+            52.36193
+          ],
+          [
+            13.12666,
+            52.36198
+          ],
+          [
+            13.12673,
+            52.36204
+          ],
+          [
+            13.12741,
+            52.36266
+          ],
+          [
+            13.12749,
+            52.36273
+          ],
+          [
+            13.12756,
+            52.3628
+          ],
+          [
+            13.12762,
+            52.36287
+          ],
+          [
+            13.12767,
+            52.36294
+          ],
+          [
+            13.12772,
+            52.36302
+          ],
+          [
+            13.12776,
+            52.3631
+          ],
+          [
+            13.1278,
+            52.36319
+          ],
+          [
+            13.12787,
+            52.36336
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.75",
+        "road_id": "7331c1eb-dba8-4899-a30c-8875d33eae78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12627,
+            52.36451
+          ],
+          [
+            13.12681,
+            52.3645
+          ],
+          [
+            13.12733,
+            52.36457
+          ],
+          [
+            13.12787,
+            52.36472
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "12.3",
+        "road_id": "3216bbe7-b02d-44f9-ad35-4fa456b71a90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13113,
+            52.36715
+          ],
+          [
+            13.13115,
+            52.36769
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.65",
+        "road_id": "9c53df50-7927-4ae1-87c0-02cebaf8c552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13221,
+            52.36296
+          ],
+          [
+            13.13241,
+            52.36308
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.35",
+        "road_id": "1297bbba-97b2-4e86-8d72-661afdbfed01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13095,
+            52.36375
+          ],
+          [
+            13.13154,
+            52.36415
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Johanna-Just-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.25",
+        "road_id": "46120173-e6ec-4c39-bb0d-4f95b065aa84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12621,
+            52.36013
+          ],
+          [
+            13.12724,
+            52.36061
+          ],
+          [
+            13.12745,
+            52.36068
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Trebbiner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.65",
+        "road_id": "feab9024-b3f5-4862-94d7-63f9bd9a9dea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12975,
+            52.36532
+          ],
+          [
+            13.12974,
+            52.36535
+          ],
+          [
+            13.12973,
+            52.36545
+          ],
+          [
+            13.12971,
+            52.36563
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.55",
+        "road_id": "1a72143e-6158-46c4-a507-88d502d9b427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12833,
+            52.36761
+          ],
+          [
+            13.12845,
+            52.36755
+          ],
+          [
+            13.12853,
+            52.36753
+          ],
+          [
+            13.12873,
+            52.36754
+          ],
+          [
+            13.12885,
+            52.36755
+          ],
+          [
+            13.12895,
+            52.3676
+          ],
+          [
+            13.12903,
+            52.36767
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.2",
+        "road_id": "2d25528d-9664-4168-8fbb-7023e577e8fd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13025,
+            52.36335
+          ],
+          [
+            13.13035,
+            52.36336
+          ],
+          [
+            13.13042,
+            52.36339
+          ],
+          [
+            13.13066,
+            52.36354
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Johanna-Just-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.6",
+        "road_id": "38d9cb90-b159-48df-af4b-6b97a440d6fd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12923,
+            52.36755
+          ],
+          [
+            13.12918,
+            52.36769
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.95",
+        "road_id": "b8ec4d43-a9d9-4c65-a3a5-206e02d71eb8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12913,
+            52.36782
+          ],
+          [
+            13.12903,
+            52.36811
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.8",
+        "road_id": "9db12ee1-7c54-430a-b5ab-206fbb7ca2be"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12482,
+            52.36186
+          ],
+          [
+            13.12486,
+            52.3619
+          ],
+          [
+            13.12521,
+            52.36213
+          ],
+          [
+            13.1253,
+            52.36219
+          ],
+          [
+            13.12541,
+            52.36229
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.2",
+        "road_id": "9e882323-4517-4542-b5a4-e591fe717ed7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13022,
+            52.3641
+          ],
+          [
+            13.13024,
+            52.36416
+          ],
+          [
+            13.13026,
+            52.36422
+          ],
+          [
+            13.13053,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.85",
+        "road_id": "df97028a-97b7-4f00-990a-9a088490c88d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12971,
+            52.36563
+          ],
+          [
+            13.1297,
+            52.36595
+          ],
+          [
+            13.12967,
+            52.36611
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24.4",
+        "road_id": "d47819f2-d2fe-4d4d-81be-ec45693fdcd6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12918,
+            52.36769
+          ],
+          [
+            13.12913,
+            52.36782
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "38.85",
+        "road_id": "451c6a5d-b2af-41aa-970b-769bdf87705a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13113,
+            52.36715
+          ],
+          [
+            13.13143,
+            52.36719
+          ],
+          [
+            13.13153,
+            52.36723
+          ],
+          [
+            13.13175,
+            52.36736
+          ],
+          [
+            13.13181,
+            52.36741
+          ],
+          [
+            13.13183,
+            52.36744
+          ],
+          [
+            13.13184,
+            52.36787
+          ],
+          [
+            13.13183,
+            52.36792
+          ],
+          [
+            13.13181,
+            52.36797
+          ],
+          [
+            13.13176,
+            52.36801
+          ],
+          [
+            13.13165,
+            52.36806
+          ],
+          [
+            13.13148,
+            52.36812
+          ],
+          [
+            13.1313,
+            52.36819
+          ],
+          [
+            13.13116,
+            52.36825
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10",
+        "road_id": "032806cf-db09-48e1-94e3-14775490b47a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12883,
+            52.36069
+          ],
+          [
+            13.12795,
+            52.36074
+          ],
+          [
+            13.12751,
+            52.36076
+          ],
+          [
+            13.12735,
+            52.36073
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Kirchstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.15",
+        "road_id": "db1de853-8687-4da8-b0e1-6345243dd913"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13338,
+            52.36478
+          ],
+          [
+            13.13345,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "35.35",
+        "road_id": "697444ce-e076-4372-bb3c-14aee1aca867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1255,
+            52.3597
+          ],
+          [
+            13.12542,
+            52.35977
+          ],
+          [
+            13.12536,
+            52.35983
+          ],
+          [
+            13.12533,
+            52.3599
+          ],
+          [
+            13.12531,
+            52.36002
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.9",
+        "road_id": "10de3379-34e8-4700-bb47-39ad2430450d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12967,
+            52.36611
+          ],
+          [
+            13.12964,
+            52.36631
+          ],
+          [
+            13.12962,
+            52.36637
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.9",
+        "road_id": "6a553c05-4375-4c8a-b644-61fda0162900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12895,
+            52.36272
+          ],
+          [
+            13.12862,
+            52.36303
+          ],
+          [
+            13.12847,
+            52.36318
+          ],
+          [
+            13.12825,
+            52.36328
+          ],
+          [
+            13.12808,
+            52.36334
+          ],
+          [
+            13.12787,
+            52.36336
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "In den Neuen Höfen",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.4",
+        "road_id": "2dc9c874-0b20-405c-8e0c-a35b650a6e2a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12739,
+            52.36829
+          ],
+          [
+            13.12738,
+            52.36908
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Neuendorfer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.2",
+        "road_id": "55244ab7-3894-4ea5-b0c0-565f65ab9f79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12262,
+            52.36178
+          ],
+          [
+            13.12252,
+            52.3618
+          ],
+          [
+            13.12246,
+            52.36183
+          ],
+          [
+            13.12246,
+            52.36196
+          ],
+          [
+            13.12253,
+            52.36213
+          ],
+          [
+            13.12254,
+            52.3622
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "2.2",
+        "road_id": "34cd1c2d-90ca-4229-87e5-7cc227ae241d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12846,
+            52.36763
+          ],
+          [
+            13.12879,
+            52.36768
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.6",
+        "road_id": "d918a76c-06c9-43f0-9ab4-a01ceafe49ee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12531,
+            52.36002
+          ],
+          [
+            13.12525,
+            52.36018
+          ],
+          [
+            13.12524,
+            52.3603
+          ],
+          [
+            13.12527,
+            52.3604
+          ],
+          [
+            13.12534,
+            52.36047
+          ],
+          [
+            13.12542,
+            52.36054
+          ],
+          [
+            13.12549,
+            52.36063
+          ],
+          [
+            13.12545,
+            52.36073
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.65",
+        "road_id": "d26fc137-e8c4-4507-a3f4-5850b61498d2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12897,
+            52.36826
+          ],
+          [
+            13.12888,
+            52.3685
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "35.35",
+        "road_id": "f693c30d-ca86-4eea-b639-97615867adbf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13113,
+            52.36715
+          ],
+          [
+            13.13098,
+            52.36714
+          ],
+          [
+            13.13065,
+            52.36713
+          ],
+          [
+            13.13027,
+            52.36713
+          ],
+          [
+            13.13006,
+            52.36713
+          ],
+          [
+            13.12999,
+            52.36713
+          ],
+          [
+            13.12993,
+            52.36715
+          ],
+          [
+            13.12988,
+            52.36719
+          ],
+          [
+            13.12983,
+            52.36726
+          ],
+          [
+            13.12984,
+            52.3676
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.35",
+        "road_id": "4a1670df-69c2-4993-9262-9de090542a63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13376,
+            52.3625
+          ],
+          [
+            13.13327,
+            52.36317
+          ],
+          [
+            13.13303,
+            52.36336
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Bettina-von-Arnim-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.2",
+        "road_id": "af61c0b9-420a-4697-8c1f-0257615dd9d8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12883,
+            52.36069
+          ],
+          [
+            13.12901,
+            52.36145
+          ],
+          [
+            13.129,
+            52.36152
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.6",
+        "road_id": "dc806fd0-62a5-4fa7-befd-f343e3d785e8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13358,
+            52.36023
+          ],
+          [
+            13.13351,
+            52.36036
+          ],
+          [
+            13.13347,
+            52.36048
+          ],
+          [
+            13.13338,
+            52.36059
+          ],
+          [
+            13.1332,
+            52.3607
+          ],
+          [
+            13.13296,
+            52.36086
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Lise-Meitner-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.75",
+        "road_id": "b5d162f8-e8d3-4752-b6f4-cd41a0043aea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1321,
+            52.36247
+          ],
+          [
+            13.1321,
+            52.36267
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.85",
+        "road_id": "d746b9dc-23e7-424d-8f15-7cebea0c1f99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13039,
+            52.36562
+          ],
+          [
+            13.13161,
+            52.36564
+          ],
+          [
+            13.13291,
+            52.36564
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.85",
+        "road_id": "7948aeca-b55f-43be-b8fe-75e49078beef"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13115,
+            52.36769
+          ],
+          [
+            13.13116,
+            52.36825
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.55",
+        "road_id": "e76fa7e3-be14-400e-aa85-88f2b4110d08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12838,
+            52.36485
+          ],
+          [
+            13.12844,
+            52.36491
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.2",
+        "road_id": "63b5fc14-5cb9-48f6-aded-5d1b9b613a37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12903,
+            52.36811
+          ],
+          [
+            13.12897,
+            52.36826
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Kirchsteigfeld",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "33.6",
+        "road_id": "f74b005b-3702-484f-b567-b3a77b957aac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12627,
+            52.36451
+          ],
+          [
+            13.12614,
+            52.36456
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "20.7",
+        "road_id": "bf2cca10-b521-4868-8916-29da398d8e4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13303,
+            52.36336
+          ],
+          [
+            13.13374,
+            52.36373
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nelly-Sachs-Straße",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "16.4",
+        "road_id": "360dac86-85fa-4e50-8578-8f692b5213f9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12846,
+            52.36763
+          ],
+          [
+            13.12841,
+            52.36778
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.6",
+        "road_id": "552a874e-3d08-435e-aec8-8554f86ae672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12545,
+            52.36238
+          ],
+          [
+            13.12551,
+            52.36248
+          ],
+          [
+            13.12556,
+            52.36259
+          ],
+          [
+            13.12561,
+            52.36268
+          ],
+          [
+            13.12574,
+            52.36298
+          ],
+          [
+            13.12587,
+            52.36322
+          ],
+          [
+            13.12598,
+            52.36347
+          ],
+          [
+            13.12612,
+            52.36371
+          ],
+          [
+            13.1262,
+            52.36384
+          ],
+          [
+            13.12628,
+            52.36396
+          ],
+          [
+            13.12632,
+            52.36402
+          ],
+          [
+            13.12633,
+            52.36406
+          ],
+          [
+            13.12634,
+            52.3641
+          ],
+          [
+            13.12634,
+            52.36414
+          ],
+          [
+            13.12634,
+            52.36418
+          ],
+          [
+            13.12632,
+            52.36426
+          ],
+          [
+            13.12631,
+            52.36433
+          ],
+          [
+            13.12629,
+            52.36443
+          ],
+          [
+            13.12627,
+            52.36451
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Alt Drewitz",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.7",
+        "road_id": "0de67b26-1c08-4188-ab82-347b2ea246ae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12827,
+            52.36474
+          ],
+          [
+            13.12832,
+            52.36479
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.2",
+        "road_id": "070e7e79-7ffc-4daf-b1e6-24b75e9bf6fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12901,
+            52.36163
+          ],
+          [
+            13.12929,
+            52.3617
+          ],
+          [
+            13.12936,
+            52.36175
+          ],
+          [
+            13.12946,
+            52.36179
+          ],
+          [
+            13.12959,
+            52.3618
+          ],
+          [
+            13.12984,
+            52.36182
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Zum Teich",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.65",
+        "road_id": "7b6dd848-15db-4857-b595-f027a5b998b0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13242,
+            52.36476
+          ],
+          [
+            13.13338,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.95",
+        "road_id": "f57fb3b7-9e89-4831-86c9-ff151ae8fb50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13409,
+            52.36577
+          ],
+          [
+            13.13439,
+            52.36591
+          ],
+          [
+            13.13469,
+            52.36608
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.65",
+        "road_id": "01459817-d1c1-44bb-bbc2-4196280d3150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12858,
+            52.36506
+          ],
+          [
+            13.12879,
+            52.36528
+          ],
+          [
+            13.12886,
+            52.36535
+          ],
+          [
+            13.12893,
+            52.36541
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.7",
+        "road_id": "45f3ee49-67d2-44c3-94f6-c7495544caa2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1289,
+            52.36768
+          ],
+          [
+            13.12873,
+            52.36805
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.1",
+        "road_id": "b1b99fdf-0db9-4200-95ef-12793d431811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12977,
+            52.36528
+          ],
+          [
+            13.12975,
+            52.36532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.55",
+        "road_id": "2b5e2719-53f1-4001-91ca-eaf520300621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1335,
+            52.36565
+          ],
+          [
+            13.1336,
+            52.36566
+          ],
+          [
+            13.13385,
+            52.3657
+          ],
+          [
+            13.13409,
+            52.36577
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "37.75",
+        "road_id": "97e07e3d-7df3-467b-bd14-6392db165f17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12833,
+            52.36761
+          ],
+          [
+            13.12824,
+            52.36767
+          ],
+          [
+            13.1282,
+            52.36775
+          ],
+          [
+            13.12817,
+            52.36782
+          ],
+          [
+            13.12815,
+            52.36791
+          ],
+          [
+            13.12816,
+            52.36797
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.75",
+        "road_id": "b8393da3-7c2d-47e1-8d0e-88f31ede9016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12264,
+            52.36111
+          ],
+          [
+            13.12262,
+            52.36178
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8",
+        "road_id": "78f290e7-5606-4339-b6c2-999a05b7c053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12264,
+            52.36111
+          ],
+          [
+            13.12294,
+            52.36117
+          ],
+          [
+            13.1234,
+            52.36128
+          ],
+          [
+            13.12401,
+            52.36142
+          ],
+          [
+            13.12466,
+            52.36156
+          ],
+          [
+            13.12488,
+            52.3616
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.35",
+        "road_id": "ce5f80f4-0873-4399-9400-4aa58f320d14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12653,
+            52.36188
+          ],
+          [
+            13.12701,
+            52.36193
+          ],
+          [
+            13.1278,
+            52.362
+          ],
+          [
+            13.12815,
+            52.36204
+          ],
+          [
+            13.12839,
+            52.36208
+          ],
+          [
+            13.12866,
+            52.36213
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Am Hirtengraben",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.75",
+        "road_id": "2ce811c9-cf05-4f1d-b6c7-15fdafb76a7e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13545,
+            52.36452
+          ],
+          [
+            13.13509,
+            52.36473
+          ],
+          [
+            13.13492,
+            52.36478
+          ],
+          [
+            13.1347,
+            52.3648
+          ],
+          [
+            13.13365,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "5fca8e81-15ca-466b-b891-9f6e26805bc1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1346,
+            52.36224
+          ],
+          [
+            13.1346,
+            52.36238
+          ],
+          [
+            13.13459,
+            52.36248
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Dorothea-Schneider-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.15",
+        "road_id": "1cef84b8-ce4c-4390-b686-1592e762e44e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12215,
+            52.36106
+          ],
+          [
+            13.12258,
+            52.3611
+          ],
+          [
+            13.12264,
+            52.36111
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Nuthedamm",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "33.85",
+        "road_id": "336f4767-1d74-4344-a2b0-0f113cd7644d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.133456,
+          52.36561
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.135344,
+          52.364532
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12796,
+          52.364796
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127878,
+          52.36015
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.131732,
+          52.364883
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndCalmingZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127972,
+          52.36464
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130369,
+          52.364693
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130377,
+          52.36469
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130374,
+          52.364693
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit",
+        "supplemental_gfrgroup": "",
+        "bearing": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12796,
+          52.364666
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127893,
+          52.368103
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.131619,
+          52.36522
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndCalmingZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "345"
+      }
+    }
+  ],
+  "metadata": {
+    "feature_count": 176,
+    "feature_type_counts": {
+      "school": 1,
+      "road": 163,
+      "schoolzone_speedlimit_sign": 2,
+      "remaining_speedlimit_end_sign": 10
+    },
+    "geometry_type_counts": {
+      "Point": 13,
+      "LineString": 163
+    },
+    "bounding_box": [
+      13.12215,
+      52.35739,
+      13.13586,
+      52.36917
+    ],
+    "property_schema": {
+      "feature_type": {
+        "types": {
+          "string": 176
+        },
+        "examples": [
+          "school",
+          "road",
+          "road",
+          "road",
+          "road"
+        ]
+      },
+      "sample_index": {
+        "types": {
+          "integer": 176
+        },
+        "examples": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "suppliers": {
+        "types": {
+          "string": 176
+        },
+        "examples": [
+          "School",
+          "School",
+          "School",
+          "School",
+          "School"
+        ]
+      },
+      "source": {
+        "types": {
+          "string": 176
+        },
+        "examples": [
+          "school_point",
+          "road",
+          "road",
+          "road",
+          "road"
+        ]
+      },
+      "road_name": {
+        "types": {
+          "string": 163
+        },
+        "examples": [
+          "",
+          "Nuthedamm",
+          "Dorothea-Schneider-Straße",
+          "Lise-Meitner-Straße",
+          "Trebbiner Straße"
+        ]
+      },
+      "travel_direction": {
+        "types": {
+          "string": 163
+        },
+        "examples": [
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS"
+        ]
+      },
+      "average_speed": {
+        "types": {
+          "string": 163
+        },
+        "examples": [
+          "8.5",
+          "5.95",
+          "17.55",
+          "15.4",
+          "30.95"
+        ]
+      },
+      "road_id": {
+        "types": {
+          "string": 163
+        },
+        "examples": [
+          "2337f645-c2da-4375-8b63-d749af5c5d25",
+          "818902b4-72f7-43d5-98e0-9625de5af217",
+          "005a5ff9-b7f1-4a34-9378-75be737c8886",
+          "b3b41580-3fb4-4dd9-9420-b6238bccb1e4",
+          "b7c0b21f-2f01-4683-9277-5f121932b948"
+        ]
+      },
+      "speedlimit_gfrgroup": {
+        "types": {
+          "string": 12
+        },
+        "examples": [
+          "SpeedLimit2V30",
+          "SpeedLimit2V30",
+          "EndSpeedLimit2V30",
+          "EndSpeedLimit2V30",
+          "EndCalmingZone"
+        ]
+      },
+      "schoolzone_gfrgroup": {
+        "types": {
+          "string": 2
+        },
+        "examples": [
+          "SchoolZone3",
+          "SchoolZone3"
+        ]
+      },
+      "pole_bearing": {
+        "types": {
+          "string": 2
+        },
+        "examples": [
+          "119",
+          "161"
+        ]
+      },
+      "supplemental_gfrgroup": {
+        "types": {
+          "string": 10
+        },
+        "examples": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "bearing": {
+        "types": {
+          "string": 10
+        },
+        "examples": [
+          "52",
+          "302",
+          "149",
+          "116",
+          "348"
+        ]
+      }
+    },
+    "sample_indices": [
+      0
+    ],
+    "suppliers": [
+      "School"
+    ]
+  }
+}

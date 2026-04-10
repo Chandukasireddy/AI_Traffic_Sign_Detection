@@ -1,0 +1,4647 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27065,
+          52.44566
+        ]
+      },
+      "properties": {
+        "feature_type": "school",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "school_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27715,
+            52.44698
+          ],
+          [
+            13.27745,
+            52.44734
+          ],
+          [
+            13.2778,
+            52.44763
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Harnackstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19",
+        "road_id": "9cf2dce9-9c92-407f-bd39-c5e3ffe63aae"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26727,
+            52.44158
+          ],
+          [
+            13.2674,
+            52.44195
+          ],
+          [
+            13.26738,
+            52.44231
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Zaberner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.35",
+        "road_id": "ddbffba8-8fd2-43fc-bead-8ea49d9cd235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26374,
+            52.44519
+          ],
+          [
+            13.26508,
+            52.44538
+          ],
+          [
+            13.26539,
+            52.44544
+          ],
+          [
+            13.26564,
+            52.44549
+          ],
+          [
+            13.26614,
+            52.44562
+          ],
+          [
+            13.2666,
+            52.44575
+          ],
+          [
+            13.26683,
+            52.44583
+          ],
+          [
+            13.26726,
+            52.44599
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sophie-Charlotte-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.05",
+        "road_id": "f19e6123-aa90-44d9-b6eb-ec918fc4536a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27358,
+            52.44501
+          ],
+          [
+            13.27353,
+            52.44514
+          ],
+          [
+            13.27352,
+            52.44526
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.15",
+        "road_id": "c0272138-cfb7-4a17-b28d-faf0c7dd2e70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27383,
+            52.44389
+          ],
+          [
+            13.27429,
+            52.44479
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "26.2",
+        "road_id": "f7da043f-e86e-429b-b792-0cc1d21c7efc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27058,
+            52.44532
+          ],
+          [
+            13.27065,
+            52.44566
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.35",
+        "road_id": "c870b049-c5b6-477c-971d-20c9708bdf13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26435,
+            52.44418
+          ],
+          [
+            13.26542,
+            52.4444
+          ],
+          [
+            13.2657,
+            52.44445
+          ],
+          [
+            13.26593,
+            52.44447
+          ],
+          [
+            13.26611,
+            52.44448
+          ],
+          [
+            13.26641,
+            52.44447
+          ],
+          [
+            13.26658,
+            52.44445
+          ],
+          [
+            13.26673,
+            52.44443
+          ],
+          [
+            13.26693,
+            52.4444
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Katharinenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.05",
+        "road_id": "02105cd7-b52a-487f-972f-fd2efefa7e81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27219,
+            52.4417
+          ],
+          [
+            13.2731,
+            52.44175
+          ],
+          [
+            13.27318,
+            52.44175
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.7",
+        "road_id": "9100bf4b-40e7-4a66-88bb-803e434d6b48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26583,
+            52.44711
+          ],
+          [
+            13.26526,
+            52.44762
+          ],
+          [
+            13.26459,
+            52.44818
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Waltraudstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.8",
+        "road_id": "b3eb8ca7-33d8-45fa-b145-1db36d75cdd2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27429,
+            52.44479
+          ],
+          [
+            13.2744,
+            52.44502
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.55",
+        "road_id": "f20de43e-3c37-4db3-a4fe-df2b36fad048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27459,
+            52.44544
+          ],
+          [
+            13.27518,
+            52.44658
+          ],
+          [
+            13.27543,
+            52.4471
+          ],
+          [
+            13.27554,
+            52.44738
+          ],
+          [
+            13.27567,
+            52.44757
+          ],
+          [
+            13.27578,
+            52.44773
+          ],
+          [
+            13.27592,
+            52.4479
+          ],
+          [
+            13.27608,
+            52.44806
+          ],
+          [
+            13.27634,
+            52.44832
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.7",
+        "road_id": "7e179bb2-324f-458b-9e12-668679ae3a83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27017,
+            52.44234
+          ],
+          [
+            13.27017,
+            52.44236
+          ],
+          [
+            13.27017,
+            52.44266
+          ],
+          [
+            13.27016,
+            52.44287
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.25",
+        "road_id": "241f5f36-9056-433e-932b-bdc8254f0bb3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26676,
+            52.44392
+          ],
+          [
+            13.26704,
+            52.44439
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "45.8",
+        "road_id": "a67fbcd1-af52-48cb-8b4a-cd51b8ef7252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27277,
+            52.446
+          ],
+          [
+            13.27247,
+            52.44609
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.55",
+        "road_id": "0e6e7374-e014-4e39-8213-7252d202897f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2775,
+            52.44419
+          ],
+          [
+            13.27773,
+            52.44415
+          ],
+          [
+            13.27778,
+            52.44416
+          ],
+          [
+            13.27783,
+            52.44418
+          ],
+          [
+            13.27786,
+            52.44422
+          ],
+          [
+            13.27813,
+            52.44478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Nebinger Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.05",
+        "road_id": "eae7170f-2bb5-4a08-8910-3ce57fb431ba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26726,
+            52.44599
+          ],
+          [
+            13.26741,
+            52.44601
+          ],
+          [
+            13.26752,
+            52.44601
+          ],
+          [
+            13.26774,
+            52.44599
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sophie-Charlotte-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.1",
+        "road_id": "e01f7802-6099-49e4-b8af-116b2ae8d4c3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27213,
+            52.44197
+          ],
+          [
+            13.27212,
+            52.44205
+          ],
+          [
+            13.27211,
+            52.44233
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Forbacher Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.6",
+        "road_id": "d3b19db1-ec5b-4b94-a69a-11ede9889b29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26926,
+            52.44444
+          ],
+          [
+            13.27026,
+            52.44491
+          ],
+          [
+            13.27033,
+            52.44498
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.6",
+        "road_id": "113e1c81-2713-4f0b-9bd8-0efbefc26478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27757,
+            52.44491
+          ],
+          [
+            13.27813,
+            52.44604
+          ],
+          [
+            13.27819,
+            52.44613
+          ],
+          [
+            13.27826,
+            52.4462
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Boltzmannstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.6",
+        "road_id": "1b68cc17-6655-4b78-a084-b6f7a387ddd4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27004,
+            52.44355
+          ],
+          [
+            13.26912,
+            52.44318
+          ],
+          [
+            13.26898,
+            52.4432
+          ],
+          [
+            13.26857,
+            52.44351
+          ],
+          [
+            13.26676,
+            52.44392
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Rappoltsweilerstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.95",
+        "road_id": "ce8b60db-f65d-4161-aa48-32ba8fc77b79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2685,
+            52.44738
+          ],
+          [
+            13.26858,
+            52.44751
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "41.1",
+        "road_id": "fb09a33b-f78e-41ef-9f87-513b4a77ab23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26281,
+            52.44661
+          ],
+          [
+            13.26376,
+            52.44748
+          ],
+          [
+            13.26436,
+            52.44799
+          ],
+          [
+            13.26459,
+            52.44818
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Juttastraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.45",
+        "road_id": "92ec5e06-c8fd-4f58-9e98-7e3e7508595c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26927,
+            52.44636
+          ],
+          [
+            13.26923,
+            52.44646
+          ],
+          [
+            13.26918,
+            52.44649
+          ],
+          [
+            13.26909,
+            52.4465
+          ],
+          [
+            13.26875,
+            52.44646
+          ],
+          [
+            13.26855,
+            52.44646
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.9",
+        "road_id": "f1c6d4ce-dc67-480b-94c1-88aa624653c1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26927,
+            52.44636
+          ],
+          [
+            13.26999,
+            52.44639
+          ],
+          [
+            13.27038,
+            52.4464
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "03f586bb-0aaf-4a10-aa69-dc12e0c3e4b0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26774,
+            52.44599
+          ],
+          [
+            13.26785,
+            52.4462
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "41.9",
+        "road_id": "10f0870e-a7e0-46fc-9ad2-7f8869650227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2627,
+            52.44381
+          ],
+          [
+            13.26435,
+            52.44418
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Katharinenstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.8",
+        "road_id": "bead90c2-5998-4ad4-8b86-996f4c883347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26534,
+            52.44219
+          ],
+          [
+            13.26563,
+            52.44253
+          ],
+          [
+            13.26597,
+            52.4429
+          ],
+          [
+            13.2662,
+            52.44322
+          ],
+          [
+            13.26646,
+            52.44364
+          ],
+          [
+            13.26666,
+            52.44394
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "35",
+        "road_id": "1d4cb48f-c0e0-47b0-b887-35e1be1e2f0d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27757,
+            52.44491
+          ],
+          [
+            13.27613,
+            52.44517
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.95",
+        "road_id": "725368f8-0217-43cf-afd8-dcfb910e9b16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27102,
+            52.44233
+          ],
+          [
+            13.27017,
+            52.44234
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.6",
+        "road_id": "fb78ee8d-49fe-4b8e-9d24-39f3212df378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27101,
+            52.44705
+          ],
+          [
+            13.27111,
+            52.44725
+          ],
+          [
+            13.27167,
+            52.44811
+          ],
+          [
+            13.2719,
+            52.44851
+          ],
+          [
+            13.27192,
+            52.44859
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.1",
+        "road_id": "30f7ad06-5643-4e80-b57b-a15a2c2afe93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2708,
+            52.44641
+          ],
+          [
+            13.27085,
+            52.44665
+          ],
+          [
+            13.27089,
+            52.44677
+          ],
+          [
+            13.27093,
+            52.44689
+          ],
+          [
+            13.27101,
+            52.44705
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.8",
+        "road_id": "0fffd05c-a42c-49a9-8029-4be60c0f2ca7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27254,
+            52.44537
+          ],
+          [
+            13.27253,
+            52.44541
+          ],
+          [
+            13.27256,
+            52.44545
+          ],
+          [
+            13.27297,
+            52.44593
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.9",
+        "road_id": "addf6e02-bd5c-4893-898f-07e412504ea5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27364,
+            52.44357
+          ],
+          [
+            13.27309,
+            52.44366
+          ],
+          [
+            13.273,
+            52.44368
+          ],
+          [
+            13.27294,
+            52.4437
+          ],
+          [
+            13.27289,
+            52.44376
+          ],
+          [
+            13.27283,
+            52.44388
+          ],
+          [
+            13.27272,
+            52.44407
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.5",
+        "road_id": "eaea35ed-4d5a-4bdd-abdd-9b83982a5d0a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27016,
+            52.44287
+          ],
+          [
+            13.27016,
+            52.44295
+          ],
+          [
+            13.27016,
+            52.44312
+          ],
+          [
+            13.27014,
+            52.44326
+          ],
+          [
+            13.2701,
+            52.4434
+          ],
+          [
+            13.27004,
+            52.44355
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "40.05",
+        "road_id": "e46595e4-7d6b-4065-86e4-b71346f3e63a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2744,
+            52.44502
+          ],
+          [
+            13.27459,
+            52.44544
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.4",
+        "road_id": "57754aea-c829-462f-afb9-705fce547d21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.269,
+            52.4482
+          ],
+          [
+            13.26931,
+            52.4487
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "36.9",
+        "road_id": "8d843588-0154-4eee-b8a5-1b3608725555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27358,
+            52.44501
+          ],
+          [
+            13.27366,
+            52.44493
+          ],
+          [
+            13.27371,
+            52.4449
+          ],
+          [
+            13.27378,
+            52.44488
+          ],
+          [
+            13.27386,
+            52.44487
+          ],
+          [
+            13.27399,
+            52.44488
+          ],
+          [
+            13.27408,
+            52.4449
+          ],
+          [
+            13.27415,
+            52.44495
+          ],
+          [
+            13.27417,
+            52.44499
+          ],
+          [
+            13.27417,
+            52.44508
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.3",
+        "road_id": "190e06d5-b64a-43ce-bd12-80f657d252da"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26622,
+            52.44225
+          ],
+          [
+            13.26738,
+            52.44231
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "29.05",
+        "road_id": "61878c83-2505-4375-b3f1-378c8a018c5b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26693,
+            52.4444
+          ],
+          [
+            13.26724,
+            52.44489
+          ],
+          [
+            13.26749,
+            52.44536
+          ],
+          [
+            13.26763,
+            52.44574
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "47.2",
+        "road_id": "8ee940b3-94d6-4bec-ac2f-79a96fa208c5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26926,
+            52.44444
+          ],
+          [
+            13.26893,
+            52.4447
+          ],
+          [
+            13.26865,
+            52.44493
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.5",
+        "road_id": "dba3ee18-5b5e-4335-940f-b339101179f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26896,
+            52.44158
+          ],
+          [
+            13.26895,
+            52.44175
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Isenheimer Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.35",
+        "road_id": "d4b2a37e-6678-4e51-84c8-82e2682b5398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26869,
+            52.44769
+          ],
+          [
+            13.26875,
+            52.4478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "39.7",
+        "road_id": "e4108f06-9819-4d34-a358-75489c051031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27038,
+            52.4464
+          ],
+          [
+            13.27041,
+            52.44668
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.8",
+        "road_id": "e697363b-5ce2-402e-ba0f-800f94ee5887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27459,
+            52.44544
+          ],
+          [
+            13.27319,
+            52.44587
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.2",
+        "road_id": "f598c074-760a-4aff-b862-67ab27a4ce5d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27417,
+            52.44508
+          ],
+          [
+            13.27405,
+            52.44511
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.75",
+        "road_id": "d71ec40f-ea54-496e-bea6-8bb82652be26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27307,
+            52.44231
+          ],
+          [
+            13.27211,
+            52.44233
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.4",
+        "road_id": "e6455efe-58ba-4b09-acaf-0d3516b87473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26875,
+            52.4478
+          ],
+          [
+            13.26836,
+            52.44789
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.15",
+        "road_id": "e900a5e4-74f1-4029-b3a7-5bed5d553980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27065,
+            52.44566
+          ],
+          [
+            13.2708,
+            52.44641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.4",
+        "road_id": "9e4bebce-dcc1-48ab-a0c2-afab30089833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27022,
+            52.44098
+          ],
+          [
+            13.2702,
+            52.44154
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "40.1",
+        "road_id": "d2cc4b00-f8cd-4f4e-9fc6-7767980a5898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26527,
+            52.4429
+          ],
+          [
+            13.26506,
+            52.44307
+          ],
+          [
+            13.26497,
+            52.44317
+          ],
+          [
+            13.26488,
+            52.4433
+          ],
+          [
+            13.26435,
+            52.44418
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Biesalskistraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.7",
+        "road_id": "8f673d0e-3b30-4655-9819-4546f31b702f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26752,
+            52.44724
+          ],
+          [
+            13.26797,
+            52.44803
+          ],
+          [
+            13.2682,
+            52.44816
+          ],
+          [
+            13.26829,
+            52.44831
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Oskar-Helene-Park",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.05",
+        "road_id": "c58eea3a-fbd9-4b58-af03-605409dca1f8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27613,
+            52.44517
+          ],
+          [
+            13.27682,
+            52.44653
+          ],
+          [
+            13.27693,
+            52.44673
+          ],
+          [
+            13.277,
+            52.44684
+          ],
+          [
+            13.27706,
+            52.44691
+          ],
+          [
+            13.2771,
+            52.44695
+          ],
+          [
+            13.27715,
+            52.44698
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Harnackstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.55",
+        "road_id": "ee19f6dd-d0ea-4091-b37f-9af936f8becc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27724,
+            52.44214
+          ],
+          [
+            13.27486,
+            52.44224
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.9",
+        "road_id": "3d1f6f38-3877-417e-bc1a-169dc445384c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27137,
+            52.44197
+          ],
+          [
+            13.27213,
+            52.44197
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.4",
+        "road_id": "71cc2a82-02dc-491f-8d93-68e63d33e9cc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2702,
+            52.44154
+          ],
+          [
+            13.27017,
+            52.44234
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.15",
+        "road_id": "683a7420-2633-4b5a-97fd-16bf331f34a9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26776,
+            52.44562
+          ],
+          [
+            13.26763,
+            52.44574
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "18.4",
+        "road_id": "30ac271b-b345-4ae9-9596-780444e317fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26793,
+            52.44231
+          ],
+          [
+            13.26788,
+            52.44293
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.8",
+        "road_id": "4caa667a-b873-44cf-991e-321c8fa44fde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26785,
+            52.4462
+          ],
+          [
+            13.26792,
+            52.44632
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "41.4",
+        "road_id": "93ed216e-0e42-481a-85dd-5c56b4c9ced8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26611,
+            52.44833
+          ],
+          [
+            13.26582,
+            52.4485
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Oskar-Helene-Park",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.25",
+        "road_id": "450d4fbc-ef3f-436d-9331-dac67f4c6c9c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27143,
+            52.44634
+          ],
+          [
+            13.2711,
+            52.4464
+          ],
+          [
+            13.2708,
+            52.44641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10",
+        "road_id": "45ea1771-9592-466a-85cf-e23934d9c0c5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26793,
+            52.44596
+          ],
+          [
+            13.26774,
+            52.44599
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sophie-Charlotte-Straße",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "13.5",
+        "road_id": "0a0cfe79-1124-4ef4-895d-9ee2eb136bd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27041,
+            52.44668
+          ],
+          [
+            13.26952,
+            52.44669
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.45",
+        "road_id": "cd582422-6ae6-48ef-a987-1340a85f3eac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.269,
+            52.4482
+          ],
+          [
+            13.26829,
+            52.44831
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Oskar-Helene-Park",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.1",
+        "road_id": "806bf62e-bf49-48a2-9626-c1f4e2acabd3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27813,
+            52.44478
+          ],
+          [
+            13.27757,
+            52.44491
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.8",
+        "road_id": "c26ad0de-8887-49e2-9187-6ca3bc4b4e4e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27033,
+            52.44498
+          ],
+          [
+            13.27036,
+            52.44501
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.9",
+        "road_id": "54b8fce9-ced1-47a6-ba01-94797fbd5606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26865,
+            52.44735
+          ],
+          [
+            13.26884,
+            52.44767
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "40.8",
+        "road_id": "efebfdb4-f134-426f-b6fd-588b373b2cee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27358,
+            52.44501
+          ],
+          [
+            13.27405,
+            52.44511
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.9",
+        "road_id": "ee822b96-5b16-4c72-9d12-8a2d32aef8c8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26666,
+            52.44394
+          ],
+          [
+            13.26693,
+            52.4444
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "48.9",
+        "road_id": "0de8e708-b8d8-4710-a387-e79b0fac5e9a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26704,
+            52.44439
+          ],
+          [
+            13.26733,
+            52.44486
+          ],
+          [
+            13.26754,
+            52.4452
+          ],
+          [
+            13.26776,
+            52.44562
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "40.3",
+        "road_id": "d6bf5acb-af08-466b-b3cb-9fadf903e1f2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27219,
+            52.4417
+          ],
+          [
+            13.27213,
+            52.44197
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Forbacher Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.2",
+        "road_id": "10cf37d3-7330-434d-9a08-8290f8de00ba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26555,
+            52.44221
+          ],
+          [
+            13.26622,
+            52.44225
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.45",
+        "road_id": "9962e673-32fe-4a0f-b11e-5ea0f9b987d6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26892,
+            52.44233
+          ],
+          [
+            13.27017,
+            52.44234
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.75",
+        "road_id": "8fa78a3b-ee0d-4ed0-8828-9856c109af27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27364,
+            52.44357
+          ],
+          [
+            13.27383,
+            52.44389
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "24.95",
+        "road_id": "a749858f-0a78-4989-9439-6af179d7d19b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26811,
+            52.4463
+          ],
+          [
+            13.26833,
+            52.44677
+          ],
+          [
+            13.26858,
+            52.44723
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "40.7",
+        "road_id": "8cc85d4b-f2af-4cc8-a53e-bf053e42c097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26852,
+            52.44631
+          ],
+          [
+            13.26927,
+            52.44636
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "35845c48-6322-40bd-973c-e177ee36bfca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26966,
+            52.44272
+          ],
+          [
+            13.26969,
+            52.44278
+          ],
+          [
+            13.26974,
+            52.44282
+          ],
+          [
+            13.2698,
+            52.44284
+          ],
+          [
+            13.26985,
+            52.44285
+          ],
+          [
+            13.27002,
+            52.44286
+          ],
+          [
+            13.27016,
+            52.44287
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "3.1",
+        "road_id": "421c3c1b-69e4-4fee-b7c9-dca94d4d7f23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26884,
+            52.44767
+          ],
+          [
+            13.26889,
+            52.44776
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "43.4",
+        "road_id": "a58ea680-f24d-4e54-9759-bdbe2d26b399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27156,
+            52.44632
+          ],
+          [
+            13.27143,
+            52.44634
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.6",
+        "road_id": "1b00348d-5aaa-401d-a10d-a39cd0ce95ac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26374,
+            52.44519
+          ],
+          [
+            13.26325,
+            52.44599
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Biesalskistraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21",
+        "road_id": "cbf19c04-f82d-4639-ba35-83e3c71dee46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27689,
+            52.44294
+          ],
+          [
+            13.27727,
+            52.4437
+          ],
+          [
+            13.2775,
+            52.44419
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Nebinger Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.2",
+        "road_id": "9c509e93-229e-4357-8669-a7539281879a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26875,
+            52.4478
+          ],
+          [
+            13.26887,
+            52.44799
+          ],
+          [
+            13.26888,
+            52.44801
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "",
+        "road_id": "916e6e23-eb9d-4fee-99d7-a116dc2d5d1f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27405,
+            52.44511
+          ],
+          [
+            13.27352,
+            52.44526
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "9.7",
+        "road_id": "de051112-985f-4e99-85f4-db541b40394c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26888,
+            52.44801
+          ],
+          [
+            13.269,
+            52.4482
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "",
+        "road_id": "5bf715aa-7753-4c8b-b5b2-3bddf2ba1d2b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26738,
+            52.44691
+          ],
+          [
+            13.26752,
+            52.44724
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Oskar-Helene-Park",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "4.9",
+        "road_id": "7e5763db-1977-41ef-84bf-97997533b3e4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26555,
+            52.44221
+          ],
+          [
+            13.26582,
+            52.44256
+          ],
+          [
+            13.26606,
+            52.44284
+          ],
+          [
+            13.26636,
+            52.44326
+          ],
+          [
+            13.26676,
+            52.44392
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "47.3",
+        "road_id": "ec664812-e105-4fe9-a6c5-f538e6c0e833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27765,
+            52.4477
+          ],
+          [
+            13.27677,
+            52.44811
+          ],
+          [
+            13.27634,
+            52.44832
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Garystraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.4",
+        "road_id": "f35e95ab-ffc8-4527-8578-7a71910a5a3a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26858,
+            52.44751
+          ],
+          [
+            13.26869,
+            52.44769
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "40.4",
+        "road_id": "38b9a8d9-f327-4a2a-b38a-418878de85d1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27319,
+            52.44587
+          ],
+          [
+            13.27297,
+            52.44593
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.8",
+        "road_id": "60e43d7d-7f85-4aec-be8d-b37e93d4595b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27297,
+            52.44593
+          ],
+          [
+            13.27277,
+            52.446
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.9",
+        "road_id": "9029c1ed-a694-4435-9050-0b568562a44f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27307,
+            52.44231
+          ],
+          [
+            13.27314,
+            52.44247
+          ],
+          [
+            13.27329,
+            52.44278
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "18.75",
+        "road_id": "bff18595-603d-47c3-9bd6-53a58c7a38bd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27352,
+            52.44526
+          ],
+          [
+            13.27343,
+            52.4453
+          ],
+          [
+            13.27334,
+            52.44532
+          ],
+          [
+            13.27316,
+            52.44532
+          ],
+          [
+            13.27288,
+            52.4453
+          ],
+          [
+            13.27272,
+            52.44531
+          ],
+          [
+            13.27262,
+            52.44531
+          ],
+          [
+            13.27258,
+            52.44533
+          ],
+          [
+            13.27254,
+            52.44537
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.25",
+        "road_id": "7bd8ca04-14e9-446a-a872-37c5ade85e8a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27041,
+            52.44668
+          ],
+          [
+            13.27044,
+            52.447
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.75",
+        "road_id": "1e1afa21-f6e4-4681-a7ed-6402deae5094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26752,
+            52.44724
+          ],
+          [
+            13.26744,
+            52.44729
+          ],
+          [
+            13.26735,
+            52.44735
+          ],
+          [
+            13.26686,
+            52.44786
+          ],
+          [
+            13.26635,
+            52.44819
+          ],
+          [
+            13.26611,
+            52.44833
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Oskar-Helene-Park",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.45",
+        "road_id": "a84c1003-e226-49b5-82bc-4c6c6af5fcab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26776,
+            52.44562
+          ],
+          [
+            13.26793,
+            52.44596
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "37.6",
+        "road_id": "4a8d59be-c896-4a73-967a-943d8abca049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27047,
+            52.44512
+          ],
+          [
+            13.27058,
+            52.44532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "29.15",
+        "road_id": "8f7e0f3f-7c1c-43a6-a7bd-6a71b8ce6503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27689,
+            52.44294
+          ],
+          [
+            13.27344,
+            52.44313
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Molsheimer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.15",
+        "road_id": "c2d5270e-a485-48be-a3a9-e41847958997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26793,
+            52.44596
+          ],
+          [
+            13.26811,
+            52.4463
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "40.6",
+        "road_id": "a794c682-f93a-4092-bede-9dbe82b42f4e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27004,
+            52.44355
+          ],
+          [
+            13.26997,
+            52.44368
+          ],
+          [
+            13.26988,
+            52.44383
+          ],
+          [
+            13.26979,
+            52.44395
+          ],
+          [
+            13.26968,
+            52.44407
+          ],
+          [
+            13.26947,
+            52.44426
+          ],
+          [
+            13.26926,
+            52.44444
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "40.95",
+        "road_id": "8d47d55f-424f-437b-90e6-556316711a8d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26726,
+            52.44599
+          ],
+          [
+            13.26675,
+            52.44639
+          ],
+          [
+            13.26631,
+            52.44674
+          ],
+          [
+            13.26583,
+            52.44711
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Waltraudstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.85",
+        "road_id": "7a3f8498-f7fe-4090-9e33-1715a94c3d3b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26325,
+            52.44599
+          ],
+          [
+            13.26497,
+            52.44675
+          ],
+          [
+            13.26583,
+            52.44711
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Edithstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.2",
+        "road_id": "f13f4cdd-5c86-4bfd-9d75-301e21920f5b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27036,
+            52.44501
+          ],
+          [
+            13.27021,
+            52.44516
+          ],
+          [
+            13.27016,
+            52.44531
+          ],
+          [
+            13.27015,
+            52.44549
+          ],
+          [
+            13.27023,
+            52.44562
+          ],
+          [
+            13.27043,
+            52.44566
+          ],
+          [
+            13.27065,
+            52.44566
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.25",
+        "road_id": "e312cf0d-95f4-486d-b667-e42cf5fb035c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26793,
+            52.44231
+          ],
+          [
+            13.26892,
+            52.44233
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.35",
+        "road_id": "c51e7a87-77b6-4259-856c-513ae35d9acf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2775,
+            52.44419
+          ],
+          [
+            13.27429,
+            52.44479
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Balbronner Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.55",
+        "road_id": "7fa81883-8b7a-4a1f-b4a2-89ea710f3f39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26611,
+            52.44833
+          ],
+          [
+            13.26612,
+            52.44839
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Oskar-Helene-Park",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.75",
+        "road_id": "2dabd782-a3bf-4df9-809b-c2a93a053300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26895,
+            52.44175
+          ],
+          [
+            13.26892,
+            52.44233
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Isenheimer Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11",
+        "road_id": "83a077e4-d49e-405b-a752-d001633764f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26211,
+            52.44491
+          ],
+          [
+            13.26239,
+            52.44495
+          ],
+          [
+            13.26285,
+            52.44504
+          ],
+          [
+            13.26337,
+            52.44512
+          ],
+          [
+            13.26374,
+            52.44519
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sophie-Charlotte-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.9",
+        "road_id": "1cc7ce88-88d2-4b8a-82b2-e533877250e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26855,
+            52.44646
+          ],
+          [
+            13.26856,
+            52.44656
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "7.85",
+        "road_id": "9d8d26de-cc8e-4651-aaad-a1a6fd2c0264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27329,
+            52.44278
+          ],
+          [
+            13.27344,
+            52.44313
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.35",
+        "road_id": "fa03fc4c-090f-484d-ac35-b3344a228a72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26763,
+            52.44574
+          ],
+          [
+            13.26774,
+            52.44599
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "42.5",
+        "road_id": "3b6c0d98-db17-4fe5-bf95-c50bd3c4f613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27831,
+            52.44653
+          ],
+          [
+            13.27715,
+            52.44698
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.55",
+        "road_id": "895b0edf-298f-42e1-b961-843233468f34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26844,
+            52.44728
+          ],
+          [
+            13.2685,
+            52.44738
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "41.5",
+        "road_id": "466360db-b66b-4484-9a78-64aebee9e2f1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26912,
+            52.44813
+          ],
+          [
+            13.26946,
+            52.44867
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "47.4",
+        "road_id": "cdae3b9f-a9e1-42c2-888a-d7faafdc99e8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26858,
+            52.44723
+          ],
+          [
+            13.26865,
+            52.44735
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "41.6",
+        "road_id": "bef0c01c-74fd-42a8-9e44-6d234a18846d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26889,
+            52.44776
+          ],
+          [
+            13.26912,
+            52.44813
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "FROM REFERENCE NODE",
+        "average_speed": "44.5",
+        "road_id": "de9026b2-1241-466c-8739-6df0f5ff8a50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27282,
+            52.44488
+          ],
+          [
+            13.27248,
+            52.4449
+          ],
+          [
+            13.27252,
+            52.44533
+          ],
+          [
+            13.27254,
+            52.44537
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "13.4",
+        "road_id": "70950987-5a36-4c6d-ade9-5774448ae50d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26811,
+            52.4463
+          ],
+          [
+            13.2683,
+            52.44629
+          ],
+          [
+            13.26852,
+            52.44631
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.75",
+        "road_id": "ec7ca56f-3f13-438c-b842-6b422ac4091f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27229,
+            52.44121
+          ],
+          [
+            13.27219,
+            52.4417
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Forbacher Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.8",
+        "road_id": "0621c023-b170-4138-b7a4-a1fc61ce902e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27038,
+            52.4464
+          ],
+          [
+            13.2708,
+            52.44641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "17.65",
+        "road_id": "cddfce67-14a1-44a9-9919-6fdb0364c3de"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27102,
+            52.44233
+          ],
+          [
+            13.27211,
+            52.44233
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "29.6",
+        "road_id": "e016e13c-7cd6-4262-bbf8-0a056e938d61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27344,
+            52.44313
+          ],
+          [
+            13.27364,
+            52.44357
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Ihnestraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.2",
+        "road_id": "60e52ddb-012f-4dad-879e-b88b1aab6649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26792,
+            52.44632
+          ],
+          [
+            13.26804,
+            52.44652
+          ],
+          [
+            13.26844,
+            52.44728
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "40.8",
+        "road_id": "e6dd3a79-8e7a-41e4-8f4d-8ba93a377264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26865,
+            52.44493
+          ],
+          [
+            13.26855,
+            52.44501
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "38.45",
+        "road_id": "07e6ed22-e0b9-4126-9bdb-120793bfed2f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26889,
+            52.44776
+          ],
+          [
+            13.26875,
+            52.4478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Clayallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.1",
+        "road_id": "0edba0bf-509a-4752-91de-279ffc4a94f3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27036,
+            52.44501
+          ],
+          [
+            13.27047,
+            52.44512
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Lützelsteiner Weg",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "29.3",
+        "road_id": "143b276f-230d-4f64-b19d-463292a24795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27486,
+            52.44224
+          ],
+          [
+            13.27307,
+            52.44231
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.55",
+        "road_id": "71f550df-f76a-4c00-965c-1df618384203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27613,
+            52.44517
+          ],
+          [
+            13.27531,
+            52.44532
+          ],
+          [
+            13.27459,
+            52.44544
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "16.55",
+        "road_id": "1bc5e3a2-9cb5-4baf-bfac-692dabd34be1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27344,
+            52.44313
+          ],
+          [
+            13.27249,
+            52.44318
+          ],
+          [
+            13.27242,
+            52.4432
+          ],
+          [
+            13.27238,
+            52.44323
+          ],
+          [
+            13.27235,
+            52.44327
+          ],
+          [
+            13.27235,
+            52.44331
+          ],
+          [
+            13.27245,
+            52.44366
+          ],
+          [
+            13.27247,
+            52.44369
+          ],
+          [
+            13.27251,
+            52.44372
+          ],
+          [
+            13.27255,
+            52.44373
+          ],
+          [
+            13.27269,
+            52.44371
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Von-Wettstein-Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.4",
+        "road_id": "3e3c4bd3-1ecf-4a9b-b4f9-084824b38d07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26738,
+            52.44231
+          ],
+          [
+            13.26793,
+            52.44231
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Schützallee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32",
+        "road_id": "531a9348-f012-4512-a009-18c8c8ede165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2744,
+            52.44502
+          ],
+          [
+            13.27417,
+            52.44508
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.5",
+        "road_id": "2c669bfb-493d-4d65-ba93-7a2dbd212b25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27634,
+            52.44832
+          ],
+          [
+            13.2761,
+            52.44843
+          ],
+          [
+            13.27603,
+            52.44846
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Garystraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.75",
+        "road_id": "f18e5540-eda4-4043-a489-f0ce4edf5a9b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.27247,
+            52.44609
+          ],
+          [
+            13.27185,
+            52.44627
+          ],
+          [
+            13.27156,
+            52.44632
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Leichhardtstraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "6.15",
+        "road_id": "ef22debd-8603-4509-889c-0aad574eed4a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26435,
+            52.44418
+          ],
+          [
+            13.26374,
+            52.44519
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Biesalskistraße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "20.4",
+        "road_id": "214a850f-ed1e-41ad-ad95-af618624f13c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26855,
+            52.44501
+          ],
+          [
+            13.2683,
+            52.44521
+          ],
+          [
+            13.26799,
+            52.44543
+          ],
+          [
+            13.26776,
+            52.44562
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "Sundgauer Straße",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.4",
+        "road_id": "56498439-b5f7-4e10-89e6-6ecf981f9501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.26852,
+            52.44631
+          ],
+          [
+            13.26855,
+            52.44646
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "11.6",
+        "road_id": "d2f0a95d-4e41-4211-ae66-803e51ff0960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268745,
+          52.447975
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268196,
+          52.446342
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V20",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26874,
+          52.44797
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268526,
+          52.4476
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.269859,
+          52.442417
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.269866,
+          52.442413
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.266814,
+          52.444477
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "SupplementalArrowWhiteLeft",
+        "bearing": "79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.266829,
+          52.444473
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "SupplementalArrowWhiteLeft",
+        "bearing": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268707,
+          52.448215
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndCalmingZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276024,
+          52.448154
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit",
+        "supplemental_gfrgroup": "",
+        "bearing": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.276016,
+          52.44816
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.270458,
+          52.442295
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.267454,
+          52.445995
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26617,
+          52.442307
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.266175,
+          52.442303
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2695055,
+          52.44451
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.269503,
+          52.444515
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.267466,
+          52.446087
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "StartConstruction",
+        "bearing": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26848,
+          52.44627
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "Kindergarten and Childcare",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "236"
+      }
+    }
+  ],
+  "metadata": {
+    "feature_count": 154,
+    "feature_type_counts": {
+      "school": 1,
+      "road": 134,
+      "schoolzone_speedlimit_sign": 4,
+      "remaining_speedlimit_end_sign": 15
+    },
+    "geometry_type_counts": {
+      "Point": 20,
+      "LineString": 134
+    },
+    "bounding_box": [
+      13.26211,
+      52.44098,
+      13.27831,
+      52.4487
+    ],
+    "property_schema": {
+      "feature_type": {
+        "types": {
+          "string": 154
+        },
+        "examples": [
+          "school",
+          "road",
+          "road",
+          "road",
+          "road"
+        ]
+      },
+      "sample_index": {
+        "types": {
+          "integer": 154
+        },
+        "examples": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "suppliers": {
+        "types": {
+          "string": 154
+        },
+        "examples": [
+          "Kindergarten and Childcare",
+          "Kindergarten and Childcare",
+          "Kindergarten and Childcare",
+          "Kindergarten and Childcare",
+          "Kindergarten and Childcare"
+        ]
+      },
+      "source": {
+        "types": {
+          "string": 154
+        },
+        "examples": [
+          "school_point",
+          "road",
+          "road",
+          "road",
+          "road"
+        ]
+      },
+      "road_name": {
+        "types": {
+          "string": 134
+        },
+        "examples": [
+          "Harnackstraße",
+          "Zaberner Straße",
+          "Sophie-Charlotte-Straße",
+          "",
+          "Ihnestraße"
+        ]
+      },
+      "travel_direction": {
+        "types": {
+          "string": 134
+        },
+        "examples": [
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS",
+          "BOTH DIRECTIONS"
+        ]
+      },
+      "average_speed": {
+        "types": {
+          "string": 134
+        },
+        "examples": [
+          "19",
+          "5.35",
+          "25.05",
+          "8.15",
+          "26.2"
+        ]
+      },
+      "road_id": {
+        "types": {
+          "string": 134
+        },
+        "examples": [
+          "9cf2dce9-9c92-407f-bd39-c5e3ffe63aae",
+          "ddbffba8-8fd2-43fc-bead-8ea49d9cd235",
+          "f19e6123-aa90-44d9-b6eb-ec918fc4536a",
+          "c0272138-cfb7-4a17-b28d-faf0c7dd2e70",
+          "f7da043f-e86e-429b-b792-0cc1d21c7efc"
+        ]
+      },
+      "speedlimit_gfrgroup": {
+        "types": {
+          "string": 19
+        },
+        "examples": [
+          "SpeedLimit2V30",
+          "SpeedLimit2V20",
+          "SpeedLimit2V30",
+          "SpeedLimit2V30",
+          "EndSpeedLimit2V30"
+        ]
+      },
+      "schoolzone_gfrgroup": {
+        "types": {
+          "string": 4
+        },
+        "examples": [
+          "SchoolZone3",
+          "SchoolZone3",
+          "SchoolZone3",
+          "SchoolZone3"
+        ]
+      },
+      "pole_bearing": {
+        "types": {
+          "string": 4
+        },
+        "examples": [
+          "229",
+          "49",
+          "222",
+          "227"
+        ]
+      },
+      "supplemental_gfrgroup": {
+        "types": {
+          "string": 15
+        },
+        "examples": [
+          "",
+          "",
+          "SupplementalArrowWhiteLeft",
+          "SupplementalArrowWhiteLeft",
+          ""
+        ]
+      },
+      "bearing": {
+        "types": {
+          "string": 15
+        },
+        "examples": [
+          "64",
+          "68",
+          "79",
+          "83",
+          "117"
+        ]
+      }
+    },
+    "sample_indices": [
+      0
+    ],
+    "suppliers": [
+      "Kindergarten and Childcare"
+    ]
+  }
+}
