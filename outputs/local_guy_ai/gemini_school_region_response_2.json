@@ -1,0 +1,80 @@
+{
+  "school_label": "School at L\u00fctzelsteiner Weg",
+  "school_feature_index": 0,
+  "selected_road_feature_indices": [
+    4,
+    6,
+    18,
+    23,
+    24,
+    31,
+    32,
+    37,
+    43,
+    44,
+    48,
+    60,
+    62,
+    65,
+    67,
+    75,
+    82,
+    88,
+    89,
+    91,
+    92,
+    95,
+    101,
+    107,
+    115,
+    116,
+    118,
+    124,
+    126,
+    131,
+    134
+  ],
+  "selected_supporting_feature_indices": [
+    135,
+    136,
+    137,
+    138,
+    147,
+    152,
+    153
+  ],
+  "school_region_polygon": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          13.268,
+          52.444
+        ],
+        [
+          13.275,
+          52.444
+        ],
+        [
+          13.275,
+          52.447
+        ],
+        [
+          13.268,
+          52.447
+        ],
+        [
+          13.268,
+          52.444
+        ]
+      ]
+    ]
+  },
+  "confidence": 0.95,
+  "reasoning": "The school point (index 0) is located at the intersection of L\u00fctzelsteiner Weg and an unnamed access road. The selected road indices represent the immediate street network surrounding the school, specifically segments of L\u00fctzelsteiner Weg and Leichhardtstra\u00dfe. Supporting features include school zone speed limit signs (135-138) and end-of-limit signs (147, 152, 153) which demarcate the traffic safety zone around the facility.",
+  "notes": [
+    "School point is at index 0.",
+    "Roads selected are those providing direct access or within the immediate vicinity of the school point.",
+    "Supporting features are speed limit signs associated with the school zone."
+  ]
+}

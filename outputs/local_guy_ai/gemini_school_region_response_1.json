@@ -1,0 +1,86 @@
+{
+  "school_label": "School at Sternstra\u00dfe",
+  "school_feature_index": 0,
+  "selected_road_feature_indices": [
+    14,
+    16,
+    26,
+    31,
+    36,
+    37,
+    41,
+    47,
+    58,
+    59,
+    60,
+    73,
+    83,
+    84,
+    97,
+    100,
+    101,
+    102,
+    103,
+    110,
+    116,
+    118,
+    122,
+    127,
+    141,
+    143,
+    149,
+    151,
+    153,
+    155,
+    156,
+    161
+  ],
+  "selected_supporting_feature_indices": [
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175
+  ],
+  "school_region_polygon": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          13.125,
+          52.36
+        ],
+        [
+          13.136,
+          52.36
+        ],
+        [
+          13.136,
+          52.369
+        ],
+        [
+          13.125,
+          52.369
+        ],
+        [
+          13.125,
+          52.36
+        ]
+      ]
+    ]
+  },
+  "confidence": 0.95,
+  "reasoning": "The school point (index 0) is located at the intersection of Sternstra\u00dfe and an unnamed access road. Multiple road segments from Sternstra\u00dfe, Ricarda-Huch-Stra\u00dfe, Konrad-Wolf-Allee, and Eleonore-Prochaska-Stra\u00dfe were identified as school-related based on their proximity to the school point and the presence of school zone and speed limit signs (indices 164-175) which define the boundaries of the traffic-regulated area.",
+  "notes": [
+    "Sternstra\u00dfe is the primary access road.",
+    "The school zone is well-defined by speed limit and end-of-zone signs.",
+    "The identified roads form a network around the school point."
+  ]
+}

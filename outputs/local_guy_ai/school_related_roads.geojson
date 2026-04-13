@@ -945,7 +945,7 @@
   "metadata": {
     "generated_by": "Gemini via LangChain (local_guy_ai)",
     "model": "gemini-3-flash-preview",
-    "input_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\sample_school_contexts.geojson",
+    "input_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\data_context\\sample_school_contexts.geojson",
     "output_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\outputs\\local_guy_ai\\school_related_roads.geojson",
     "confidence": 0.95,
     "school_label": "School Zone near Dessauerstra\u00dfe and Gallwitzallee",

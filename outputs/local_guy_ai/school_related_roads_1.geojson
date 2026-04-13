@@ -1,0 +1,1419 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12809,
+          52.364
+        ]
+      },
+      "properties": {
+        "feature_type": "school",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "school_point",
+        "output_role": "school_point",
+        "source_feature_index": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12814,
+            52.36455
+          ],
+          [
+            13.12787,
+            52.36472
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "TO REFERENCE NODE",
+        "average_speed": "11.3",
+        "road_id": "71813da8-1d24-4040-9a44-97822a692866",
+        "output_role": "school_related_road",
+        "source_feature_index": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13291,
+            52.36564
+          ],
+          [
+            13.1333,
+            52.36564
+          ],
+          [
+            13.1335,
+            52.36565
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "40.85",
+        "road_id": "8b007dfe-0f23-44a7-9f1e-68decbcd2eba",
+        "output_role": "school_related_road",
+        "source_feature_index": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13242,
+            52.36476
+          ],
+          [
+            13.13082,
+            52.36475
+          ],
+          [
+            13.13066,
+            52.36475
+          ],
+          [
+            13.13053,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "33.7",
+        "road_id": "5c1ec87f-0c38-4e2a-aed3-44fd54b59129",
+        "output_role": "school_related_road",
+        "source_feature_index": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12685,
+            52.364
+          ],
+          [
+            13.12809,
+            52.364
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "8.2",
+        "road_id": "3971913e-f2f3-46d1-91c5-fb4519180cab",
+        "output_role": "school_related_road",
+        "source_feature_index": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12809,
+            52.36411
+          ],
+          [
+            13.12809,
+            52.36424
+          ],
+          [
+            13.12809,
+            52.36432
+          ],
+          [
+            13.1281,
+            52.36441
+          ],
+          [
+            13.12812,
+            52.36449
+          ],
+          [
+            13.12814,
+            52.36455
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.15",
+        "road_id": "b48033a5-231f-4147-863f-9fd2237d64b2",
+        "output_role": "school_related_road",
+        "source_feature_index": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12814,
+            52.36455
+          ],
+          [
+            13.12816,
+            52.36459
+          ],
+          [
+            13.12819,
+            52.36464
+          ],
+          [
+            13.12823,
+            52.36469
+          ],
+          [
+            13.12827,
+            52.36474
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.25",
+        "road_id": "5102379a-ce8f-4a82-8b9e-0db61488a104",
+        "output_role": "school_related_road",
+        "source_feature_index": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13053,
+            52.36478
+          ],
+          [
+            13.13041,
+            52.36484
+          ],
+          [
+            13.1298,
+            52.36524
+          ],
+          [
+            13.12977,
+            52.36528
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "27.55",
+        "road_id": "0e122e43-ed6c-42f9-85ce-a22f5b16f73d",
+        "output_role": "school_related_road",
+        "source_feature_index": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12787,
+            52.36336
+          ],
+          [
+            13.12792,
+            52.36346
+          ],
+          [
+            13.12796,
+            52.36354
+          ],
+          [
+            13.128,
+            52.36363
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "32.15",
+        "road_id": "94711a6c-0aba-4f9e-8d70-60a109389ab4",
+        "output_role": "school_related_road",
+        "source_feature_index": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.128,
+            52.36363
+          ],
+          [
+            13.12803,
+            52.36372
+          ],
+          [
+            13.12806,
+            52.36382
+          ],
+          [
+            13.12808,
+            52.36391
+          ],
+          [
+            13.12809,
+            52.364
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.9",
+        "road_id": "25699827-991e-4576-ada5-9067a26aa567",
+        "output_role": "school_related_road",
+        "source_feature_index": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12893,
+            52.36541
+          ],
+          [
+            13.12901,
+            52.36546
+          ],
+          [
+            13.12909,
+            52.3655
+          ],
+          [
+            13.12918,
+            52.36554
+          ],
+          [
+            13.12927,
+            52.36557
+          ],
+          [
+            13.12935,
+            52.36559
+          ],
+          [
+            13.12946,
+            52.36561
+          ],
+          [
+            13.12955,
+            52.36562
+          ],
+          [
+            13.12971,
+            52.36563
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "21.8",
+        "road_id": "64ca1287-7de8-4a82-a5f5-954db51216f1",
+        "output_role": "school_related_road",
+        "source_feature_index": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12832,
+            52.36479
+          ],
+          [
+            13.12838,
+            52.36485
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.8",
+        "road_id": "55212c99-8dc8-4c49-a5ad-f2f1734284c9",
+        "output_role": "school_related_road",
+        "source_feature_index": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12844,
+            52.36491
+          ],
+          [
+            13.12858,
+            52.36506
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.25",
+        "road_id": "c1c13539-efc2-467c-a693-62c5519ac04b",
+        "output_role": "school_related_road",
+        "source_feature_index": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12787,
+            52.36472
+          ],
+          [
+            13.12801,
+            52.36475
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "14.65",
+        "road_id": "f540f58f-cfd3-4b6a-a3ec-fd8f60f95442",
+        "output_role": "school_related_road",
+        "source_feature_index": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12809,
+            52.364
+          ],
+          [
+            13.12809,
+            52.36411
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.65",
+        "road_id": "b3d367ce-9de5-42cc-8718-3d145e1e7e05",
+        "output_role": "school_related_road",
+        "source_feature_index": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12966,
+            52.3641
+          ],
+          [
+            13.13022,
+            52.3641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "5.15",
+        "road_id": "c6ae66d0-7d41-4da7-a189-507f6a185ae8",
+        "output_role": "school_related_road",
+        "source_feature_index": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12801,
+            52.36475
+          ],
+          [
+            13.12832,
+            52.36479
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "12.8",
+        "road_id": "fb2f807c-2dd3-4290-9f18-ff7817a46aea",
+        "output_role": "school_related_road",
+        "source_feature_index": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13021,
+            52.36394
+          ],
+          [
+            13.13022,
+            52.3641
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "22.75",
+        "road_id": "1db38945-c6b2-4ff0-a5f6-5d127a6135d8",
+        "output_role": "school_related_road",
+        "source_feature_index": 101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13025,
+            52.36335
+          ],
+          [
+            13.13021,
+            52.36394
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "19.85",
+        "road_id": "d34bebdf-465a-4fe0-bbc3-9729ee7ff587",
+        "output_role": "school_related_road",
+        "source_feature_index": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12944,
+            52.36334
+          ],
+          [
+            13.13025,
+            52.36335
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "10.45",
+        "road_id": "453975ce-3477-48bb-b490-e900e2af56e2",
+        "output_role": "school_related_road",
+        "source_feature_index": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12653,
+            52.36188
+          ],
+          [
+            13.1266,
+            52.36193
+          ],
+          [
+            13.12666,
+            52.36198
+          ],
+          [
+            13.12673,
+            52.36204
+          ],
+          [
+            13.12741,
+            52.36266
+          ],
+          [
+            13.12749,
+            52.36273
+          ],
+          [
+            13.12756,
+            52.3628
+          ],
+          [
+            13.12762,
+            52.36287
+          ],
+          [
+            13.12767,
+            52.36294
+          ],
+          [
+            13.12772,
+            52.36302
+          ],
+          [
+            13.12776,
+            52.3631
+          ],
+          [
+            13.1278,
+            52.36319
+          ],
+          [
+            13.12787,
+            52.36336
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.75",
+        "road_id": "7331c1eb-dba8-4899-a30c-8875d33eae78",
+        "output_role": "school_related_road",
+        "source_feature_index": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12975,
+            52.36532
+          ],
+          [
+            13.12974,
+            52.36535
+          ],
+          [
+            13.12973,
+            52.36545
+          ],
+          [
+            13.12971,
+            52.36563
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "23.55",
+        "road_id": "1a72143e-6158-46c4-a507-88d502d9b427",
+        "output_role": "school_related_road",
+        "source_feature_index": 116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13025,
+            52.36335
+          ],
+          [
+            13.13035,
+            52.36336
+          ],
+          [
+            13.13042,
+            52.36339
+          ],
+          [
+            13.13066,
+            52.36354
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Johanna-Just-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.6",
+        "road_id": "38d9cb90-b159-48df-af4b-6b97a440d6fd",
+        "output_role": "school_related_road",
+        "source_feature_index": 118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13022,
+            52.3641
+          ],
+          [
+            13.13024,
+            52.36416
+          ],
+          [
+            13.13026,
+            52.36422
+          ],
+          [
+            13.13053,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Eleonore-Prochaska-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "15.85",
+        "road_id": "df97028a-97b7-4f00-990a-9a088490c88d",
+        "output_role": "school_related_road",
+        "source_feature_index": 122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13338,
+            52.36478
+          ],
+          [
+            13.13345,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "35.35",
+        "road_id": "697444ce-e076-4372-bb3c-14aee1aca867",
+        "output_role": "school_related_road",
+        "source_feature_index": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13039,
+            52.36562
+          ],
+          [
+            13.13161,
+            52.36564
+          ],
+          [
+            13.13291,
+            52.36564
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "39.85",
+        "road_id": "7948aeca-b55f-43be-b8fe-75e49078beef",
+        "output_role": "school_related_road",
+        "source_feature_index": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12838,
+            52.36485
+          ],
+          [
+            13.12844,
+            52.36491
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "30.2",
+        "road_id": "63b5fc14-5cb9-48f6-aded-5d1b9b613a37",
+        "output_role": "school_related_road",
+        "source_feature_index": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12827,
+            52.36474
+          ],
+          [
+            13.12832,
+            52.36479
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "31.2",
+        "road_id": "070e7e79-7ffc-4daf-b1e6-24b75e9bf6fc",
+        "output_role": "school_related_road",
+        "source_feature_index": 149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13242,
+            52.36476
+          ],
+          [
+            13.13338,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "34.95",
+        "road_id": "f57fb3b7-9e89-4831-86c9-ff151ae8fb50",
+        "output_role": "school_related_road",
+        "source_feature_index": 151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12858,
+            52.36506
+          ],
+          [
+            13.12879,
+            52.36528
+          ],
+          [
+            13.12886,
+            52.36535
+          ],
+          [
+            13.12893,
+            52.36541
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Sternstra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "28.7",
+        "road_id": "45f3ee49-67d2-44c3-94f6-c7495544caa2",
+        "output_role": "school_related_road",
+        "source_feature_index": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.12977,
+            52.36528
+          ],
+          [
+            13.12975,
+            52.36532
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "25.55",
+        "road_id": "2b5e2719-53f1-4001-91ca-eaf520300621",
+        "output_role": "school_related_road",
+        "source_feature_index": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1335,
+            52.36565
+          ],
+          [
+            13.1336,
+            52.36566
+          ],
+          [
+            13.13385,
+            52.3657
+          ],
+          [
+            13.13409,
+            52.36577
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Konrad-Wolf-Allee",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "37.75",
+        "road_id": "97e07e3d-7df3-467b-bd14-6392db165f17",
+        "output_role": "school_related_road",
+        "source_feature_index": 156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.13545,
+            52.36452
+          ],
+          [
+            13.13509,
+            52.36473
+          ],
+          [
+            13.13492,
+            52.36478
+          ],
+          [
+            13.1347,
+            52.3648
+          ],
+          [
+            13.13365,
+            52.36478
+          ]
+        ]
+      },
+      "properties": {
+        "feature_type": "road",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "road",
+        "road_name": "Ricarda-Huch-Stra\u00dfe",
+        "travel_direction": "BOTH DIRECTIONS",
+        "average_speed": "",
+        "road_id": "5fca8e81-15ca-466b-b891-9f6e26805bc1",
+        "output_role": "school_related_road",
+        "source_feature_index": 161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.133456,
+          52.36561
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "119",
+        "output_role": "supporting_feature",
+        "source_feature_index": 164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.135344,
+          52.364532
+        ]
+      },
+      "properties": {
+        "feature_type": "schoolzone_speedlimit_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "schoolzone_speedlimit_sign",
+        "speedlimit_gfrgroup": "SpeedLimit2V30",
+        "schoolzone_gfrgroup": "SchoolZone3",
+        "pole_bearing": "161",
+        "output_role": "supporting_feature",
+        "source_feature_index": 165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12796,
+          52.364796
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "52",
+        "output_role": "supporting_feature",
+        "source_feature_index": 166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127878,
+          52.36015
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "302",
+        "output_role": "supporting_feature",
+        "source_feature_index": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.131732,
+          52.364883
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndCalmingZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "149",
+        "output_role": "supporting_feature",
+        "source_feature_index": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127972,
+          52.36464
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "116",
+        "output_role": "supporting_feature",
+        "source_feature_index": 169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130369,
+          52.364693
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "348",
+        "output_role": "supporting_feature",
+        "source_feature_index": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130377,
+          52.36469
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "351",
+        "output_role": "supporting_feature",
+        "source_feature_index": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.130374,
+          52.364693
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit",
+        "supplemental_gfrgroup": "",
+        "bearing": "351",
+        "output_role": "supporting_feature",
+        "source_feature_index": 172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12796,
+          52.364666
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimitZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "108",
+        "output_role": "supporting_feature",
+        "source_feature_index": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.127893,
+          52.368103
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndSpeedLimit2V30",
+        "supplemental_gfrgroup": "",
+        "bearing": "24",
+        "output_role": "supporting_feature",
+        "source_feature_index": 174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.131619,
+          52.36522
+        ]
+      },
+      "properties": {
+        "feature_type": "remaining_speedlimit_end_sign",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "remaining_speedlimit_end_sign",
+        "speedlimit_gfrgroup": "EndCalmingZone",
+        "supplemental_gfrgroup": "",
+        "bearing": "345",
+        "output_role": "supporting_feature",
+        "source_feature_index": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.125,
+              52.36
+            ],
+            [
+              13.136,
+              52.36
+            ],
+            [
+              13.136,
+              52.369
+            ],
+            [
+              13.125,
+              52.369
+            ],
+            [
+              13.125,
+              52.36
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "output_role": "inferred_school_region",
+        "source_feature_index": null,
+        "style_stroke_color": "#FF3B30",
+        "style_stroke_width": 2,
+        "style_fill_color": "#00000000",
+        "style_fill_opacity": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_by": "Gemini via LangChain (local_guy_ai)",
+    "model": "gemini-3-flash-preview",
+    "input_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\data_context\\sample_school_contexts_1.geojson",
+    "output_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\outputs\\local_guy_ai\\school_related_roads_1.geojson",
+    "confidence": 0.95,
+    "school_label": "School at Sternstra\u00dfe",
+    "reasoning": "The school point (index 0) is located at the intersection of Sternstra\u00dfe and an unnamed access road. Multiple road segments from Sternstra\u00dfe, Ricarda-Huch-Stra\u00dfe, Konrad-Wolf-Allee, and Eleonore-Prochaska-Stra\u00dfe were identified as school-related based on their proximity to the school point and the presence of school zone and speed limit signs (indices 164-175) which define the boundaries of the traffic-regulated area.",
+    "notes": [
+      "Sternstra\u00dfe is the primary access road.",
+      "The school zone is well-defined by speed limit and end-of-zone signs.",
+      "The identified roads form a network around the school point."
+    ]
+  }
+}

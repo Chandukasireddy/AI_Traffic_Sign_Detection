@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34367,
+          52.4276
+        ]
+      },
+      "properties": {
+        "feature_type": "school",
+        "sample_index": 0,
+        "suppliers": "School",
+        "source": "school_point",
+        "output_role": "school_point",
+        "source_feature_index": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.343219999999999,
+              52.42715
+            ],
+            [
+              13.34412,
+              52.42715
+            ],
+            [
+              13.34412,
+              52.42805
+            ],
+            [
+              13.343219999999999,
+              52.42805
+            ],
+            [
+              13.343219999999999,
+              52.42715
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "output_role": "inferred_school_region",
+        "source_feature_index": null,
+        "style_stroke_color": "#FF3B30",
+        "style_stroke_width": 2,
+        "style_fill_color": "#00000000",
+        "style_fill_opacity": 0.0
+      }
+    }
+  ],
+  "metadata": {
+    "generated_by": "Gemini via LangChain (local_guy_ai)",
+    "model": "gemini-3-flash-preview",
+    "input_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\data_context\\sample_school_contexts_0.geojson",
+    "output_path": "K:\\Tech\\Hackathon\\Here-Berlin-2026\\Sign_Detection\\outputs\\local_guy_ai\\school_related_roads_0.geojson",
+    "confidence": 0.0,
+    "school_label": "fallback-from-notebook",
+    "reasoning": "Gemini call failed; fallback output generated.",
+    "notes": [
+      "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+    ]
+  }
+}
